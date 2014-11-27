@@ -1,0 +1,7 @@
+*.[oa]
+*.out
+in
+out
+*.swp
+a.out.*/
+*~
