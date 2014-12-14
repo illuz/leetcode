@@ -43,11 +43,11 @@ If there was something wrong in it, you can contact me at **iilluzen** in google
 - 032.Search_in_Rotated_Sorted_Array
 - 033.Search_for_a_Range
 - 034.Search_Insert_Position
-- 035.Valid_Sudoku
-     Because it just checks whether the sudoku is valid, so we can just check the numbers in it only.
-     But if we check if the sudoku has a solution, then we should use other algorithms. Because a sudoku is VALID doesn't mean that it has a solution.
-     To check if it has a solution, we can use **DFS** to check it. But it may take a long time. Because the complexity is O((n*n)!) !
-     The better algorithm is **Dancing Link**.
+- 035.Valid_Sudoku  
+     Because it just checks whether the sudoku is valid, so we can just check the numbers in it only.  
+     But if we check if the sudoku has a solution, then we should use other algorithms. Because a sudoku is VALID doesn't mean that it has a solution.  
+     To check if it has a solution, we can use **DFS** to check it. But it may take a long time. Because the complexity is O((n*n)!) !  
+     The better algorithm is **Dancing Link**.  
 - 036.Sudoku_Solver
 - 037.Count_and_Say
 - 038.Combination_Sum
