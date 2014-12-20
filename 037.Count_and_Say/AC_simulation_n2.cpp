@@ -35,7 +35,7 @@ public:
 			news += count + '0';
 			news += tmpch;
 			pres = news;
-			cout << pres << endl;
+			// cout << pres << endl;
 		}
 		return pres;
 	}
