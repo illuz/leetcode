@@ -28,9 +28,11 @@ public:
 				result += (1<<i);
 			}
 		}
-		if (result > INT_MAX)
-			result = INT_MAX;
-		return sign ? -result : result;
+		if (sign) {
+			return max((ll)INT_MIN, -result);
+		} else {
+			return min((ll)INT_MAX, result);
+		}
     }
 };
 
