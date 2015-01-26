@@ -22,7 +22,7 @@ public:
 			else {
 				--depth;
 				if (depth == 0)
-					max_len = (max_len, i - start);
+					max_len = max(max_len, i - start);
 				else if (depth < 0) {
 					start = i;
 					depth = 0;
@@ -39,7 +39,7 @@ public:
 			else {
 				--depth;
 				if (depth == 0)
-					max_len = (max_len, start - i);
+					max_len = max(max_len, start - i);
 				else if (depth < 0) {
 					start = i;
 					depth = 0;
