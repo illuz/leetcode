@@ -1,10 +1,9 @@
 /*
 *  Author:      illuz <iilluzen[at]gmail.com>
 *  File:        AC_dp_n.cpp
-*  Create Date: 2014-12-25 09:59:38
-*  Descripton:  dp
-*               mark the canjump position and produce new positions
-*               use presum method
+*  Create Date: 2015-01-30 09:46:40
+*  Descripton:  f[i] means the max steps can go at i
+*               f[i] = max(f[i - 1], A[i - 1]) - 1
 */
 
 #include <bits/stdc++.h>
@@ -13,25 +12,17 @@ using namespace std;
 const int N = 0;
 
 class Solution {
-private:
-	int B[1000010];		// cannot create it using new()
 public:
 	bool canJump(int A[], int n) {
-		if (n <= 1)
-			return true;
-		memset(B, 0, sizeof(B));
-		int sum = 1;	// now can go
-		B[1] = -1;		// just can go until position 1
-		for (int i = 0; i < n; i++) {
-			sum += B[i];
-			// if the B's pre-sum > 0 then it can be arrived
-			if (sum <= 0)
+		// vector<int> f(n, 0);
+		int f[2];		// compress to O(1)
+		f[0] = 0;
+		for (int i = 1; i < n; ++i) {
+			f[i&1] = max(f[(i-1)&1], A[i - 1]) - 1;
+			if (f[i&1] < 0)
 				return false;
-			if (i + A[i] < n)
-				B[i + A[i] + 1] -= A[i];
-			sum += A[i];
 		}
-		return true;
+		return f[(n-1)&1] >= 0;
 	}
 };
 
