@@ -2,7 +2,7 @@
 *  Author:      illuz <iilluzen[at]gmail.com>
 *  File:        AC_greedy_n.cpp
 *  Create Date: 2015-01-30 10:11:14
-*  Descripton:   
+*  Descripton:  Loop and go in every step.
 */
 
 #include <bits/stdc++.h>
@@ -16,8 +16,8 @@ public:
 		int reach = 1;
 		int step = 0;
 		for (int i = 0; i < reach && reach < n; ) {
-			int tmp = reach;
-			while (i < tmp) {
+			int farthest = reach;	// the farthest pos prev step can go
+			while (i < farthest) {	// reach as far as possible this step
 				reach = max(reach, i + 1 + A[i]);
 				++i;
 			}
