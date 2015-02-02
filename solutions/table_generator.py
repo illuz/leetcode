@@ -37,7 +37,7 @@ for prb, lan in new_res:
     else:
         link += re.sub('_', '-', prb[4:]) + '/'
 
-    p = '| [' + prb + '](' + link + ') | '
+    p = '| ' + prb[:3] + ' | [' + prb[4:] + '](' + link + ') | '
     if lan != []:
         p += '['
         if 'C++' in lan:
