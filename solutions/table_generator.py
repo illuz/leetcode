@@ -10,10 +10,10 @@ import re
 res = {}
 
 for root, dirs, files in os.walk('.'):
-    # pass . and empty
-    if len(root) < 2 or files == []:
+    # pass .
+    if len(root) < 2:
         continue
-    
+
     res[root[2:]] = []
     for file in files:
         if file[-3:] == 'cpp':
