@@ -26,7 +26,7 @@ I have solved 103 / 185 problems.
 | 002 | [Add_Two_Numbers](https://oj.leetcode.com/problems/Add-Two-Numbers/) | [C++ Java Python](./solutions/002.Add_Two_Numbers) |
 | 003 | [Longest_Substring_Without_Repeating_Characters](https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [C++ Java Python](./solutions/003.Longest_Substring_Without_Repeating_Characters) |
 | 004 | [Median_of_Two_Sorted_Arrays](https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [C++ Java Python](./solutions/004.Median_of_Two_Sorted_Arrays) |
-| 005 | [Longest_Ralindromic_Substring](https://oj.leetcode.com/problems/Longest-Ralindromic-Substring/) | [C++](./solutions/005.Longest_Ralindromic_Substring) |
+| 005 | [Longest_Palindromic_Substring](https://oj.leetcode.com/problems/Longest-Palindromic-Substring/) | [C++](./solutions/005.Longest_Palindromic_Substring) |
 | 006 | [ZigZag_Conversion](https://oj.leetcode.com/problems/ZigZag-Conversion/) | [C++](./solutions/006.ZigZag_Conversion) |
 | 007 | [Reverse_Integer](https://oj.leetcode.com/problems/Reverse-Integer/) | [C++](./solutions/007.Reverse_Integer) |
 | 008 | [String_to_Integer](https://oj.leetcode.com/problems/String-to-Integer/) | [C++](./solutions/008.String_to_Integer) |
@@ -197,13 +197,13 @@ I have solved 103 / 185 problems.
 | 173 | [Binary_Search_Tree_Iterator](https://oj.leetcode.com/problems/Binary-Search-Tree-Iterator/) | - |
 | 174 | [Dungeon_Game](https://oj.leetcode.com/problems/Dungeon-Game/) | - |
 | 175 | [Combine_Two_Tables](https://oj.leetcode.com/problems/Combine-Two-Tables/) | [Sql](./solutions/175.Combine_Two_Tables) |
-| 176 | [Second_Highest_Salary](https://oj.leetcode.com/problems/Second-Highest-Salary/) | - |
+| 176 | [Second_Highest_Salary](https://oj.leetcode.com/problems/Second-Highest-Salary/) | [Sql](./solutions/176.Second_Highest_Salary) |
 | 177 | [Nth_Highest_Salary](https://oj.leetcode.com/problems/Nth-Highest-Salary/) | - |
 | 178 | [Rank_Scores](https://oj.leetcode.com/problems/Rank-Scores/) | - |
 | 179 | [Largest_Number](https://oj.leetcode.com/problems/Largest-Number/) | - |
 | 180 | [Consecutive_Numbers](https://oj.leetcode.com/problems/Consecutive-Numbers/) | - |
 | 181 | [Employees_Earning_More_Than_Their_Managers](https://oj.leetcode.com/problems/Employees-Earning-More-Than-Their-Managers/) | - |
-| 182 | [Duplicate_Emails](https://oj.leetcode.com/problems/Duplicate-Emails/) | - |
+| 182 | [Duplicate_Emails](https://oj.leetcode.com/problems/Duplicate-Emails/) | [Sql](./solutions/182.Duplicate_Emails) |
 | 183 | [Customers_Who_Never_Order](https://oj.leetcode.com/problems/Customers-Who-Never-Order/) | - |
 | 184 | [Department_Highest_Salary](https://oj.leetcode.com/problems/Department-Highest-Salary/) | - |
 | 185 | [Department_Top_Three_Salaries](https://oj.leetcode.com/problems/Department-Top-Three-Salaries/) | - |
