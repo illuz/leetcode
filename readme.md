@@ -18,14 +18,14 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 102 / 185 problems.  
+I have solved 103 / 185 problems.  
 
 | \# | Title | Solutions |
 |----|-------|-----------|
 | 001 | [Two_Sum](https://oj.leetcode.com/problems/Two-Sum/) | [C++ Java Python](./solutions/001.Two_Sum) |
-| 002 | [Add_Two_Numbers](https://oj.leetcode.com/problems/Add-Two-Numbers/) | [C++](./solutions/002.Add_Two_Numbers) |
-| 003 | [Longest_Substring_Without_Repeating_Characters](https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [C++](./solutions/003.Longest_Substring_Without_Repeating_Characters) |
-| 004 | [Median_of_Two_Sorted_Arrays](https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [C++](./solutions/004.Median_of_Two_Sorted_Arrays) |
+| 002 | [Add_Two_Numbers](https://oj.leetcode.com/problems/Add-Two-Numbers/) | [C++ Java Python](./solutions/002.Add_Two_Numbers) |
+| 003 | [Longest_Substring_Without_Repeating_Characters](https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [C++ Java Python](./solutions/003.Longest_Substring_Without_Repeating_Characters) |
+| 004 | [Median_of_Two_Sorted_Arrays](https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [C++ Java Python](./solutions/004.Median_of_Two_Sorted_Arrays) |
 | 005 | [Longest_Ralindromic_Substring](https://oj.leetcode.com/problems/Longest-Ralindromic-Substring/) | [C++](./solutions/005.Longest_Ralindromic_Substring) |
 | 006 | [ZigZag_Conversion](https://oj.leetcode.com/problems/ZigZag-Conversion/) | [C++](./solutions/006.ZigZag_Conversion) |
 | 007 | [Reverse_Integer](https://oj.leetcode.com/problems/Reverse-Integer/) | [C++](./solutions/007.Reverse_Integer) |
@@ -72,8 +72,8 @@ I have solved 102 / 185 problems.
 | 048 | [Rotate_Image](https://oj.leetcode.com/problems/Rotate-Image/) | [C++](./solutions/048.Rotate_Image) |
 | 049 | [Anagrams](https://oj.leetcode.com/problems/Anagrams/) | [C++](./solutions/049.Anagrams) |
 | 050 | [Pow(x,_n)](https://oj.leetcode.com/problems/Powx-n) | [C++](./solutions/050.Pow(x,_n)) |
-| 051 | [N-Queens](https://oj.leetcode.com/problems/N-Queens/) | - |
-| 052 | [N-Queens_II](https://oj.leetcode.com/problems/N-Queens-II/) | - |
+| 051 | [N-Queens](https://oj.leetcode.com/problems/N-Queens/) | [C++ Java Python](./solutions/051.N-Queens) |
+| 052 | [N-Queens_II](https://oj.leetcode.com/problems/N-Queens-II/) | [C++ Java Python](./solutions/052.N-Queens_II) |
 | 053 | [Maximum_Subarray](https://oj.leetcode.com/problems/Maximum-Subarray/) | [C++](./solutions/053.Maximum_Subarray) |
 | 054 | [Spiral_Matrix](https://oj.leetcode.com/problems/Spiral-Matrix/) | [C++](./solutions/054.Spiral_Matrix) |
 | 055 | [Jump_Game](https://oj.leetcode.com/problems/Jump-Game/) | [C++](./solutions/055.Jump_Game) |

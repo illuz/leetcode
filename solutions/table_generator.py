@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # Author:      illuz <iilluzen[at]gmail.com>
 # File:        table_generator.py
 # Create Date: 2015-02-02 11:03:32
