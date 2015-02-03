@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 103 / 185 problems.  
+I have solved 105 / 185 problems.  
 
 | \# | Title | Solutions |
 |----|-------|-----------|
