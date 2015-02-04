@@ -9,12 +9,14 @@ import operator
 import re
 
 res = {}
+solved = 0
+total = 0
 
 for root, dirs, files in os.walk('.'):
     # pass .
     if len(root) < 2:
         continue
-
+    
     res[root[2:]] = []
     for file in files:
         if file[-3:] == 'cpp':
@@ -26,9 +28,19 @@ for root, dirs, files in os.walk('.'):
         elif file[-3:] == 'sql':
             res[root[2:]].append('Sql')
     
+    total += 1
+    if res[root[2:]]:
+        solved += 1
+
 
 # sort and generate
 new_res = sorted(res.items(), key=operator.itemgetter(0))
+
+# table head
+
+print 'I have solved {} / {} problems.=w=  \n'.format(solved, total)
+print '| \# | Title | Solutions |'
+print '|----|-------|-----------|'
 
 for prb, lan in new_res:
     link = 'https://oj.leetcode.com/problems/'

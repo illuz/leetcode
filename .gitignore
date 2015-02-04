@@ -5,3 +5,4 @@ out
 *.swp
 a.out.*/
 *~
+*.bak

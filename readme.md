@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 105 / 185 problems.  
+I have solved 108 / 185 problems.=w=  
 
 | \# | Title | Solutions |
 |----|-------|-----------|
@@ -92,8 +92,8 @@ I have solved 105 / 185 problems.
 | 068 | [Text_Justification](https://oj.leetcode.com/problems/Text-Justification/) | - |
 | 069 | [Sqrt(x)](https://oj.leetcode.com/problems/Sqrt(x)/) | - |
 | 070 | [Climbing_Stairs](https://oj.leetcode.com/problems/Climbing-Stairs/) | [C++](./solutions/070.Climbing_Stairs) |
-| 071 | [Simplify_Path](https://oj.leetcode.com/problems/Simplify-Path/) | - |
-| 072 | [Edit_Distance](https://oj.leetcode.com/problems/Edit-Distance/) | - |
+| 071 | [Simplify_Path](https://oj.leetcode.com/problems/Simplify-Path/) | [C++ Java Python](./solutions/071.Simplify_Path) |
+| 072 | [Edit_Distance](https://oj.leetcode.com/problems/Edit-Distance/) | [C++](./solutions/072.Edit_Distance) |
 | 073 | [Set_Matrix_Zeroes](https://oj.leetcode.com/problems/Set-Matrix-Zeroes/) | [C++](./solutions/073.Set_Matrix_Zeroes) |
 | 074 | [Search_a_2D_Matrix](https://oj.leetcode.com/problems/Search-a-2D-Matrix/) | [C++](./solutions/074.Search_a_2D_Matrix) |
 | 075 | [Sort_Colors](https://oj.leetcode.com/problems/Sort-Colors/) | [C++](./solutions/075.Sort_Colors) |
