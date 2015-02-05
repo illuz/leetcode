@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!/usr/bin/python
 # Author:      illuz <iilluzen[at]gmail.com>
 # File:        table_generator.py
@@ -41,8 +42,8 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 # table head
 
 print 'I have solved {} / {} problems.=w=  \n'.format(solved, total)
-print '| \# | Title | Solutions | Notes |'
-print '|----|-------|-----------|-------|'
+print '| \# | Title | Solutions | Note |'
+print '|----|-------|-----------|------|'
 
 for prb, cont in new_res:
     link = 'https://oj.leetcode.com/problems/'
@@ -65,7 +66,7 @@ for prb, cont in new_res:
             p += 'Sql '
         p = p[:-1] + '](./solutions/' + prb + ') |'
         if 'Notes' in cont:
-            p += ' [Notes](.solutions/' + prb + ') |'
+            p += ' [✓](.solutions/' + prb + ') |'
         else:
             p += ' - |'
     else:
