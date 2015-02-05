@@ -27,6 +27,8 @@ for root, dirs, files in os.walk('.'):
             res[root[2:]].append('Python')
         elif file[-3:] == 'sql':
             res[root[2:]].append('Sql')
+        elif file[-2:] == 'md':
+            res[root[2:]].append('Notes')
     
     total += 1
     if res[root[2:]]:
@@ -39,10 +41,10 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 # table head
 
 print 'I have solved {} / {} problems.=w=  \n'.format(solved, total)
-print '| \# | Title | Solutions |'
-print '|----|-------|-----------|'
+print '| \# | Title | Solutions | Notes |'
+print '|----|-------|-----------|-------|'
 
-for prb, lan in new_res:
+for prb, cont in new_res:
     link = 'https://oj.leetcode.com/problems/'
     # sad that the 050.Pow(x, n) will not available
     if prb[:3] == '050':
@@ -51,18 +53,22 @@ for prb, lan in new_res:
         link += re.sub('_', '-', prb[4:]) + '/'
 
     p = '| ' + prb[:3] + ' | [' + prb[4:] + '](' + link + ') | '
-    if lan != []:
+    if cont != []:
         p += '['
-        if 'C++' in lan:
+        if 'C++' in cont:
             p += 'C++ '
-        if 'Java' in lan:
+        if 'Java' in cont:
             p += 'Java '
-        if 'Python' in lan:
+        if 'Python' in cont:
             p += 'Python '
-        if 'Sql' in lan:
+        if 'Sql' in cont:
             p += 'Sql '
         p = p[:-1] + '](./solutions/' + prb + ') |'
+        if 'Notes' in cont:
+            p += ' [Notes](.solutions/' + prb + ') |'
+        else:
+            p += ' - |'
     else:
-        p += '- |'
+        p += '- | - |'
 
     print p
