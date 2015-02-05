@@ -16,7 +16,7 @@
   
 ---  
   
-** (English Version) **  
+**(English Version)**  
   
 ## 001.Two_Sum (Medium)  
   
