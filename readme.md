@@ -20,10 +20,10 @@ Language: **C++/Java/Python/(Sql)**
 
 I have solved 112 / 185 problems.=w=  
 
-| \# | Title | Solutions | Notes |
+| \# | Title | Solutions | Note |
 |----|-------|-----------|-------|
-| 001 | [Two_Sum](https://oj.leetcode.com/problems/Two-Sum/) | [C++ Java Python](./solutions/001.Two_Sum) | ["heavy_check_mark:](.solutions/001.Two_Sum) |
-| 002 | [Add_Two_Numbers](https://oj.leetcode.com/problems/Add-Two-Numbers/) | [C++ Java Python](./solutions/002.Add_Two_Numbers) | [✓](./solutions/002.Add_Two_Numbers) |
+| 001 | [Two_Sum](https://oj.leetcode.com/problems/Two-Sum/) | [C++ Java Python](./solutions/001.Two_Sum) | [:heavy_check_mark:](.solutions/001.Two_Sum) |
+| 002 | [Add_Two_Numbers](https://oj.leetcode.com/problems/Add-Two-Numbers/) | [C++ Java Python](./solutions/002.Add_Two_Numbers) | - |
 | 003 | [Longest_Substring_Without_Repeating_Characters](https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [C++ Java Python](./solutions/003.Longest_Substring_Without_Repeating_Characters) | - |
 | 004 | [Median_of_Two_Sorted_Arrays](https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [C++ Java Python](./solutions/004.Median_of_Two_Sorted_Arrays) | - |
 | 005 | [Longest_Palindromic_Substring](https://oj.leetcode.com/problems/Longest-Palindromic-Substring/) | [C++](./solutions/005.Longest_Palindromic_Substring) | - |
