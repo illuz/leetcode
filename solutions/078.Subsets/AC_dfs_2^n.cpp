@@ -1,8 +1,8 @@
 /*
 *  Author:      illuz <iilluzen[at]gmail.com>
-*  File:        AC_bits_2^n.cpp
-*  Create Date: 2015-02-07 10:59:11
-*  Descripton:  Use a number's bit to express the usage of set.
+*  File:        AC_dfs_2^n.cpp
+*  Create Date: 2015-02-07 18:59:30
+*  Descripton:  Use dfs.
 */
 
 #include <bits/stdc++.h>
@@ -11,18 +11,26 @@ using namespace std;
 const int N = 0;
 
 class Solution {
+private:
+	void dfs(int dep, vector<int> &S, vector<int> &cur,
+			vector<vector<int> > &res) {
+		if (dep == S.size()) {
+			res.push_back(cur);
+		} else {
+			// not choose
+			dfs(dep + 1, S, cur, res);
+			// choose
+			cur.push_back(S[dep]);
+			dfs(dep + 1, S, cur, res);
+			cur.pop_back();
+		}
+	}
 public:
     vector<vector<int> > subsets(vector<int> &S) {
-		long long upper = 1LL << S.size();
 		vector<vector<int> > res;
+		vector<int> cur;
 		sort(S.begin(), S.end());
-		for (long long i = 0; i < upper; ++i) {
-			vector<int> single;
-			for (int j = 0; j < S.size(); ++j)
-				if ((1LL<<j) & i)
-					single.push_back(S[j]);
-			res.push_back(single);
-		}
+		dfs(0, S, cur, res);
 		return res;
     }
 };
