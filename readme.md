@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 112 / 185 problems.=w=  
+I have solved 114 / 185 problems.=w=  
 
 | \# | Title | Solutions | Note |
 |----|-------|-----------|------|
@@ -71,7 +71,7 @@ I have solved 112 / 185 problems.=w=
 | 047 | [Permutations_II](https://oj.leetcode.com/problems/Permutations-II/) | [C++](./solutions/047.Permutations_II) | - |
 | 048 | [Rotate_Image](https://oj.leetcode.com/problems/Rotate-Image/) | [C++](./solutions/048.Rotate_Image) | - |
 | 049 | [Anagrams](https://oj.leetcode.com/problems/Anagrams/) | [C++](./solutions/049.Anagrams) | - |
-| 050 | [Pow(x,_n)](https://oj.leetcode.com/problems/Powx-n) | [C++](./solutions/050.Pow(x,_n)) | - |
+| 050 | [Pow(x,_n)](https://oj.leetcode.com/problems/Powx-nPow(x,-n)/) | [C++](./solutions/050.Pow(x,_n)) | - |
 | 051 | [N-Queens](https://oj.leetcode.com/problems/N-Queens/) | [C++ Java Python](./solutions/051.N-Queens) | - |
 | 052 | [N-Queens_II](https://oj.leetcode.com/problems/N-Queens-II/) | [C++ Java Python](./solutions/052.N-Queens_II) | - |
 | 053 | [Maximum_Subarray](https://oj.leetcode.com/problems/Maximum-Subarray/) | [C++](./solutions/053.Maximum_Subarray) | - |
@@ -90,7 +90,7 @@ I have solved 112 / 185 problems.=w=
 | 066 | [Plus_One](https://oj.leetcode.com/problems/Plus-One/) | [C++](./solutions/066.Plus_One) | - |
 | 067 | [Add_Binary](https://oj.leetcode.com/problems/Add-Binary/) | [C++](./solutions/067.Add_Binary) | - |
 | 068 | [Text_Justification](https://oj.leetcode.com/problems/Text-Justification/) | - | - |
-| 069 | [Sqrt(x)](https://oj.leetcode.com/problems/Sqrt(x)/) | - | - |
+| 069 | [Sqrt(x)](https://oj.leetcode.com/problems/Sqrtx) | [C++ Java Python](./solutions/069.Sqrt(x)) | - |
 | 070 | [Climbing_Stairs](https://oj.leetcode.com/problems/Climbing-Stairs/) | [C++](./solutions/070.Climbing_Stairs) | - |
 | 071 | [Simplify_Path](https://oj.leetcode.com/problems/Simplify-Path/) | [C++ Java Python](./solutions/071.Simplify_Path) | - |
 | 072 | [Edit_Distance](https://oj.leetcode.com/problems/Edit-Distance/) | [C++](./solutions/072.Edit_Distance) | - |
@@ -99,7 +99,7 @@ I have solved 112 / 185 problems.=w=
 | 075 | [Sort_Colors](https://oj.leetcode.com/problems/Sort-Colors/) | [C++](./solutions/075.Sort_Colors) | - |
 | 076 | [Minimum_Window_Substring](https://oj.leetcode.com/problems/Minimum-Window-Substring/) | - | - |
 | 077 | [Combinations](https://oj.leetcode.com/problems/Combinations/) | [C++](./solutions/077.Combinations) | - |
-| 078 | [Subsets](https://oj.leetcode.com/problems/Subsets/) | - | - |
+| 078 | [Subsets](https://oj.leetcode.com/problems/Subsets/) | [C++](./solutions/078.Subsets) | - |
 | 079 | [Word_Search](https://oj.leetcode.com/problems/Word-Search/) | - | - |
 | 080 | [Remove_Duplicates_from_Sorted_Array_II](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-Array-II/) | [C++](./solutions/080.Remove_Duplicates_from_Sorted_Array_II) | - |
 | 081 | [Search_in_Rotated_Sorted_Array_II](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array-II/) | [C++](./solutions/081.Search_in_Rotated_Sorted_Array_II) | - |
