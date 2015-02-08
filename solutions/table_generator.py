@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#!/usr/bin/python
 # Author:      illuz <iilluzen[at]gmail.com>
 # File:        table_generator.py
 # Create Date: 2015-02-02 11:03:32
@@ -55,15 +54,15 @@ for prb, cont in new_res:
     else:
         link += re.sub('_', '-', prb[4:]) + '/'
 
-    p = '| ' + prb[:3] + ' | [' + prb[4:] + '](' + link + ') | '
+    p = '| ' + prb[:3] + ' | [' + re.sub('_', ' ', prb[4:]) + '](' + link + ') | '
     if cont != []:
         p += '['
         if 'C++' in cont:
-            p += 'C++ '
+            p += 'Cpp '
         if 'Java' in cont:
             p += 'Java '
         if 'Python' in cont:
-            p += 'Python '
+            p += 'Py '
         if 'Sql' in cont:
             p += 'Sql '
         p = p[:-1] + '](./solutions/' + prb + ') |'
