@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 115 / 185 problems.=w=  
+I have solved 117 / 185 problems.=w=  
 
 | \# | Title | Solutions | Note |
 |----|-------|-----------|------|
@@ -100,7 +100,7 @@ I have solved 115 / 185 problems.=w=
 | 076 | [Minimum Window Substring](https://oj.leetcode.com/problems/Minimum-Window-Substring/) | - | - |
 | 077 | [Combinations](https://oj.leetcode.com/problems/Combinations/) | [Cpp](./solutions/077.Combinations) | - |
 | 078 | [Subsets](https://oj.leetcode.com/problems/Subsets/) | [Cpp Java Py](./solutions/078.Subsets) | - |
-| 079 | [Word Search](https://oj.leetcode.com/problems/Word-Search/) | - | - |
+| 079 | [Word Search](https://oj.leetcode.com/problems/Word-Search/) | [Cpp](./solutions/079.Word_Search) | - |
 | 080 | [Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-Array-II/) | [Cpp](./solutions/080.Remove_Duplicates_from_Sorted_Array_II) | - |
 | 081 | [Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array-II/) | [Cpp](./solutions/081.Search_in_Rotated_Sorted_Array_II) | - |
 | 082 | [Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-List-II/) | [Cpp](./solutions/082.Remove_Duplicates_from_Sorted_List_II) | - |
@@ -183,7 +183,7 @@ I have solved 115 / 185 problems.=w=
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/Longest-Substring-with-At-Most-Two-Distinct-Characters/) | - | - |
 | 160 | [Intersection of Two Linked Lists](https://oj.leetcode.com/problems/Intersection-of-Two-Linked-Lists/) | [Cpp](./solutions/160.Intersection_of_Two_Linked_Lists) | - |
 | 161 | [One Edit Distance](https://oj.leetcode.com/problems/One-Edit-Distance/) | - | - |
-| 162 | [Find Peak Element](https://oj.leetcode.com/problems/Find-Peak-Element/) | - | - |
+| 162 | [Find Peak Element](https://oj.leetcode.com/problems/Find-Peak-Element/) | [Cpp Java Py](./solutions/162.Find_Peak_Element) | - |
 | 163 | [Missing Ranges](https://oj.leetcode.com/problems/Missing-Ranges/) | - | - |
 | 164 | [Maximum Gap](https://oj.leetcode.com/problems/Maximum-Gap/) | - | - |
 | 165 | [Compare Version Numbers](https://oj.leetcode.com/problems/Compare-Version-Numbers/) | [Cpp](./solutions/165.Compare_Version_Numbers) | - |
