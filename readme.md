@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 117 / 185 problems.=w=  
+I have solved 119 / 185 problems.=w=  
 
 | \# | Title | Solutions | Note |
 |----|-------|-----------|------|
@@ -110,7 +110,7 @@ I have solved 117 / 185 problems.=w=
 | 086 | [Partition List](https://oj.leetcode.com/problems/Partition-List/) | - | - |
 | 087 | [Scramble String](https://oj.leetcode.com/problems/Scramble-String/) | - | - |
 | 088 | [Merge Sorted Array](https://oj.leetcode.com/problems/Merge-Sorted-Array/) | [Cpp](./solutions/088.Merge_Sorted_Array) | - |
-| 089 | [Gray Code](https://oj.leetcode.com/problems/Gray-Code/) | - | - |
+| 089 | [Gray Code](https://oj.leetcode.com/problems/Gray-Code/) | [Cpp Java Py](./solutions/089.Gray_Code) | - |
 | 090 | [Subsets II](https://oj.leetcode.com/problems/Subsets-II/) | [Cpp Java Py](./solutions/090.Subsets_II) | - |
 | 091 | [Decode Ways](https://oj.leetcode.com/problems/Decode-Ways/) | - | - |
 | 092 | [Reverse Linked List II](https://oj.leetcode.com/problems/Reverse-Linked-List-II/) | [Cpp](./solutions/092.Reverse_Linked_List_II) | - |
@@ -134,7 +134,7 @@ I have solved 117 / 185 problems.=w=
 | 110 | [Balanced Binary Tree](https://oj.leetcode.com/problems/Balanced-Binary-Tree/) | [Cpp](./solutions/110.Balanced_Binary_Tree) | - |
 | 111 | [Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/Minimum-Depth-of-Binary-Tree/) | [Cpp](./solutions/111.Minimum_Depth_of_Binary_Tree) | - |
 | 112 | [Path Sum](https://oj.leetcode.com/problems/Path-Sum/) | [Cpp](./solutions/112.Path_Sum) | - |
-| 113 | [Path Sum II](https://oj.leetcode.com/problems/Path-Sum-II/) | - | - |
+| 113 | [Path Sum II](https://oj.leetcode.com/problems/Path-Sum-II/) | [Cpp Java Py](./solutions/113.Path_Sum_II) | - |
 | 114 | [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/Flatten-Binary-Tree-to-Linked-List/) | - | - |
 | 115 | [Distinct Subsequences](https://oj.leetcode.com/problems/Distinct-Subsequences/) | - | - |
 | 116 | [Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node/) | - | - |
