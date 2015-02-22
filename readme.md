@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 119 / 185 problems.=w=  
+I have solved 121 / 185 problems.=w=  
 
 | \# | Title | Solutions | Note |
 |----|-------|-----------|------|
@@ -137,8 +137,8 @@ I have solved 119 / 185 problems.=w=
 | 113 | [Path Sum II](https://oj.leetcode.com/problems/Path-Sum-II/) | [Cpp Java Py](./solutions/113.Path_Sum_II) | - |
 | 114 | [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/Flatten-Binary-Tree-to-Linked-List/) | - | - |
 | 115 | [Distinct Subsequences](https://oj.leetcode.com/problems/Distinct-Subsequences/) | - | - |
-| 116 | [Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node/) | - | - |
-| 117 | [Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node-II/) | - | - |
+| 116 | [Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node/) | [Cpp Java Py](./solutions/116.Populating_Next_Right_Pointers_in_Each_Node) | - |
+| 117 | [Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node-II/) | [Cpp Java Py](./solutions/117.Populating_Next_Right_Pointers_in_Each_Node_II) | - |
 | 118 | [Pascals Triangle](https://oj.leetcode.com/problems/Pascals-Triangle/) | [Cpp](./solutions/118.Pascals_Triangle) | - |
 | 119 | [Pascal's Triangle II](https://oj.leetcode.com/problems/Pascal's-Triangle-II/) | [Cpp](./solutions/119.Pascal's_Triangle_II) | - |
 | 120 | [Triangle](https://oj.leetcode.com/problems/Triangle/) | - | - |
