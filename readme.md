@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 121 / 185 problems.=w=  
+I have solved 123 / 186 problems.=w=  
 
 | \# | Title | Solutions | Note |
 |----|-------|-----------|------|
@@ -86,7 +86,7 @@ I have solved 121 / 185 problems.=w=
 | 062 | [Unique Paths](https://oj.leetcode.com/problems/Unique-Paths/) | [Cpp](./solutions/062.Unique_Paths) | - |
 | 063 | [Unique Paths II](https://oj.leetcode.com/problems/Unique-Paths-II/) | [Cpp](./solutions/063.Unique_Paths_II) | - |
 | 064 | [Minimum Path Sum](https://oj.leetcode.com/problems/Minimum-Path-Sum/) | [Cpp](./solutions/064.Minimum_Path_Sum) | - |
-| 065 | [Valid Number](https://oj.leetcode.com/problems/Valid-Number/) | - | - |
+| 065 | [Valid Number](https://oj.leetcode.com/problems/Valid-Number/) | [Cpp Java Py](./solutions/065.Valid_Number) | - |
 | 066 | [Plus One](https://oj.leetcode.com/problems/Plus-One/) | [Cpp](./solutions/066.Plus_One) | - |
 | 067 | [Add Binary](https://oj.leetcode.com/problems/Add-Binary/) | [Cpp](./solutions/067.Add_Binary) | - |
 | 068 | [Text Justification](https://oj.leetcode.com/problems/Text-Justification/) | - | - |
@@ -207,3 +207,4 @@ I have solved 121 / 185 problems.=w=
 | 183 | [Customers Who Never Order](https://oj.leetcode.com/problems/Customers-Who-Never-Order/) | - | - |
 | 184 | [Department Highest Salary](https://oj.leetcode.com/problems/Department-Highest-Salary/) | - | - |
 | 185 | [Department Top Three Salaries](https://oj.leetcode.com/problems/Department-Top-Three-Salaries/) | - | - |
+| 187 | [Repeated DNA Sequences](https://oj.leetcode.com/problems/Repeated-DNA-Sequences/) | [Cpp](./solutions/187.Repeated_DNA_Sequences) | - |
