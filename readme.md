@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 123 / 186 problems.=w=  
+I have solved 124 / 189 problems.=w=  
 
 | \# | Title | Solutions | Note |
 |----|-------|-----------|------|
@@ -141,7 +141,7 @@ I have solved 123 / 186 problems.=w=
 | 117 | [Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node-II/) | [Cpp Java Py](./solutions/117.Populating_Next_Right_Pointers_in_Each_Node_II) | - |
 | 118 | [Pascals Triangle](https://oj.leetcode.com/problems/Pascals-Triangle/) | [Cpp](./solutions/118.Pascals_Triangle) | - |
 | 119 | [Pascal's Triangle II](https://oj.leetcode.com/problems/Pascal's-Triangle-II/) | [Cpp](./solutions/119.Pascal's_Triangle_II) | - |
-| 120 | [Triangle](https://oj.leetcode.com/problems/Triangle/) | - | - |
+| 120 | [Triangle](https://oj.leetcode.com/problems/Triangle/) | [Cpp Java Py](./solutions/120.Triangle) | - |
 | 121 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock/) | - | - |
 | 122 | [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | - | - |
 | 123 | [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-III/) | - | - |
@@ -207,4 +207,7 @@ I have solved 123 / 186 problems.=w=
 | 183 | [Customers Who Never Order](https://oj.leetcode.com/problems/Customers-Who-Never-Order/) | - | - |
 | 184 | [Department Highest Salary](https://oj.leetcode.com/problems/Department-Highest-Salary/) | - | - |
 | 185 | [Department Top Three Salaries](https://oj.leetcode.com/problems/Department-Top-Three-Salaries/) | - | - |
-| 187 | [Repeated DNA Sequences](https://oj.leetcode.com/problems/Repeated-DNA-Sequences/) | [Cpp](./solutions/187.Repeated_DNA_Sequences) | - |
+| 186 | [Reverse Words in a String II](https://oj.leetcode.com/problems/Reverse-Words-in-a-String-II/) | - | - |
+| 187 | [Repeated DNA Sequences](https://oj.leetcode.com/problems/Repeated-DNA-Sequences/) | [Cpp Java Py](./solutions/187.Repeated_DNA_Sequences) | - |
+| 188 | [Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | - | - |
+| 189 | [Rotate Array](https://oj.leetcode.com/problems/Rotate-Array/) | - | - |
