@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 124 / 189 problems.=w=  
+I have solved 127 / 189 problems.=w=  
 
 | \# | Title | Solutions | Note |
 |----|-------|-----------|------|
@@ -107,12 +107,12 @@ I have solved 124 / 189 problems.=w=
 | 083 | [Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-List/) | [Cpp](./solutions/083.Remove_Duplicates_from_Sorted_List) | - |
 | 084 | [Largest Rectangle in Histogram](https://oj.leetcode.com/problems/Largest-Rectangle-in-Histogram/) | - | - |
 | 085 | [Maximal Rectangle](https://oj.leetcode.com/problems/Maximal-Rectangle/) | - | - |
-| 086 | [Partition List](https://oj.leetcode.com/problems/Partition-List/) | - | - |
+| 086 | [Partition List](https://oj.leetcode.com/problems/Partition-List/) | [Cpp Java Py](./solutions/086.Partition_List) | - |
 | 087 | [Scramble String](https://oj.leetcode.com/problems/Scramble-String/) | - | - |
 | 088 | [Merge Sorted Array](https://oj.leetcode.com/problems/Merge-Sorted-Array/) | [Cpp](./solutions/088.Merge_Sorted_Array) | - |
 | 089 | [Gray Code](https://oj.leetcode.com/problems/Gray-Code/) | [Cpp Java Py](./solutions/089.Gray_Code) | - |
 | 090 | [Subsets II](https://oj.leetcode.com/problems/Subsets-II/) | [Cpp Java Py](./solutions/090.Subsets_II) | - |
-| 091 | [Decode Ways](https://oj.leetcode.com/problems/Decode-Ways/) | - | - |
+| 091 | [Decode Ways](https://oj.leetcode.com/problems/Decode-Ways/) | [Cpp Java Py](./solutions/091.Decode_Ways) | - |
 | 092 | [Reverse Linked List II](https://oj.leetcode.com/problems/Reverse-Linked-List-II/) | [Cpp](./solutions/092.Reverse_Linked_List_II) | - |
 | 093 | [Restore IP Addresses](https://oj.leetcode.com/problems/Restore-IP-Addresses/) | - | - |
 | 094 | [Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/Binary-Tree-Inorder-Traversal/) | [Cpp](./solutions/094.Binary_Tree_Inorder_Traversal) | - |
@@ -200,7 +200,7 @@ I have solved 124 / 189 problems.=w=
 | 176 | [Second Highest Salary](https://oj.leetcode.com/problems/Second-Highest-Salary/) | [Sql](./solutions/176.Second_Highest_Salary) | - |
 | 177 | [Nth Highest Salary](https://oj.leetcode.com/problems/Nth-Highest-Salary/) | - | - |
 | 178 | [Rank Scores](https://oj.leetcode.com/problems/Rank-Scores/) | - | - |
-| 179 | [Largest Number](https://oj.leetcode.com/problems/Largest-Number/) | - | - |
+| 179 | [Largest Number](https://oj.leetcode.com/problems/Largest-Number/) | [Cpp Java Py](./solutions/179.Largest_Number) | - |
 | 180 | [Consecutive Numbers](https://oj.leetcode.com/problems/Consecutive-Numbers/) | - | - |
 | 181 | [Employees Earning More Than Their Managers](https://oj.leetcode.com/problems/Employees-Earning-More-Than-Their-Managers/) | - | - |
 | 182 | [Duplicate Emails](https://oj.leetcode.com/problems/Duplicate-Emails/) | [Sql](./solutions/182.Duplicate_Emails) | - |
