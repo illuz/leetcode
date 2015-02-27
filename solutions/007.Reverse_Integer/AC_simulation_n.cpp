@@ -21,8 +21,6 @@ public:
 				return 0;
 			tmp /= 10;
 		}
-		if (ret > INT_MAX)
-			return 0;
 		if (x > 0)
 			return (int)ret;
 		else
