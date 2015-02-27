@@ -41,8 +41,8 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 # table head
 
 print 'I have solved {} / {} problems.=w=  \n'.format(solved, total)
-print '| \# | Title | Solutions | Note |'
-print '|----|-------|-----------|------|'
+print '| \# | Link to leetcode | Solutions | Note |'
+print '|----|------------------|-----------|------|'
 
 for prb, cont in new_res:
     link = 'https://oj.leetcode.com/problems/'

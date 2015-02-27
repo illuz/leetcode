@@ -20,16 +20,16 @@ Language: **C++/Java/Python/(Sql)**
 
 I have solved 127 / 189 problems.=w=  
 
-| \# | Title | Solutions | Note |
-|----|-------|-----------|------|
+| \# | Link to leetcode | Solutions | Note |
+|----|------------------|-----------|------|
 | 001 | [Two Sum](https://oj.leetcode.com/problems/Two-Sum/) | [Cpp Java Py](./solutions/001.Two_Sum) | [✓](./solutions/001.Two_Sum) |
 | 002 | [Add Two Numbers](https://oj.leetcode.com/problems/Add-Two-Numbers/) | [Cpp Java Py](./solutions/002.Add_Two_Numbers) | [✓](./solutions/002.Add_Two_Numbers) |
 | 003 | [Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [Cpp Java Py](./solutions/003.Longest_Substring_Without_Repeating_Characters) | [✓](./solutions/003.Longest_Substring_Without_Repeating_Characters) |
 | 004 | [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [Cpp Java Py](./solutions/004.Median_of_Two_Sorted_Arrays) | [✓](./solutions/004.Median_of_Two_Sorted_Arrays) |
-| 005 | [Longest Palindromic Substring](https://oj.leetcode.com/problems/Longest-Palindromic-Substring/) | [Cpp](./solutions/005.Longest_Palindromic_Substring) | - |
-| 006 | [ZigZag Conversion](https://oj.leetcode.com/problems/ZigZag-Conversion/) | [Cpp](./solutions/006.ZigZag_Conversion) | - |
-| 007 | [Reverse Integer](https://oj.leetcode.com/problems/Reverse-Integer/) | [Cpp](./solutions/007.Reverse_Integer) | - |
-| 008 | [String to Integer](https://oj.leetcode.com/problems/String-to-Integer/) | [Cpp](./solutions/008.String_to_Integer) | - |
+| 005 | [Longest Palindromic Substring](https://oj.leetcode.com/problems/Longest-Palindromic-Substring/) | [Cpp Java Py](./solutions/005.Longest_Palindromic_Substring) | [✓](./solutions/005.Longest_Palindromic_Substring) |
+| 006 | [ZigZag Conversion](https://oj.leetcode.com/problems/ZigZag-Conversion/) | [Cpp Java Py](./solutions/006.ZigZag_Conversion) | [✓](./solutions/006.ZigZag_Conversion) |
+| 007 | [Reverse Integer](https://oj.leetcode.com/problems/Reverse-Integer/) | [Cpp Java Py](./solutions/007.Reverse_Integer) | [✓](./solutions/007.Reverse_Integer) |
+| 008 | [String to Integer](https://oj.leetcode.com/problems/String-to-Integer/) | [Cpp Java Py](./solutions/008.String_to_Integer) | [✓](./solutions/008.String_to_Integer) |
 | 009 | [Palindrome Number](https://oj.leetcode.com/problems/Palindrome-Number/) | [Cpp](./solutions/009.Palindrome_Number) | - |
 | 010 | [Regular Expression Matching](https://oj.leetcode.com/problems/Regular-Expression-Matching/) | [Cpp](./solutions/010.Regular_Expression_Matching) | - |
 | 011 | [Container With Most Water](https://oj.leetcode.com/problems/Container-With-Most-Water/) | [Cpp](./solutions/011.Container_With_Most_Water) | - |
