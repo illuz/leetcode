@@ -16,3 +16,4 @@
 3. 用[Manacher's ALGORITHM](http://blog.csdn.net/hcbbt/article/details/18952129)可达到 O(n) 时间。  
 
 本题要用第三种算法。  
+需要注意的是， Python 和 Java 的字符串和 C++ 的不一样，没有 `\0` 结尾，用'Manacher's ALGORITHM'的时候是不一样的。
