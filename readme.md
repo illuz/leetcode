@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 127 / 189 problems.=w=  
+I have solved 128 / 189 problems.=w=  
 
 | \# | Link to leetcode | Solutions | Note |
 |----|------------------|-----------|------|
@@ -30,8 +30,8 @@ I have solved 127 / 189 problems.=w=
 | 006 | [ZigZag Conversion](https://oj.leetcode.com/problems/ZigZag-Conversion/) | [Cpp Java Py](./solutions/006.ZigZag_Conversion) | [✓](./solutions/006.ZigZag_Conversion) |
 | 007 | [Reverse Integer](https://oj.leetcode.com/problems/Reverse-Integer/) | [Cpp Java Py](./solutions/007.Reverse_Integer) | [✓](./solutions/007.Reverse_Integer) |
 | 008 | [String to Integer](https://oj.leetcode.com/problems/String-to-Integer/) | [Cpp Java Py](./solutions/008.String_to_Integer) | [✓](./solutions/008.String_to_Integer) |
-| 009 | [Palindrome Number](https://oj.leetcode.com/problems/Palindrome-Number/) | [Cpp](./solutions/009.Palindrome_Number) | - |
-| 010 | [Regular Expression Matching](https://oj.leetcode.com/problems/Regular-Expression-Matching/) | [Cpp](./solutions/010.Regular_Expression_Matching) | - |
+| 009 | [Palindrome Number](https://oj.leetcode.com/problems/Palindrome-Number/) | [Cpp Java Py](./solutions/009.Palindrome_Number) | [✓](./solutions/009.Palindrome_Number) |
+| 010 | [Regular Expression Matching](https://oj.leetcode.com/problems/Regular-Expression-Matching/) | [Cpp Py](./solutions/010.Regular_Expression_Matching) | - |
 | 011 | [Container With Most Water](https://oj.leetcode.com/problems/Container-With-Most-Water/) | [Cpp](./solutions/011.Container_With_Most_Water) | - |
 | 012 | [Integer to Roman](https://oj.leetcode.com/problems/Integer-to-Roman/) | [Cpp](./solutions/012.Integer_to_Roman) | - |
 | 013 | [Roman to Integer](https://oj.leetcode.com/problems/Roman-to-Integer/) | [Cpp](./solutions/013.Roman_to_Integer) | - |
@@ -114,7 +114,7 @@ I have solved 127 / 189 problems.=w=
 | 090 | [Subsets II](https://oj.leetcode.com/problems/Subsets-II/) | [Cpp Java Py](./solutions/090.Subsets_II) | - |
 | 091 | [Decode Ways](https://oj.leetcode.com/problems/Decode-Ways/) | [Cpp Java Py](./solutions/091.Decode_Ways) | - |
 | 092 | [Reverse Linked List II](https://oj.leetcode.com/problems/Reverse-Linked-List-II/) | [Cpp](./solutions/092.Reverse_Linked_List_II) | - |
-| 093 | [Restore IP Addresses](https://oj.leetcode.com/problems/Restore-IP-Addresses/) | - | - |
+| 093 | [Restore IP Addresses](https://oj.leetcode.com/problems/Restore-IP-Addresses/) | [Cpp Java Py](./solutions/093.Restore_IP_Addresses) | [✓](./solutions/093.Restore_IP_Addresses) |
 | 094 | [Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/Binary-Tree-Inorder-Traversal/) | [Cpp](./solutions/094.Binary_Tree_Inorder_Traversal) | - |
 | 095 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees/) | [Cpp](./solutions/095.Unique_Binary_Search_Trees) | - |
 | 096 | [Unique Binary Search Trees II](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees-II/) | - | - |
