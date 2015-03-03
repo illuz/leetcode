@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 128 / 189 problems.=w=  
+I have solved 129 / 189 problems.=w=  
 
 | \# | Link to leetcode | Solutions | Note |
 |----|------------------|-----------|------|
@@ -35,9 +35,9 @@ I have solved 128 / 189 problems.=w=
 | 011 | [Container With Most Water](https://oj.leetcode.com/problems/Container-With-Most-Water/) | [Cpp Java Py](./solutions/011.Container_With_Most_Water) | [✓](./solutions/011.Container_With_Most_Water) |
 | 012 | [Integer to Roman](https://oj.leetcode.com/problems/Integer-to-Roman/) | [Cpp Java Py](./solutions/012.Integer_to_Roman) | [✓](./solutions/012.Integer_to_Roman) |
 | 013 | [Roman to Integer](https://oj.leetcode.com/problems/Roman-to-Integer/) | [Cpp Java Py](./solutions/013.Roman_to_Integer) | [✓](./solutions/013.Roman_to_Integer) |
-| 014 | [Longest Common Prefix](https://oj.leetcode.com/problems/Longest-Common-Prefix/) | [Cpp](./solutions/014.Longest_Common_Prefix) | - |
-| 015 | [3Sum](https://oj.leetcode.com/problems/3Sum/) | [Cpp](./solutions/015.3Sum) | - |
-| 016 | [3Sum Closest](https://oj.leetcode.com/problems/3Sum-Closest/) | [Cpp](./solutions/016.3Sum_Closest) | - |
+| 014 | [Longest Common Prefix](https://oj.leetcode.com/problems/Longest-Common-Prefix/) | [Cpp Java Py](./solutions/014.Longest_Common_Prefix) | [✓](./solutions/014.Longest_Common_Prefix) |
+| 015 | [3Sum](https://oj.leetcode.com/problems/3Sum/) | [Cpp Java Py](./solutions/015.3Sum) | [✓](./solutions/015.3Sum) |
+| 016 | [3Sum Closest](https://oj.leetcode.com/problems/3Sum-Closest/) | [Cpp Java Py](./solutions/016.3Sum_Closest) | [✓](./solutions/016.3Sum_Closest) |
 | 017 | [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/Letter-Combinations-of-a-Phone-Number/) | [Cpp](./solutions/017.Letter_Combinations_of_a_Phone_Number) | - |
 | 018 | [4Sum](https://oj.leetcode.com/problems/4Sum/) | [Cpp](./solutions/018.4Sum) | - |
 | 019 | [Remove Nth Node From End of List](https://oj.leetcode.com/problems/Remove-Nth-Node-From-End-of-List/) | [Cpp](./solutions/019.Remove_Nth_Node_From_End_of_List) | - |
@@ -119,7 +119,7 @@ I have solved 128 / 189 problems.=w=
 | 095 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees/) | [Cpp](./solutions/095.Unique_Binary_Search_Trees) | - |
 | 096 | [Unique Binary Search Trees II](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees-II/) | - | - |
 | 097 | [Interleaving String](https://oj.leetcode.com/problems/Interleaving-String/) | - | - |
-| 098 | [Validate Binary Search Tree](https://oj.leetcode.com/problems/Validate-Binary-Search-Tree/) | - | - |
+| 098 | [Validate Binary Search Tree](https://oj.leetcode.com/problems/Validate-Binary-Search-Tree/) | [Cpp Java Py](./solutions/098.Validate_Binary_Search_Tree) | [✓](./solutions/098.Validate_Binary_Search_Tree) |
 | 099 | [Recover Binary Search Tree](https://oj.leetcode.com/problems/Recover-Binary-Search-Tree/) | - | - |
 | 100 | [Same Tree](https://oj.leetcode.com/problems/Same-Tree/) | [Cpp](./solutions/100.Same_Tree) | - |
 | 101 | [Symmetric Tree](https://oj.leetcode.com/problems/Symmetric-Tree/) | [Cpp](./solutions/101.Symmetric_Tree) | - |
