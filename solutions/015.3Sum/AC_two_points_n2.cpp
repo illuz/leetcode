@@ -36,13 +36,14 @@ public:
 					ret.push_back({ num[i], num[j], num[k] });
 					++j;
 					--k;
+					// folowing 3 while can avoid the duplications
 					while (j < k && num[j] == num[j - 1])
 						++j;
 					while (j < k && num[k] == num[k + 1])
 						--k;
 				}
 			}
-			while (i < len && num[i] == num[i + 1])
+			while (i <= len - 3 && num[i] == num[i + 1])
 				++i;
 		}
 
