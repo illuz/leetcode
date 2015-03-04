@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 129 / 189 problems.=w=  
+I have solved 130 / 189 problems.=w=  
 
 | \# | Link to leetcode | Solutions | Note |
 |----|------------------|-----------|------|
@@ -38,11 +38,11 @@ I have solved 129 / 189 problems.=w=
 | 014 | [Longest Common Prefix](https://oj.leetcode.com/problems/Longest-Common-Prefix/) | [Cpp Java Py](./solutions/014.Longest_Common_Prefix) | [✓](./solutions/014.Longest_Common_Prefix) |
 | 015 | [3Sum](https://oj.leetcode.com/problems/3Sum/) | [Cpp Java Py](./solutions/015.3Sum) | [✓](./solutions/015.3Sum) |
 | 016 | [3Sum Closest](https://oj.leetcode.com/problems/3Sum-Closest/) | [Cpp Java Py](./solutions/016.3Sum_Closest) | [✓](./solutions/016.3Sum_Closest) |
-| 017 | [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/Letter-Combinations-of-a-Phone-Number/) | [Cpp](./solutions/017.Letter_Combinations_of_a_Phone_Number) | - |
-| 018 | [4Sum](https://oj.leetcode.com/problems/4Sum/) | [Cpp](./solutions/018.4Sum) | - |
-| 019 | [Remove Nth Node From End of List](https://oj.leetcode.com/problems/Remove-Nth-Node-From-End-of-List/) | [Cpp](./solutions/019.Remove_Nth_Node_From_End_of_List) | - |
-| 020 | [Valid Parentheses](https://oj.leetcode.com/problems/Valid-Parentheses/) | [Cpp](./solutions/020.Valid_Parentheses) | - |
-| 021 | [Merge Two Sorted Lists](https://oj.leetcode.com/problems/Merge-Two-Sorted-Lists/) | [Cpp](./solutions/021.Merge_Two_Sorted_Lists) | - |
+| 017 | [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/Letter-Combinations-of-a-Phone-Number/) | [Cpp Java Py](./solutions/017.Letter_Combinations_of_a_Phone_Number) | [✓](./solutions/017.Letter_Combinations_of_a_Phone_Number) |
+| 018 | [4Sum](https://oj.leetcode.com/problems/4Sum/) | [Cpp Java Py](./solutions/018.4Sum) | [✓](./solutions/018.4Sum) |
+| 019 | [Remove Nth Node From End of List](https://oj.leetcode.com/problems/Remove-Nth-Node-From-End-of-List/) | [Cpp Py](./solutions/019.Remove_Nth_Node_From_End_of_List) | [✓](./solutions/019.Remove_Nth_Node_From_End_of_List) |
+| 020 | [Valid Parentheses](https://oj.leetcode.com/problems/Valid-Parentheses/) | [Cpp Java Py](./solutions/020.Valid_Parentheses) | [✓](./solutions/020.Valid_Parentheses) |
+| 021 | [Merge Two Sorted Lists](https://oj.leetcode.com/problems/Merge-Two-Sorted-Lists/) | [Cpp Py](./solutions/021.Merge_Two_Sorted_Lists) | [✓](./solutions/021.Merge_Two_Sorted_Lists) |
 | 022 | [Generate Parentheses](https://oj.leetcode.com/problems/Generate-Parentheses/) | [Cpp](./solutions/022.Generate_Parentheses) | - |
 | 023 | [Merge k Sorted Lists](https://oj.leetcode.com/problems/Merge-k-Sorted-Lists/) | [Cpp](./solutions/023.Merge_k_Sorted_Lists) | - |
 | 024 | [Swap Nodes in Pairs](https://oj.leetcode.com/problems/Swap-Nodes-in-Pairs/) | [Cpp](./solutions/024.Swap_Nodes_in_Pairs) | - |
@@ -89,7 +89,7 @@ I have solved 129 / 189 problems.=w=
 | 065 | [Valid Number](https://oj.leetcode.com/problems/Valid-Number/) | [Cpp Java Py](./solutions/065.Valid_Number) | - |
 | 066 | [Plus One](https://oj.leetcode.com/problems/Plus-One/) | [Cpp](./solutions/066.Plus_One) | - |
 | 067 | [Add Binary](https://oj.leetcode.com/problems/Add-Binary/) | [Cpp](./solutions/067.Add_Binary) | - |
-| 068 | [Text Justification](https://oj.leetcode.com/problems/Text-Justification/) | - | - |
+| 068 | [Text Justification](https://oj.leetcode.com/problems/Text-Justification/) | [Cpp Java Py](./solutions/068.Text_Justification) | [✓](./solutions/068.Text_Justification) |
 | 069 | [Sqrt(x)](https://oj.leetcode.com/problems/Sqrtx) | [Cpp Java Py](./solutions/069.Sqrt(x)) | - |
 | 070 | [Climbing Stairs](https://oj.leetcode.com/problems/Climbing-Stairs/) | [Cpp](./solutions/070.Climbing_Stairs) | - |
 | 071 | [Simplify Path](https://oj.leetcode.com/problems/Simplify-Path/) | [Cpp Java Py](./solutions/071.Simplify_Path) | - |
