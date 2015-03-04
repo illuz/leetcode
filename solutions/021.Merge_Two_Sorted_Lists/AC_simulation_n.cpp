@@ -25,30 +25,30 @@ public:
 		if (l2 == NULL)
 			return l1;
 
-		ListNode *start, *p1;
+		ListNode *start, *cur;
 
 		if (l1->val < l2->val) {
-			p1 = start = l1;
+			cur = start = l1;
 			l1 = l1->next;
 		} else {
-			p1 = start = l2;
+			cur = start = l2;
 			l2 = l2->next;
 		}
 		while (l1 != NULL && l2 != NULL) {
 			if (l1->val < l2->val) {
-				p1->next = l1;
-				p1 = l1;
+				cur->next = l1;
+				cur = l1;
 				l1 = l1->next;
 			} else {
-				p1->next = l2;
-				p1 = l2;
+				cur->next = l2;
+				cur = l2;
 				l2 = l2->next;
 			}
 		}
 		if (l1 != NULL)
-			p1->next = l1;
+			cur->next = l1;
 		else
-			p1->next = l2;
+			cur->next = l2;
 		return start;
     }
 };
