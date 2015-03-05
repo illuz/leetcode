@@ -43,11 +43,11 @@ I have solved 130 / 189 problems.=w=
 | 019 | [Remove Nth Node From End of List](https://oj.leetcode.com/problems/Remove-Nth-Node-From-End-of-List/) | [Cpp Py](./solutions/019.Remove_Nth_Node_From_End_of_List) | [✓](./solutions/019.Remove_Nth_Node_From_End_of_List) |
 | 020 | [Valid Parentheses](https://oj.leetcode.com/problems/Valid-Parentheses/) | [Cpp Java Py](./solutions/020.Valid_Parentheses) | [✓](./solutions/020.Valid_Parentheses) |
 | 021 | [Merge Two Sorted Lists](https://oj.leetcode.com/problems/Merge-Two-Sorted-Lists/) | [Cpp Py](./solutions/021.Merge_Two_Sorted_Lists) | [✓](./solutions/021.Merge_Two_Sorted_Lists) |
-| 022 | [Generate Parentheses](https://oj.leetcode.com/problems/Generate-Parentheses/) | [Cpp](./solutions/022.Generate_Parentheses) | - |
-| 023 | [Merge k Sorted Lists](https://oj.leetcode.com/problems/Merge-k-Sorted-Lists/) | [Cpp](./solutions/023.Merge_k_Sorted_Lists) | - |
-| 024 | [Swap Nodes in Pairs](https://oj.leetcode.com/problems/Swap-Nodes-in-Pairs/) | [Cpp](./solutions/024.Swap_Nodes_in_Pairs) | - |
-| 025 | [Reverse Nodes in k-Group](https://oj.leetcode.com/problems/Reverse-Nodes-in-k-Group/) | [Cpp](./solutions/025.Reverse_Nodes_in_k-Group) | - |
-| 026 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-Array/) | [Cpp](./solutions/026.Remove_Duplicates_from_Sorted_Array) | - |
+| 022 | [Generate Parentheses](https://oj.leetcode.com/problems/Generate-Parentheses/) | [Cpp Java Py](./solutions/022.Generate_Parentheses) | [✓](./solutions/022.Generate_Parentheses) |
+| 023 | [Merge k Sorted Lists](https://oj.leetcode.com/problems/Merge-k-Sorted-Lists/) | [Cpp Java Py](./solutions/023.Merge_k_Sorted_Lists) | [✓](./solutions/023.Merge_k_Sorted_Lists) |
+| 024 | [Swap Nodes in Pairs](https://oj.leetcode.com/problems/Swap-Nodes-in-Pairs/) | [Cpp Py](./solutions/024.Swap_Nodes_in_Pairs) | [✓](./solutions/024.Swap_Nodes_in_Pairs) |
+| 025 | [Reverse Nodes in k-Group](https://oj.leetcode.com/problems/Reverse-Nodes-in-k-Group/) | [Cpp Java](./solutions/025.Reverse_Nodes_in_k-Group) | [✓](./solutions/025.Reverse_Nodes_in_k-Group) |
+| 026 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-Array/) | [Cpp](./solutions/026.Remove_Duplicates_from_Sorted_Array) | [✓](./solutions/026.Remove_Duplicates_from_Sorted_Array) |
 | 027 | [Remove Element](https://oj.leetcode.com/problems/Remove-Element/) | [Cpp](./solutions/027.Remove_Element) | - |
 | 028 | [Implement strStr()](https://oj.leetcode.com/problems/Implement-strStr()/) | [Cpp](./solutions/028.Implement_strStr()) | - |
 | 029 | [Divide Two Integers](https://oj.leetcode.com/problems/Divide-Two-Integers/) | [Cpp](./solutions/029.Divide_Two_Integers) | - |
