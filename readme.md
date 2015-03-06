@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 130 / 189 problems.=w=  
+I have solved 131 / 189 problems.=w=  
 
 | \# | Link to leetcode | Solutions | Note |
 |----|------------------|-----------|------|
@@ -48,9 +48,9 @@ I have solved 130 / 189 problems.=w=
 | 024 | [Swap Nodes in Pairs](https://oj.leetcode.com/problems/Swap-Nodes-in-Pairs/) | [Cpp Py](./solutions/024.Swap_Nodes_in_Pairs) | [✓](./solutions/024.Swap_Nodes_in_Pairs) |
 | 025 | [Reverse Nodes in k-Group](https://oj.leetcode.com/problems/Reverse-Nodes-in-k-Group/) | [Cpp Java](./solutions/025.Reverse_Nodes_in_k-Group) | [✓](./solutions/025.Reverse_Nodes_in_k-Group) |
 | 026 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-Array/) | [Cpp](./solutions/026.Remove_Duplicates_from_Sorted_Array) | [✓](./solutions/026.Remove_Duplicates_from_Sorted_Array) |
-| 027 | [Remove Element](https://oj.leetcode.com/problems/Remove-Element/) | [Cpp](./solutions/027.Remove_Element) | - |
-| 028 | [Implement strStr()](https://oj.leetcode.com/problems/Implement-strStr()/) | [Cpp](./solutions/028.Implement_strStr()) | - |
-| 029 | [Divide Two Integers](https://oj.leetcode.com/problems/Divide-Two-Integers/) | [Cpp](./solutions/029.Divide_Two_Integers) | - |
+| 027 | [Remove Element](https://oj.leetcode.com/problems/Remove-Element/) | [Cpp](./solutions/027.Remove_Element) | [✓](./solutions/027.Remove_Element) |
+| 028 | [Implement strStr()](https://oj.leetcode.com/problems/Implement-strStr()/) | [Cpp Py](./solutions/028.Implement_strStr()) | [✓](./solutions/028.Implement_strStr()) |
+| 029 | [Divide Two Integers](https://oj.leetcode.com/problems/Divide-Two-Integers/) | [Cpp Py](./solutions/029.Divide_Two_Integers) | [✓](./solutions/029.Divide_Two_Integers) |
 | 030 | [Substring with Concatenation of All Words](https://oj.leetcode.com/problems/Substring-with-Concatenation-of-All-Words/) | [Cpp](./solutions/030.Substring_with_Concatenation_of_All_Words) | - |
 | 031 | [Next Permutation](https://oj.leetcode.com/problems/Next-Permutation/) | [Cpp](./solutions/031.Next_Permutation) | - |
 | 032 | [Longest Valid Parentheses](https://oj.leetcode.com/problems/Longest-Valid-Parentheses/) | [Cpp](./solutions/032.Longest_Valid_Parentheses) | - |
@@ -97,7 +97,7 @@ I have solved 130 / 189 problems.=w=
 | 073 | [Set Matrix Zeroes](https://oj.leetcode.com/problems/Set-Matrix-Zeroes/) | [Cpp](./solutions/073.Set_Matrix_Zeroes) | - |
 | 074 | [Search a 2D Matrix](https://oj.leetcode.com/problems/Search-a-2D-Matrix/) | [Cpp](./solutions/074.Search_a_2D_Matrix) | - |
 | 075 | [Sort Colors](https://oj.leetcode.com/problems/Sort-Colors/) | [Cpp](./solutions/075.Sort_Colors) | - |
-| 076 | [Minimum Window Substring](https://oj.leetcode.com/problems/Minimum-Window-Substring/) | - | - |
+| 076 | [Minimum Window Substring](https://oj.leetcode.com/problems/Minimum-Window-Substring/) | [Cpp](./solutions/076.Minimum_Window_Substring) | [✓](./solutions/076.Minimum_Window_Substring) |
 | 077 | [Combinations](https://oj.leetcode.com/problems/Combinations/) | [Cpp](./solutions/077.Combinations) | - |
 | 078 | [Subsets](https://oj.leetcode.com/problems/Subsets/) | [Cpp Java Py](./solutions/078.Subsets) | - |
 | 079 | [Word Search](https://oj.leetcode.com/problems/Word-Search/) | [Cpp](./solutions/079.Word_Search) | - |
