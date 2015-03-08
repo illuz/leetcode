@@ -17,3 +17,5 @@
 Largest Rectangle in Histogram 的复杂度是 O(n)，所以这题的复杂度是 O(n^2)，矩阵条（直方图）的处理可以用 O(n) 的空间来搞定。  
   
 Largest Rectangle in Histogram 我写了两 AC 的算法，一个用 stack 的是 O(n)，一个暴力加优化的 O(n^2)，这题直接用上题的函数，都过了 = =b。  
+
+（这里不得不提下 Discuss 上的一个[数组 DP 的算法](DP solution)，其实它的思想跟直方图很像的）

@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 131 / 189 problems.=w=  
+I have solved 137 / 189 problems.=w=  
 
 | \# | Link to leetcode | Solutions | Note |
 |----|------------------|-----------|------|
@@ -51,8 +51,8 @@ I have solved 131 / 189 problems.=w=
 | 027 | [Remove Element](https://oj.leetcode.com/problems/Remove-Element/) | [Cpp](./solutions/027.Remove_Element) | [✓](./solutions/027.Remove_Element) |
 | 028 | [Implement strStr()](https://oj.leetcode.com/problems/Implement-strStr()/) | [Cpp Py](./solutions/028.Implement_strStr()) | [✓](./solutions/028.Implement_strStr()) |
 | 029 | [Divide Two Integers](https://oj.leetcode.com/problems/Divide-Two-Integers/) | [Cpp Py](./solutions/029.Divide_Two_Integers) | [✓](./solutions/029.Divide_Two_Integers) |
-| 030 | [Substring with Concatenation of All Words](https://oj.leetcode.com/problems/Substring-with-Concatenation-of-All-Words/) | [Cpp](./solutions/030.Substring_with_Concatenation_of_All_Words) | - |
-| 031 | [Next Permutation](https://oj.leetcode.com/problems/Next-Permutation/) | [Cpp](./solutions/031.Next_Permutation) | - |
+| 030 | [Substring with Concatenation of All Words](https://oj.leetcode.com/problems/Substring-with-Concatenation-of-All-Words/) | [Cpp Java](./solutions/030.Substring_with_Concatenation_of_All_Words) | [✓](./solutions/030.Substring_with_Concatenation_of_All_Words) |
+| 031 | [Next Permutation](https://oj.leetcode.com/problems/Next-Permutation/) | [Cpp Py](./solutions/031.Next_Permutation) | [✓](./solutions/031.Next_Permutation) |
 | 032 | [Longest Valid Parentheses](https://oj.leetcode.com/problems/Longest-Valid-Parentheses/) | [Cpp](./solutions/032.Longest_Valid_Parentheses) | - |
 | 033 | [Search in Rotated Sorted Array](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array/) | [Cpp](./solutions/033.Search_in_Rotated_Sorted_Array) | - |
 | 034 | [Search for a Range](https://oj.leetcode.com/problems/Search-for-a-Range/) | [Cpp](./solutions/034.Search_for_a_Range) | - |
@@ -105,10 +105,10 @@ I have solved 131 / 189 problems.=w=
 | 081 | [Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array-II/) | [Cpp](./solutions/081.Search_in_Rotated_Sorted_Array_II) | - |
 | 082 | [Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-List-II/) | [Cpp](./solutions/082.Remove_Duplicates_from_Sorted_List_II) | - |
 | 083 | [Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-List/) | [Cpp](./solutions/083.Remove_Duplicates_from_Sorted_List) | - |
-| 084 | [Largest Rectangle in Histogram](https://oj.leetcode.com/problems/Largest-Rectangle-in-Histogram/) | - | - |
-| 085 | [Maximal Rectangle](https://oj.leetcode.com/problems/Maximal-Rectangle/) | - | - |
+| 084 | [Largest Rectangle in Histogram](https://oj.leetcode.com/problems/Largest-Rectangle-in-Histogram/) | [Cpp Java](./solutions/084.Largest_Rectangle_in_Histogram) | [✓](./solutions/084.Largest_Rectangle_in_Histogram) |
+| 085 | [Maximal Rectangle](https://oj.leetcode.com/problems/Maximal-Rectangle/) | [Cpp Java](./solutions/085.Maximal_Rectangle) | [✓](./solutions/085.Maximal_Rectangle) |
 | 086 | [Partition List](https://oj.leetcode.com/problems/Partition-List/) | [Cpp Java Py](./solutions/086.Partition_List) | - |
-| 087 | [Scramble String](https://oj.leetcode.com/problems/Scramble-String/) | - | - |
+| 087 | [Scramble String](https://oj.leetcode.com/problems/Scramble-String/) | [Cpp Java Py](./solutions/087.Scramble_String) | [✓](./solutions/087.Scramble_String) |
 | 088 | [Merge Sorted Array](https://oj.leetcode.com/problems/Merge-Sorted-Array/) | [Cpp](./solutions/088.Merge_Sorted_Array) | - |
 | 089 | [Gray Code](https://oj.leetcode.com/problems/Gray-Code/) | [Cpp Java Py](./solutions/089.Gray_Code) | - |
 | 090 | [Subsets II](https://oj.leetcode.com/problems/Subsets-II/) | [Cpp Java Py](./solutions/090.Subsets_II) | - |
@@ -116,11 +116,11 @@ I have solved 131 / 189 problems.=w=
 | 092 | [Reverse Linked List II](https://oj.leetcode.com/problems/Reverse-Linked-List-II/) | [Cpp](./solutions/092.Reverse_Linked_List_II) | - |
 | 093 | [Restore IP Addresses](https://oj.leetcode.com/problems/Restore-IP-Addresses/) | [Cpp Java Py](./solutions/093.Restore_IP_Addresses) | [✓](./solutions/093.Restore_IP_Addresses) |
 | 094 | [Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/Binary-Tree-Inorder-Traversal/) | [Cpp](./solutions/094.Binary_Tree_Inorder_Traversal) | - |
-| 095 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees/) | [Cpp](./solutions/095.Unique_Binary_Search_Trees) | - |
-| 096 | [Unique Binary Search Trees II](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees-II/) | - | - |
-| 097 | [Interleaving String](https://oj.leetcode.com/problems/Interleaving-String/) | - | - |
+| 095 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees/) | [Cpp](./solutions/095.Unique_Binary_Search_Trees) | [✓](./solutions/095.Unique_Binary_Search_Trees) |
+| 096 | [Unique Binary Search Trees II](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees-II/) | [Cpp](./solutions/096.Unique_Binary_Search_Trees_II) | [✓](./solutions/096.Unique_Binary_Search_Trees_II) |
+| 097 | [Interleaving String](https://oj.leetcode.com/problems/Interleaving-String/) | [Cpp Java](./solutions/097.Interleaving_String) | [✓](./solutions/097.Interleaving_String) |
 | 098 | [Validate Binary Search Tree](https://oj.leetcode.com/problems/Validate-Binary-Search-Tree/) | [Cpp Java Py](./solutions/098.Validate_Binary_Search_Tree) | [✓](./solutions/098.Validate_Binary_Search_Tree) |
-| 099 | [Recover Binary Search Tree](https://oj.leetcode.com/problems/Recover-Binary-Search-Tree/) | - | - |
+| 099 | [Recover Binary Search Tree](https://oj.leetcode.com/problems/Recover-Binary-Search-Tree/) | [Cpp Py](./solutions/099.Recover_Binary_Search_Tree) | [✓](./solutions/099.Recover_Binary_Search_Tree) |
 | 100 | [Same Tree](https://oj.leetcode.com/problems/Same-Tree/) | [Cpp](./solutions/100.Same_Tree) | - |
 | 101 | [Symmetric Tree](https://oj.leetcode.com/problems/Symmetric-Tree/) | [Cpp](./solutions/101.Symmetric_Tree) | - |
 | 102 | [Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal/) | [Cpp](./solutions/102.Binary_Tree_Level_Order_Traversal) | - |
