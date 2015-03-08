@@ -30,5 +30,5 @@ K 神当初可不是做这题而提出的问题，因为递归在内存的栈中
 参考：  
   
 - [Threaded binary tree - Wikipedia](http://en.wikipedia.org/wiki/Threaded_binary_tree)  
-- - [[LeetCode] Recover Binary Search Tree 解题报告 ](http://fisherlei.blogspot.com/2012/12/leetcode-recover-binary-search-tree.html)  
--  
+- [[LeetCode] Recover Binary Search Tree 解题报告 ](http://fisherlei.blogspot.com/2012/12/leetcode-recover-binary-search-tree.html)  
+  
