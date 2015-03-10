@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 137 / 189 problems.=w=  
+I have solved 142 / 189 problems.=w=  
 
 | \# | Link to leetcode | Solutions | Note |
 |----|------------------|-----------|------|
@@ -123,14 +123,14 @@ I have solved 137 / 189 problems.=w=
 | 099 | [Recover Binary Search Tree](https://oj.leetcode.com/problems/Recover-Binary-Search-Tree/) | [Cpp Py](./solutions/099.Recover_Binary_Search_Tree) | [✓](./solutions/099.Recover_Binary_Search_Tree) |
 | 100 | [Same Tree](https://oj.leetcode.com/problems/Same-Tree/) | [Cpp](./solutions/100.Same_Tree) | - |
 | 101 | [Symmetric Tree](https://oj.leetcode.com/problems/Symmetric-Tree/) | [Cpp](./solutions/101.Symmetric_Tree) | - |
-| 102 | [Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal/) | [Cpp](./solutions/102.Binary_Tree_Level_Order_Traversal) | - |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Zigzag-Level-Order-Traversal/) | - | - |
+| 102 | [Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal/) | [Cpp Py](./solutions/102.Binary_Tree_Level_Order_Traversal) | [✓](./solutions/102.Binary_Tree_Level_Order_Traversal) |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Zigzag-Level-Order-Traversal/) | [Cpp Py](./solutions/103.Binary_Tree_Zigzag_Level_Order_Traversal) | [✓](./solutions/103.Binary_Tree_Zigzag_Level_Order_Traversal) |
 | 104 | [Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/Maximum-Depth-of-Binary-Tree/) | [Cpp](./solutions/104.Maximum_Depth_of_Binary_Tree) | - |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/) | - | - |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/) | - | - |
-| 107 | [Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal-II/) | [Cpp](./solutions/107.Binary_Tree_Level_Order_Traversal_II) | - |
-| 108 | [Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/Convert-Sorted-Array-to-Binary-Search-Tree/) | - | - |
-| 109 | [Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/Convert-Sorted-List-to-Binary-Search-Tree/) | - | - |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/) | [Cpp](./solutions/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal) | [✓](./solutions/105.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal) |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/) | [Cpp](./solutions/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal) | [✓](./solutions/106.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal) |
+| 107 | [Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal-II/) | [Cpp Py](./solutions/107.Binary_Tree_Level_Order_Traversal_II) | [✓](./solutions/107.Binary_Tree_Level_Order_Traversal_II) |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/Convert-Sorted-Array-to-Binary-Search-Tree/) | [Cpp](./solutions/108.Convert_Sorted_Array_to_Binary_Search_Tree) | [✓](./solutions/108.Convert_Sorted_Array_to_Binary_Search_Tree) |
+| 109 | [Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/Convert-Sorted-List-to-Binary-Search-Tree/) | [Cpp Py](./solutions/109.Convert_Sorted_List_to_Binary_Search_Tree) | [✓](./solutions/109.Convert_Sorted_List_to_Binary_Search_Tree) |
 | 110 | [Balanced Binary Tree](https://oj.leetcode.com/problems/Balanced-Binary-Tree/) | [Cpp](./solutions/110.Balanced_Binary_Tree) | - |
 | 111 | [Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/Minimum-Depth-of-Binary-Tree/) | [Cpp](./solutions/111.Minimum_Depth_of_Binary_Tree) | - |
 | 112 | [Path Sum](https://oj.leetcode.com/problems/Path-Sum/) | [Cpp](./solutions/112.Path_Sum) | - |
