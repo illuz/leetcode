@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 142 / 189 problems.=w=  
+I have solved 143 / 191 problems.=w=  
 
 | \# | Link to leetcode | Solutions | Note |
 |----|------------------|-----------|------|
@@ -135,7 +135,7 @@ I have solved 142 / 189 problems.=w=
 | 111 | [Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/Minimum-Depth-of-Binary-Tree/) | [Cpp](./solutions/111.Minimum_Depth_of_Binary_Tree) | - |
 | 112 | [Path Sum](https://oj.leetcode.com/problems/Path-Sum/) | [Cpp](./solutions/112.Path_Sum) | - |
 | 113 | [Path Sum II](https://oj.leetcode.com/problems/Path-Sum-II/) | [Cpp Java Py](./solutions/113.Path_Sum_II) | - |
-| 114 | [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/Flatten-Binary-Tree-to-Linked-List/) | - | - |
+| 114 | [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/Flatten-Binary-Tree-to-Linked-List/) | [Cpp Java](./solutions/114.Flatten_Binary_Tree_to_Linked_List) | [✓](./solutions/114.Flatten_Binary_Tree_to_Linked_List) |
 | 115 | [Distinct Subsequences](https://oj.leetcode.com/problems/Distinct-Subsequences/) | - | - |
 | 116 | [Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node/) | [Cpp Java Py](./solutions/116.Populating_Next_Right_Pointers_in_Each_Node) | - |
 | 117 | [Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node-II/) | [Cpp Java Py](./solutions/117.Populating_Next_Right_Pointers_in_Each_Node_II) | - |
@@ -211,3 +211,5 @@ I have solved 142 / 189 problems.=w=
 | 187 | [Repeated DNA Sequences](https://oj.leetcode.com/problems/Repeated-DNA-Sequences/) | [Cpp Java Py](./solutions/187.Repeated_DNA_Sequences) | - |
 | 188 | [Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | - | - |
 | 189 | [Rotate Array](https://oj.leetcode.com/problems/Rotate-Array/) | - | - |
+| 190 | [Reverse Bits](https://oj.leetcode.com/problems/Reverse-Bits/) | - | - |
+| 191 | [Number of 1 Bits](https://oj.leetcode.com/problems/Number-of-1-Bits/) | - | - |
