@@ -41,8 +41,8 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 # table head
 
 print 'I have solved {} / {} problems.=w=  \n'.format(solved, total)
-print '| \# | Link to leetcode | Solutions | Note |'
-print '|----|------------------|-----------|------|'
+print '| \# | Problems | Solutions | Note |'
+print '|----|----------|-----------|------|'
 
 for prb, cont in new_res:
     link = 'https://oj.leetcode.com/problems/'
@@ -54,23 +54,26 @@ for prb, cont in new_res:
     else:
         link += re.sub('_', '-', prb[4:]) + '/'
 
+    if len(prb[4:]) > 40:
+        prb = prb[:37] + '...'
+
     p = '| ' + prb[:3] + ' | [' + re.sub('_', ' ', prb[4:]) + '](' + link + ') | '
     if cont != []:
         p += '['
         if 'C++' in cont:
-            p += 'Cpp '
+            p += 'C++ '
         if 'Java' in cont:
             p += 'Java '
         if 'Python' in cont:
-            p += 'Py '
+            p += 'Python '
         if 'Sql' in cont:
-            p += 'Sql '
+            p += 'SQL '
         p = p[:-1] + '](./solutions/' + prb + ') |'
         if 'Notes' in cont:
             p += ' [Note](./solutions/' + prb + ') |'
         else:
-            p += ' - |'
+            p += ' Waiting |'
     else:
-        p += '- | - |'
+        p += 'Coming soon | Waiting |'
 
     print p
