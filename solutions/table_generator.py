@@ -41,8 +41,10 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 # table head
 
 print 'I have solved {} / {} problems.=w=  \n'.format(solved, total)
-print '| \# | Link to leetcode | Solutions | Note |'
-print '|----|------------------|-----------|------|'
+
+print '(C = C++, J = Java, P = Python)'
+print '| \# | Link to leetcode | Language | Note |'
+print '|----|------------------|----------|------|'
 
 for prb, cont in new_res:
     link = 'https://oj.leetcode.com/problems/'
@@ -58,16 +60,16 @@ for prb, cont in new_res:
     if cont != []:
         p += '['
         if 'C++' in cont:
-            p += 'Cpp '
+            p += 'C '
         if 'Java' in cont:
-            p += 'Java '
+            p += 'J '
         if 'Python' in cont:
-            p += 'Py '
+            p += 'P '
         if 'Sql' in cont:
-            p += 'Sql '
+            p += 'SQL '
         p = p[:-1] + '](./solutions/' + prb + ') |'
         if 'Notes' in cont:
-            p += ' [✓](./solutions/' + prb + ') |'
+            p += ' [Note](./solutions/' + prb + ') |'
         else:
             p += ' - |'
     else:
