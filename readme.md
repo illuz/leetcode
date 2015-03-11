@@ -19,8 +19,8 @@ Language: **C++/Java/Python/(Sql)**
 ### Problems
 
 I have solved 143 / 191 problems.=w=  
-
 (C = C++, J = Java, P = Python)
+
 | \# | Link to leetcode | Language | Note |
 |----|------------------|----------|------|
 | 001 | [Two Sum](https://oj.leetcode.com/problems/Two-Sum/) | [C J P](./solutions/001.Two_Sum) | [Note](./solutions/001.Two_Sum) |

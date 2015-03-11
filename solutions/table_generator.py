@@ -40,9 +40,9 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 
 # table head
 
-print 'I have solved {} / {} problems.=w=  \n'.format(solved, total)
+print 'I have solved {} / {} problems.=w=  '.format(solved, total)
+print '(C = C++, J = Java, P = Python)\n'
 
-print '(C = C++, J = Java, P = Python)'
 print '| \# | Link to leetcode | Language | Note |'
 print '|----|------------------|----------|------|'
 
