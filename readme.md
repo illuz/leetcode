@@ -53,12 +53,12 @@ I have solved 147 / 191 problems.=w=
 | 029 | [Divide Two Integers](https://oj.leetcode.com/problems/Divide-Two-Integers/) | [C++ Python](./solutions/029.Divide_Two_Integers) | [Note](./solutions/029.Divide_Two_Integers) |
 | 030 | [Substring with Concatenation of A...](https://oj.leetcode.com/problems/Substring-with-Concatenation-of-All-Words/) | [C++ Java](./solutions/030.Substring_with_Concatenation_of_A...) | [Note](./solutions/030.Substring_with_Concatenation_of_A...) |
 | 031 | [Next Permutation](https://oj.leetcode.com/problems/Next-Permutation/) | [C++ Python](./solutions/031.Next_Permutation) | [Note](./solutions/031.Next_Permutation) |
-| 032 | [Longest Valid Parentheses](https://oj.leetcode.com/problems/Longest-Valid-Parentheses/) | [C++](./solutions/032.Longest_Valid_Parentheses) | Waiting |
-| 033 | [Search in Rotated Sorted Array](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array/) | [C++](./solutions/033.Search_in_Rotated_Sorted_Array) | Waiting |
-| 034 | [Search for a Range](https://oj.leetcode.com/problems/Search-for-a-Range/) | [C++](./solutions/034.Search_for_a_Range) | Waiting |
-| 035 | [Search Insert Position](https://oj.leetcode.com/problems/Search-Insert-Position/) | [C++](./solutions/035.Search_Insert_Position) | Waiting |
-| 036 | [Valid Sudoku](https://oj.leetcode.com/problems/Valid-Sudoku/) | [C++](./solutions/036.Valid_Sudoku) | Waiting |
-| 037 | [Sudoku Solver](https://oj.leetcode.com/problems/Sudoku-Solver/) | [C++](./solutions/037.Sudoku_Solver) | Waiting |
+| 032 | [Longest Valid Parentheses](https://oj.leetcode.com/problems/Longest-Valid-Parentheses/) | [C++](./solutions/032.Longest_Valid_Parentheses) | [Note](./solutions/032.Longest_Valid_Parentheses) |
+| 033 | [Search in Rotated Sorted Array](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array/) | [C++](./solutions/033.Search_in_Rotated_Sorted_Array) | [Note](./solutions/033.Search_in_Rotated_Sorted_Array) |
+| 034 | [Search for a Range](https://oj.leetcode.com/problems/Search-for-a-Range/) | [C++ Java](./solutions/034.Search_for_a_Range) | [Note](./solutions/034.Search_for_a_Range) |
+| 035 | [Search Insert Position](https://oj.leetcode.com/problems/Search-Insert-Position/) | [C++](./solutions/035.Search_Insert_Position) | [Note](./solutions/035.Search_Insert_Position) |
+| 036 | [Valid Sudoku](https://oj.leetcode.com/problems/Valid-Sudoku/) | [C++](./solutions/036.Valid_Sudoku) | [Note](./solutions/036.Valid_Sudoku) |
+| 037 | [Sudoku Solver](https://oj.leetcode.com/problems/Sudoku-Solver/) | [C++](./solutions/037.Sudoku_Solver) | [Note](./solutions/037.Sudoku_Solver) |
 | 038 | [Count and Say](https://oj.leetcode.com/problems/Count-and-Say/) | [C++](./solutions/038.Count_and_Say) | Waiting |
 | 039 | [Combination Sum](https://oj.leetcode.com/problems/Combination-Sum/) | [C++](./solutions/039.Combination_Sum) | Waiting |
 | 040 | [Combination Sum II](https://oj.leetcode.com/problems/Combination-Sum-II/) | [C++](./solutions/040.Combination_Sum_II) | Waiting |
