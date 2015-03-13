@@ -15,7 +15,7 @@ public:
     int longestValidParentheses(string s) {
         int max_len = 0, depth = 0, start = -1;
 
-        // solve ()))
+        // solve ((()
         for (int i = 0; i < s.size(); ++i) {
             if (s[i] == '(')
                 ++depth;
@@ -30,7 +30,7 @@ public:
             }
         }
 
-        // solve ((()
+        // solve ()))
         depth = 0;
         start = s.size();
         for (int i = s.size(); i >= 0; --i) {
