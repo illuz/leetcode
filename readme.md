@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 143 / 191 problems.=w=  
+I have solved 147 / 191 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -136,15 +136,15 @@ I have solved 143 / 191 problems.=w=
 | 112 | [Path Sum](https://oj.leetcode.com/problems/Path-Sum/) | [C++](./solutions/112.Path_Sum) | Waiting |
 | 113 | [Path Sum II](https://oj.leetcode.com/problems/Path-Sum-II/) | [C++ Java Python](./solutions/113.Path_Sum_II) | Waiting |
 | 114 | [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/Flatten-Binary-Tree-to-Linked-List/) | [C++ Java](./solutions/114.Flatten_Binary_Tree_to_Linked_List) | [Note](./solutions/114.Flatten_Binary_Tree_to_Linked_List) |
-| 115 | [Distinct Subsequences](https://oj.leetcode.com/problems/Distinct-Subsequences/) | Coming soon | Waiting |
+| 115 | [Distinct Subsequences](https://oj.leetcode.com/problems/Distinct-Subsequences/) | [C++ Python](./solutions/115.Distinct_Subsequences) | [Note](./solutions/115.Distinct_Subsequences) |
 | 116 | [Populating Next Right Pointers in...](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node/) | [C++ Java Python](./solutions/116.Populating_Next_Right_Pointers_in...) | Waiting |
 | 117 | [Populating Next Right Pointers in...](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node-II/) | [C++ Java Python](./solutions/117.Populating_Next_Right_Pointers_in...) | Waiting |
 | 118 | [Pascals Triangle](https://oj.leetcode.com/problems/Pascals-Triangle/) | [C++](./solutions/118.Pascals_Triangle) | Waiting |
 | 119 | [Pascal's Triangle II](https://oj.leetcode.com/problems/Pascal's-Triangle-II/) | [C++](./solutions/119.Pascal's_Triangle_II) | Waiting |
 | 120 | [Triangle](https://oj.leetcode.com/problems/Triangle/) | [C++ Java Python](./solutions/120.Triangle) | Waiting |
-| 121 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock/) | Coming soon | Waiting |
-| 122 | [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | Coming soon | Waiting |
-| 123 | [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-III/) | Coming soon | Waiting |
+| 121 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock/) | [C++ Python](./solutions/121.Best_Time_to_Buy_and_Sell_Stock) | [Note](./solutions/121.Best_Time_to_Buy_and_Sell_Stock) |
+| 122 | [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | [C++ Python](./solutions/122.Best_Time_to_Buy_and_Sell_Stock_II) | [Note](./solutions/122.Best_Time_to_Buy_and_Sell_Stock_II) |
+| 123 | [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-III/) | [C++ Python](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) | [Note](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) |
 | 124 | [Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/Binary-Tree-Maximum-Path-Sum/) | Coming soon | Waiting |
 | 125 | [Valid Palindrome](https://oj.leetcode.com/problems/Valid-Palindrome/) | [C++](./solutions/125.Valid_Palindrome) | Waiting |
 | 126 | [Word Ladder](https://oj.leetcode.com/problems/Word-Ladder/) | Coming soon | Waiting |
