@@ -10,4 +10,6 @@
 
 ### **分析**：
 
-只要理解了 [`123. Best Time to Buy and Sell Stock III `](https://github.com/illuz/leetcode/tree/master/solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) 的那个 O(1) 空间的算法，这个也可以那样变形过来。
+只要理解了 [`123. Best Time to Buy and Sell Stock III `](https://github.com/illuz/leetcode/tree/master/solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) 的那个 O(1) 空间的算法，这个也可以那样变形过来。  
+
+注意，如果 k 大于数组的大小的一半，那就可以每相邻两天都能买了，所以可以直接用 III 版本的算法 O(n) 解决。
