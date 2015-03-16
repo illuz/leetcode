@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Author:      illuz <iilluzen[at]gmail.com>
 # File:        table_generator.py
@@ -11,6 +12,7 @@ import re
 res = {}
 solved = 0
 total = 0
+leetcode_book = [ '156', '157', '158', '159', '161', '163', '167', '170', '186']
 
 for root, dirs, files in os.walk('.'):
     # pass .
@@ -40,9 +42,9 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 
 # table head
 
-print 'I have solved {} / {} problems.=w=  \n'.format(solved, total)
-print '| \# | Problems | Solutions | Note |'
-print '|----|----------|-----------|------|'
+print ('I have solved {} / {} problems.=w=  \n'.format(solved, total))
+print ('| \# | Problems | Solutions | Note |')
+print ('|----|----------|-----------|------|')
 
 for prb, cont in new_res:
     link = 'https://oj.leetcode.com/problems/'
@@ -58,7 +60,11 @@ for prb, cont in new_res:
         prb = prb[:37] + '...'
 
     p = '| ' + prb[:3] + ' | [' + re.sub('_', ' ', prb[4:]) + '](' + link + ') | '
-    if cont != []:
+
+    # exclude leetcode book
+    if prb[:3] in leetcode_book:
+        p += 'Not Buy | Not Buy |'
+    elif cont != []:
         p += '['
         if 'C++' in cont:
             p += 'C++ '
@@ -72,8 +78,8 @@ for prb, cont in new_res:
         if 'Notes' in cont:
             p += ' [Note](./solutions/' + prb + ') |'
         else:
-            p += ' Waiting |'
+            p += ' Coming soon |'
     else:
-        p += 'Coming soon | Waiting |'
+        p += 'Coming soon | Coming soon |'
 
-    print p
+    print (p)
