@@ -76,7 +76,7 @@ for prb, cont in new_res:
             p += 'SQL '
         p = p[:-1] + '](./solutions/' + prb + ') |'
         if 'Notes' in cont:
-            p += ' [Note](./solutions/' + prb + ') |'
+            p += ' [Note Here](./solutions/' + prb + ') |'
         else:
             p += ' Coming soon |'
     else:

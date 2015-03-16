@@ -22,43 +22,43 @@ I have solved 150 / 191 problems.=w=
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
-| 001 | [Two Sum](https://oj.leetcode.com/problems/Two-Sum/) | [C++ Java Python](./solutions/001.Two_Sum) | [Note](./solutions/001.Two_Sum) |
-| 002 | [Add Two Numbers](https://oj.leetcode.com/problems/Add-Two-Numbers/) | [C++ Java Python](./solutions/002.Add_Two_Numbers) | [Note](./solutions/002.Add_Two_Numbers) |
-| 003 | [Longest Substring Without Repeati...](https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [C++ Java Python](./solutions/003.Longest_Substring_Without_Repeati...) | [Note](./solutions/003.Longest_Substring_Without_Repeati...) |
-| 004 | [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [C++ Java Python](./solutions/004.Median_of_Two_Sorted_Arrays) | [Note](./solutions/004.Median_of_Two_Sorted_Arrays) |
-| 005 | [Longest Palindromic Substring](https://oj.leetcode.com/problems/Longest-Palindromic-Substring/) | [C++ Java Python](./solutions/005.Longest_Palindromic_Substring) | [Note](./solutions/005.Longest_Palindromic_Substring) |
-| 006 | [ZigZag Conversion](https://oj.leetcode.com/problems/ZigZag-Conversion/) | [C++ Java Python](./solutions/006.ZigZag_Conversion) | [Note](./solutions/006.ZigZag_Conversion) |
-| 007 | [Reverse Integer](https://oj.leetcode.com/problems/Reverse-Integer/) | [C++ Java Python](./solutions/007.Reverse_Integer) | [Note](./solutions/007.Reverse_Integer) |
-| 008 | [String to Integer](https://oj.leetcode.com/problems/String-to-Integer/) | [C++ Java Python](./solutions/008.String_to_Integer) | [Note](./solutions/008.String_to_Integer) |
-| 009 | [Palindrome Number](https://oj.leetcode.com/problems/Palindrome-Number/) | [C++ Java Python](./solutions/009.Palindrome_Number) | [Note](./solutions/009.Palindrome_Number) |
-| 010 | [Regular Expression Matching](https://oj.leetcode.com/problems/Regular-Expression-Matching/) | [C++ Java Python](./solutions/010.Regular_Expression_Matching) | [Note](./solutions/010.Regular_Expression_Matching) |
-| 011 | [Container With Most Water](https://oj.leetcode.com/problems/Container-With-Most-Water/) | [C++ Java Python](./solutions/011.Container_With_Most_Water) | [Note](./solutions/011.Container_With_Most_Water) |
-| 012 | [Integer to Roman](https://oj.leetcode.com/problems/Integer-to-Roman/) | [C++ Java Python](./solutions/012.Integer_to_Roman) | [Note](./solutions/012.Integer_to_Roman) |
-| 013 | [Roman to Integer](https://oj.leetcode.com/problems/Roman-to-Integer/) | [C++ Java Python](./solutions/013.Roman_to_Integer) | [Note](./solutions/013.Roman_to_Integer) |
-| 014 | [Longest Common Prefix](https://oj.leetcode.com/problems/Longest-Common-Prefix/) | [C++ Java Python](./solutions/014.Longest_Common_Prefix) | [Note](./solutions/014.Longest_Common_Prefix) |
-| 015 | [3Sum](https://oj.leetcode.com/problems/3Sum/) | [C++ Java Python](./solutions/015.3Sum) | [Note](./solutions/015.3Sum) |
-| 016 | [3Sum Closest](https://oj.leetcode.com/problems/3Sum-Closest/) | [C++ Java Python](./solutions/016.3Sum_Closest) | [Note](./solutions/016.3Sum_Closest) |
-| 017 | [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/Letter-Combinations-of-a-Phone-Number/) | [C++ Java Python](./solutions/017.Letter_Combinations_of_a_Phone_Number) | [Note](./solutions/017.Letter_Combinations_of_a_Phone_Number) |
-| 018 | [4Sum](https://oj.leetcode.com/problems/4Sum/) | [C++ Java Python](./solutions/018.4Sum) | [Note](./solutions/018.4Sum) |
-| 019 | [Remove Nth Node From End of List](https://oj.leetcode.com/problems/Remove-Nth-Node-From-End-of-List/) | [C++ Python](./solutions/019.Remove_Nth_Node_From_End_of_List) | [Note](./solutions/019.Remove_Nth_Node_From_End_of_List) |
-| 020 | [Valid Parentheses](https://oj.leetcode.com/problems/Valid-Parentheses/) | [C++ Java Python](./solutions/020.Valid_Parentheses) | [Note](./solutions/020.Valid_Parentheses) |
-| 021 | [Merge Two Sorted Lists](https://oj.leetcode.com/problems/Merge-Two-Sorted-Lists/) | [C++ Python](./solutions/021.Merge_Two_Sorted_Lists) | [Note](./solutions/021.Merge_Two_Sorted_Lists) |
-| 022 | [Generate Parentheses](https://oj.leetcode.com/problems/Generate-Parentheses/) | [C++ Java Python](./solutions/022.Generate_Parentheses) | [Note](./solutions/022.Generate_Parentheses) |
-| 023 | [Merge k Sorted Lists](https://oj.leetcode.com/problems/Merge-k-Sorted-Lists/) | [C++ Java Python](./solutions/023.Merge_k_Sorted_Lists) | [Note](./solutions/023.Merge_k_Sorted_Lists) |
-| 024 | [Swap Nodes in Pairs](https://oj.leetcode.com/problems/Swap-Nodes-in-Pairs/) | [C++ Python](./solutions/024.Swap_Nodes_in_Pairs) | [Note](./solutions/024.Swap_Nodes_in_Pairs) |
-| 025 | [Reverse Nodes in k-Group](https://oj.leetcode.com/problems/Reverse-Nodes-in-k-Group/) | [C++ Java](./solutions/025.Reverse_Nodes_in_k-Group) | [Note](./solutions/025.Reverse_Nodes_in_k-Group) |
-| 026 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-Array/) | [C++](./solutions/026.Remove_Duplicates_from_Sorted_Array) | [Note](./solutions/026.Remove_Duplicates_from_Sorted_Array) |
-| 027 | [Remove Element](https://oj.leetcode.com/problems/Remove-Element/) | [C++](./solutions/027.Remove_Element) | [Note](./solutions/027.Remove_Element) |
-| 028 | [Implement strStr()](https://oj.leetcode.com/problems/Implement-strStr()/) | [C++ Python](./solutions/028.Implement_strStr()) | [Note](./solutions/028.Implement_strStr()) |
-| 029 | [Divide Two Integers](https://oj.leetcode.com/problems/Divide-Two-Integers/) | [C++ Python](./solutions/029.Divide_Two_Integers) | [Note](./solutions/029.Divide_Two_Integers) |
-| 030 | [Substring with Concatenation of A...](https://oj.leetcode.com/problems/Substring-with-Concatenation-of-All-Words/) | [C++ Java](./solutions/030.Substring_with_Concatenation_of_A...) | [Note](./solutions/030.Substring_with_Concatenation_of_A...) |
-| 031 | [Next Permutation](https://oj.leetcode.com/problems/Next-Permutation/) | [C++ Python](./solutions/031.Next_Permutation) | [Note](./solutions/031.Next_Permutation) |
-| 032 | [Longest Valid Parentheses](https://oj.leetcode.com/problems/Longest-Valid-Parentheses/) | [C++](./solutions/032.Longest_Valid_Parentheses) | [Note](./solutions/032.Longest_Valid_Parentheses) |
-| 033 | [Search in Rotated Sorted Array](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array/) | [C++](./solutions/033.Search_in_Rotated_Sorted_Array) | [Note](./solutions/033.Search_in_Rotated_Sorted_Array) |
-| 034 | [Search for a Range](https://oj.leetcode.com/problems/Search-for-a-Range/) | [C++ Java](./solutions/034.Search_for_a_Range) | [Note](./solutions/034.Search_for_a_Range) |
-| 035 | [Search Insert Position](https://oj.leetcode.com/problems/Search-Insert-Position/) | [C++](./solutions/035.Search_Insert_Position) | [Note](./solutions/035.Search_Insert_Position) |
-| 036 | [Valid Sudoku](https://oj.leetcode.com/problems/Valid-Sudoku/) | [C++](./solutions/036.Valid_Sudoku) | [Note](./solutions/036.Valid_Sudoku) |
-| 037 | [Sudoku Solver](https://oj.leetcode.com/problems/Sudoku-Solver/) | [C++](./solutions/037.Sudoku_Solver) | [Note](./solutions/037.Sudoku_Solver) |
+| 001 | [Two Sum](https://oj.leetcode.com/problems/Two-Sum/) | [C++ Java Python](./solutions/001.Two_Sum) | [Note Here](./solutions/001.Two_Sum) |
+| 002 | [Add Two Numbers](https://oj.leetcode.com/problems/Add-Two-Numbers/) | [C++ Java Python](./solutions/002.Add_Two_Numbers) | [Note Here](./solutions/002.Add_Two_Numbers) |
+| 003 | [Longest Substring Without Repeati...](https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [C++ Java Python](./solutions/003.Longest_Substring_Without_Repeati...) | [Note Here](./solutions/003.Longest_Substring_Without_Repeati...) |
+| 004 | [Median of Two Sorted Arrays](https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [C++ Java Python](./solutions/004.Median_of_Two_Sorted_Arrays) | [Note Here](./solutions/004.Median_of_Two_Sorted_Arrays) |
+| 005 | [Longest Palindromic Substring](https://oj.leetcode.com/problems/Longest-Palindromic-Substring/) | [C++ Java Python](./solutions/005.Longest_Palindromic_Substring) | [Note Here](./solutions/005.Longest_Palindromic_Substring) |
+| 006 | [ZigZag Conversion](https://oj.leetcode.com/problems/ZigZag-Conversion/) | [C++ Java Python](./solutions/006.ZigZag_Conversion) | [Note Here](./solutions/006.ZigZag_Conversion) |
+| 007 | [Reverse Integer](https://oj.leetcode.com/problems/Reverse-Integer/) | [C++ Java Python](./solutions/007.Reverse_Integer) | [Note Here](./solutions/007.Reverse_Integer) |
+| 008 | [String to Integer](https://oj.leetcode.com/problems/String-to-Integer/) | [C++ Java Python](./solutions/008.String_to_Integer) | [Note Here](./solutions/008.String_to_Integer) |
+| 009 | [Palindrome Number](https://oj.leetcode.com/problems/Palindrome-Number/) | [C++ Java Python](./solutions/009.Palindrome_Number) | [Note Here](./solutions/009.Palindrome_Number) |
+| 010 | [Regular Expression Matching](https://oj.leetcode.com/problems/Regular-Expression-Matching/) | [C++ Java Python](./solutions/010.Regular_Expression_Matching) | [Note Here](./solutions/010.Regular_Expression_Matching) |
+| 011 | [Container With Most Water](https://oj.leetcode.com/problems/Container-With-Most-Water/) | [C++ Java Python](./solutions/011.Container_With_Most_Water) | [Note Here](./solutions/011.Container_With_Most_Water) |
+| 012 | [Integer to Roman](https://oj.leetcode.com/problems/Integer-to-Roman/) | [C++ Java Python](./solutions/012.Integer_to_Roman) | [Note Here](./solutions/012.Integer_to_Roman) |
+| 013 | [Roman to Integer](https://oj.leetcode.com/problems/Roman-to-Integer/) | [C++ Java Python](./solutions/013.Roman_to_Integer) | [Note Here](./solutions/013.Roman_to_Integer) |
+| 014 | [Longest Common Prefix](https://oj.leetcode.com/problems/Longest-Common-Prefix/) | [C++ Java Python](./solutions/014.Longest_Common_Prefix) | [Note Here](./solutions/014.Longest_Common_Prefix) |
+| 015 | [3Sum](https://oj.leetcode.com/problems/3Sum/) | [C++ Java Python](./solutions/015.3Sum) | [Note Here](./solutions/015.3Sum) |
+| 016 | [3Sum Closest](https://oj.leetcode.com/problems/3Sum-Closest/) | [C++ Java Python](./solutions/016.3Sum_Closest) | [Note Here](./solutions/016.3Sum_Closest) |
+| 017 | [Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/Letter-Combinations-of-a-Phone-Number/) | [C++ Java Python](./solutions/017.Letter_Combinations_of_a_Phone_Number) | [Note Here](./solutions/017.Letter_Combinations_of_a_Phone_Number) |
+| 018 | [4Sum](https://oj.leetcode.com/problems/4Sum/) | [C++ Java Python](./solutions/018.4Sum) | [Note Here](./solutions/018.4Sum) |
+| 019 | [Remove Nth Node From End of List](https://oj.leetcode.com/problems/Remove-Nth-Node-From-End-of-List/) | [C++ Python](./solutions/019.Remove_Nth_Node_From_End_of_List) | [Note Here](./solutions/019.Remove_Nth_Node_From_End_of_List) |
+| 020 | [Valid Parentheses](https://oj.leetcode.com/problems/Valid-Parentheses/) | [C++ Java Python](./solutions/020.Valid_Parentheses) | [Note Here](./solutions/020.Valid_Parentheses) |
+| 021 | [Merge Two Sorted Lists](https://oj.leetcode.com/problems/Merge-Two-Sorted-Lists/) | [C++ Python](./solutions/021.Merge_Two_Sorted_Lists) | [Note Here](./solutions/021.Merge_Two_Sorted_Lists) |
+| 022 | [Generate Parentheses](https://oj.leetcode.com/problems/Generate-Parentheses/) | [C++ Java Python](./solutions/022.Generate_Parentheses) | [Note Here](./solutions/022.Generate_Parentheses) |
+| 023 | [Merge k Sorted Lists](https://oj.leetcode.com/problems/Merge-k-Sorted-Lists/) | [C++ Java Python](./solutions/023.Merge_k_Sorted_Lists) | [Note Here](./solutions/023.Merge_k_Sorted_Lists) |
+| 024 | [Swap Nodes in Pairs](https://oj.leetcode.com/problems/Swap-Nodes-in-Pairs/) | [C++ Python](./solutions/024.Swap_Nodes_in_Pairs) | [Note Here](./solutions/024.Swap_Nodes_in_Pairs) |
+| 025 | [Reverse Nodes in k-Group](https://oj.leetcode.com/problems/Reverse-Nodes-in-k-Group/) | [C++ Java](./solutions/025.Reverse_Nodes_in_k-Group) | [Note Here](./solutions/025.Reverse_Nodes_in_k-Group) |
+| 026 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-Array/) | [C++](./solutions/026.Remove_Duplicates_from_Sorted_Array) | [Note Here](./solutions/026.Remove_Duplicates_from_Sorted_Array) |
+| 027 | [Remove Element](https://oj.leetcode.com/problems/Remove-Element/) | [C++](./solutions/027.Remove_Element) | [Note Here](./solutions/027.Remove_Element) |
+| 028 | [Implement strStr()](https://oj.leetcode.com/problems/Implement-strStr()/) | [C++ Python](./solutions/028.Implement_strStr()) | [Note Here](./solutions/028.Implement_strStr()) |
+| 029 | [Divide Two Integers](https://oj.leetcode.com/problems/Divide-Two-Integers/) | [C++ Python](./solutions/029.Divide_Two_Integers) | [Note Here](./solutions/029.Divide_Two_Integers) |
+| 030 | [Substring with Concatenation of A...](https://oj.leetcode.com/problems/Substring-with-Concatenation-of-All-Words/) | [C++ Java](./solutions/030.Substring_with_Concatenation_of_A...) | [Note Here](./solutions/030.Substring_with_Concatenation_of_A...) |
+| 031 | [Next Permutation](https://oj.leetcode.com/problems/Next-Permutation/) | [C++ Python](./solutions/031.Next_Permutation) | [Note Here](./solutions/031.Next_Permutation) |
+| 032 | [Longest Valid Parentheses](https://oj.leetcode.com/problems/Longest-Valid-Parentheses/) | [C++](./solutions/032.Longest_Valid_Parentheses) | [Note Here](./solutions/032.Longest_Valid_Parentheses) |
+| 033 | [Search in Rotated Sorted Array](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array/) | [C++](./solutions/033.Search_in_Rotated_Sorted_Array) | [Note Here](./solutions/033.Search_in_Rotated_Sorted_Array) |
+| 034 | [Search for a Range](https://oj.leetcode.com/problems/Search-for-a-Range/) | [C++ Java](./solutions/034.Search_for_a_Range) | [Note Here](./solutions/034.Search_for_a_Range) |
+| 035 | [Search Insert Position](https://oj.leetcode.com/problems/Search-Insert-Position/) | [C++](./solutions/035.Search_Insert_Position) | [Note Here](./solutions/035.Search_Insert_Position) |
+| 036 | [Valid Sudoku](https://oj.leetcode.com/problems/Valid-Sudoku/) | [C++](./solutions/036.Valid_Sudoku) | [Note Here](./solutions/036.Valid_Sudoku) |
+| 037 | [Sudoku Solver](https://oj.leetcode.com/problems/Sudoku-Solver/) | [C++](./solutions/037.Sudoku_Solver) | [Note Here](./solutions/037.Sudoku_Solver) |
 | 038 | [Count and Say](https://oj.leetcode.com/problems/Count-and-Say/) | [C++](./solutions/038.Count_and_Say) | Coming soon |
 | 039 | [Combination Sum](https://oj.leetcode.com/problems/Combination-Sum/) | [C++](./solutions/039.Combination_Sum) | Coming soon |
 | 040 | [Combination Sum II](https://oj.leetcode.com/problems/Combination-Sum-II/) | [C++](./solutions/040.Combination_Sum_II) | Coming soon |
@@ -89,7 +89,7 @@ I have solved 150 / 191 problems.=w=
 | 065 | [Valid Number](https://oj.leetcode.com/problems/Valid-Number/) | [C++ Java Python](./solutions/065.Valid_Number) | Coming soon |
 | 066 | [Plus One](https://oj.leetcode.com/problems/Plus-One/) | [C++](./solutions/066.Plus_One) | Coming soon |
 | 067 | [Add Binary](https://oj.leetcode.com/problems/Add-Binary/) | [C++](./solutions/067.Add_Binary) | Coming soon |
-| 068 | [Text Justification](https://oj.leetcode.com/problems/Text-Justification/) | [C++ Java Python](./solutions/068.Text_Justification) | [Note](./solutions/068.Text_Justification) |
+| 068 | [Text Justification](https://oj.leetcode.com/problems/Text-Justification/) | [C++ Java Python](./solutions/068.Text_Justification) | [Note Here](./solutions/068.Text_Justification) |
 | 069 | [Sqrt(x)](https://oj.leetcode.com/problems/Sqrtx) | [C++ Java Python](./solutions/069.Sqrt(x)) | Coming soon |
 | 070 | [Climbing Stairs](https://oj.leetcode.com/problems/Climbing-Stairs/) | [C++](./solutions/070.Climbing_Stairs) | Coming soon |
 | 071 | [Simplify Path](https://oj.leetcode.com/problems/Simplify-Path/) | [C++ Java Python](./solutions/071.Simplify_Path) | Coming soon |
@@ -97,7 +97,7 @@ I have solved 150 / 191 problems.=w=
 | 073 | [Set Matrix Zeroes](https://oj.leetcode.com/problems/Set-Matrix-Zeroes/) | [C++](./solutions/073.Set_Matrix_Zeroes) | Coming soon |
 | 074 | [Search a 2D Matrix](https://oj.leetcode.com/problems/Search-a-2D-Matrix/) | [C++](./solutions/074.Search_a_2D_Matrix) | Coming soon |
 | 075 | [Sort Colors](https://oj.leetcode.com/problems/Sort-Colors/) | [C++](./solutions/075.Sort_Colors) | Coming soon |
-| 076 | [Minimum Window Substring](https://oj.leetcode.com/problems/Minimum-Window-Substring/) | [C++](./solutions/076.Minimum_Window_Substring) | [Note](./solutions/076.Minimum_Window_Substring) |
+| 076 | [Minimum Window Substring](https://oj.leetcode.com/problems/Minimum-Window-Substring/) | [C++](./solutions/076.Minimum_Window_Substring) | [Note Here](./solutions/076.Minimum_Window_Substring) |
 | 077 | [Combinations](https://oj.leetcode.com/problems/Combinations/) | [C++](./solutions/077.Combinations) | Coming soon |
 | 078 | [Subsets](https://oj.leetcode.com/problems/Subsets/) | [C++ Java Python](./solutions/078.Subsets) | Coming soon |
 | 079 | [Word Search](https://oj.leetcode.com/problems/Word-Search/) | [C++](./solutions/079.Word_Search) | Coming soon |
@@ -105,53 +105,53 @@ I have solved 150 / 191 problems.=w=
 | 081 | [Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/Search-in-Rotated-Sorted-Array-II/) | [C++](./solutions/081.Search_in_Rotated_Sorted_Array_II) | Coming soon |
 | 082 | [Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-List-II/) | [C++](./solutions/082.Remove_Duplicates_from_Sorted_List_II) | Coming soon |
 | 083 | [Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/Remove-Duplicates-from-Sorted-List/) | [C++](./solutions/083.Remove_Duplicates_from_Sorted_List) | Coming soon |
-| 084 | [Largest Rectangle in Histogram](https://oj.leetcode.com/problems/Largest-Rectangle-in-Histogram/) | [C++ Java](./solutions/084.Largest_Rectangle_in_Histogram) | [Note](./solutions/084.Largest_Rectangle_in_Histogram) |
-| 085 | [Maximal Rectangle](https://oj.leetcode.com/problems/Maximal-Rectangle/) | [C++ Java](./solutions/085.Maximal_Rectangle) | [Note](./solutions/085.Maximal_Rectangle) |
+| 084 | [Largest Rectangle in Histogram](https://oj.leetcode.com/problems/Largest-Rectangle-in-Histogram/) | [C++ Java](./solutions/084.Largest_Rectangle_in_Histogram) | [Note Here](./solutions/084.Largest_Rectangle_in_Histogram) |
+| 085 | [Maximal Rectangle](https://oj.leetcode.com/problems/Maximal-Rectangle/) | [C++ Java](./solutions/085.Maximal_Rectangle) | [Note Here](./solutions/085.Maximal_Rectangle) |
 | 086 | [Partition List](https://oj.leetcode.com/problems/Partition-List/) | [C++ Java Python](./solutions/086.Partition_List) | Coming soon |
-| 087 | [Scramble String](https://oj.leetcode.com/problems/Scramble-String/) | [C++ Java Python](./solutions/087.Scramble_String) | [Note](./solutions/087.Scramble_String) |
+| 087 | [Scramble String](https://oj.leetcode.com/problems/Scramble-String/) | [C++ Java Python](./solutions/087.Scramble_String) | [Note Here](./solutions/087.Scramble_String) |
 | 088 | [Merge Sorted Array](https://oj.leetcode.com/problems/Merge-Sorted-Array/) | [C++](./solutions/088.Merge_Sorted_Array) | Coming soon |
 | 089 | [Gray Code](https://oj.leetcode.com/problems/Gray-Code/) | [C++ Java Python](./solutions/089.Gray_Code) | Coming soon |
 | 090 | [Subsets II](https://oj.leetcode.com/problems/Subsets-II/) | [C++ Java Python](./solutions/090.Subsets_II) | Coming soon |
 | 091 | [Decode Ways](https://oj.leetcode.com/problems/Decode-Ways/) | [C++ Java Python](./solutions/091.Decode_Ways) | Coming soon |
 | 092 | [Reverse Linked List II](https://oj.leetcode.com/problems/Reverse-Linked-List-II/) | [C++](./solutions/092.Reverse_Linked_List_II) | Coming soon |
-| 093 | [Restore IP Addresses](https://oj.leetcode.com/problems/Restore-IP-Addresses/) | [C++ Java Python](./solutions/093.Restore_IP_Addresses) | [Note](./solutions/093.Restore_IP_Addresses) |
+| 093 | [Restore IP Addresses](https://oj.leetcode.com/problems/Restore-IP-Addresses/) | [C++ Java Python](./solutions/093.Restore_IP_Addresses) | [Note Here](./solutions/093.Restore_IP_Addresses) |
 | 094 | [Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/Binary-Tree-Inorder-Traversal/) | [C++](./solutions/094.Binary_Tree_Inorder_Traversal) | Coming soon |
-| 095 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees/) | [C++](./solutions/095.Unique_Binary_Search_Trees) | [Note](./solutions/095.Unique_Binary_Search_Trees) |
-| 096 | [Unique Binary Search Trees II](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees-II/) | [C++](./solutions/096.Unique_Binary_Search_Trees_II) | [Note](./solutions/096.Unique_Binary_Search_Trees_II) |
-| 097 | [Interleaving String](https://oj.leetcode.com/problems/Interleaving-String/) | [C++ Java](./solutions/097.Interleaving_String) | [Note](./solutions/097.Interleaving_String) |
-| 098 | [Validate Binary Search Tree](https://oj.leetcode.com/problems/Validate-Binary-Search-Tree/) | [C++ Java Python](./solutions/098.Validate_Binary_Search_Tree) | [Note](./solutions/098.Validate_Binary_Search_Tree) |
-| 099 | [Recover Binary Search Tree](https://oj.leetcode.com/problems/Recover-Binary-Search-Tree/) | [C++ Python](./solutions/099.Recover_Binary_Search_Tree) | [Note](./solutions/099.Recover_Binary_Search_Tree) |
+| 095 | [Unique Binary Search Trees](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees/) | [C++](./solutions/095.Unique_Binary_Search_Trees) | [Note Here](./solutions/095.Unique_Binary_Search_Trees) |
+| 096 | [Unique Binary Search Trees II](https://oj.leetcode.com/problems/Unique-Binary-Search-Trees-II/) | [C++](./solutions/096.Unique_Binary_Search_Trees_II) | [Note Here](./solutions/096.Unique_Binary_Search_Trees_II) |
+| 097 | [Interleaving String](https://oj.leetcode.com/problems/Interleaving-String/) | [C++ Java](./solutions/097.Interleaving_String) | [Note Here](./solutions/097.Interleaving_String) |
+| 098 | [Validate Binary Search Tree](https://oj.leetcode.com/problems/Validate-Binary-Search-Tree/) | [C++ Java Python](./solutions/098.Validate_Binary_Search_Tree) | [Note Here](./solutions/098.Validate_Binary_Search_Tree) |
+| 099 | [Recover Binary Search Tree](https://oj.leetcode.com/problems/Recover-Binary-Search-Tree/) | [C++ Python](./solutions/099.Recover_Binary_Search_Tree) | [Note Here](./solutions/099.Recover_Binary_Search_Tree) |
 | 100 | [Same Tree](https://oj.leetcode.com/problems/Same-Tree/) | [C++](./solutions/100.Same_Tree) | Coming soon |
 | 101 | [Symmetric Tree](https://oj.leetcode.com/problems/Symmetric-Tree/) | [C++](./solutions/101.Symmetric_Tree) | Coming soon |
-| 102 | [Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal/) | [C++ Python](./solutions/102.Binary_Tree_Level_Order_Traversal) | [Note](./solutions/102.Binary_Tree_Level_Order_Traversal) |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Zigzag-Level-Order-Traversal/) | [C++ Python](./solutions/103.Binary_Tree_Zigzag_Level_Order_Traversal) | [Note](./solutions/103.Binary_Tree_Zigzag_Level_Order_Traversal) |
+| 102 | [Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal/) | [C++ Python](./solutions/102.Binary_Tree_Level_Order_Traversal) | [Note Here](./solutions/102.Binary_Tree_Level_Order_Traversal) |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/Binary-Tree-Zigzag-Level-Order-Traversal/) | [C++ Python](./solutions/103.Binary_Tree_Zigzag_Level_Order_Traversal) | [Note Here](./solutions/103.Binary_Tree_Zigzag_Level_Order_Traversal) |
 | 104 | [Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/Maximum-Depth-of-Binary-Tree/) | [C++](./solutions/104.Maximum_Depth_of_Binary_Tree) | Coming soon |
-| 105 | [Construct Binary Tree from Preord...](https://oj.leetcode.com/problems/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/) | [C++](./solutions/105.Construct_Binary_Tree_from_Preord...) | [Note](./solutions/105.Construct_Binary_Tree_from_Preord...) |
-| 106 | [Construct Binary Tree from Inorde...](https://oj.leetcode.com/problems/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/) | [C++](./solutions/106.Construct_Binary_Tree_from_Inorde...) | [Note](./solutions/106.Construct_Binary_Tree_from_Inorde...) |
-| 107 | [Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal-II/) | [C++ Python](./solutions/107.Binary_Tree_Level_Order_Traversal_II) | [Note](./solutions/107.Binary_Tree_Level_Order_Traversal_II) |
-| 108 | [Convert Sorted Array to Binary Se...](https://oj.leetcode.com/problems/Convert-Sorted-Array-to-Binary-Search-Tree/) | [C++](./solutions/108.Convert_Sorted_Array_to_Binary_Se...) | [Note](./solutions/108.Convert_Sorted_Array_to_Binary_Se...) |
-| 109 | [Convert Sorted List to Binary Sea...](https://oj.leetcode.com/problems/Convert-Sorted-List-to-Binary-Search-Tree/) | [C++ Python](./solutions/109.Convert_Sorted_List_to_Binary_Sea...) | [Note](./solutions/109.Convert_Sorted_List_to_Binary_Sea...) |
+| 105 | [Construct Binary Tree from Preord...](https://oj.leetcode.com/problems/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/) | [C++](./solutions/105.Construct_Binary_Tree_from_Preord...) | [Note Here](./solutions/105.Construct_Binary_Tree_from_Preord...) |
+| 106 | [Construct Binary Tree from Inorde...](https://oj.leetcode.com/problems/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/) | [C++](./solutions/106.Construct_Binary_Tree_from_Inorde...) | [Note Here](./solutions/106.Construct_Binary_Tree_from_Inorde...) |
+| 107 | [Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/Binary-Tree-Level-Order-Traversal-II/) | [C++ Python](./solutions/107.Binary_Tree_Level_Order_Traversal_II) | [Note Here](./solutions/107.Binary_Tree_Level_Order_Traversal_II) |
+| 108 | [Convert Sorted Array to Binary Se...](https://oj.leetcode.com/problems/Convert-Sorted-Array-to-Binary-Search-Tree/) | [C++](./solutions/108.Convert_Sorted_Array_to_Binary_Se...) | [Note Here](./solutions/108.Convert_Sorted_Array_to_Binary_Se...) |
+| 109 | [Convert Sorted List to Binary Sea...](https://oj.leetcode.com/problems/Convert-Sorted-List-to-Binary-Search-Tree/) | [C++ Python](./solutions/109.Convert_Sorted_List_to_Binary_Sea...) | [Note Here](./solutions/109.Convert_Sorted_List_to_Binary_Sea...) |
 | 110 | [Balanced Binary Tree](https://oj.leetcode.com/problems/Balanced-Binary-Tree/) | [C++](./solutions/110.Balanced_Binary_Tree) | Coming soon |
 | 111 | [Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/Minimum-Depth-of-Binary-Tree/) | [C++](./solutions/111.Minimum_Depth_of_Binary_Tree) | Coming soon |
 | 112 | [Path Sum](https://oj.leetcode.com/problems/Path-Sum/) | [C++](./solutions/112.Path_Sum) | Coming soon |
 | 113 | [Path Sum II](https://oj.leetcode.com/problems/Path-Sum-II/) | [C++ Java Python](./solutions/113.Path_Sum_II) | Coming soon |
-| 114 | [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/Flatten-Binary-Tree-to-Linked-List/) | [C++ Java](./solutions/114.Flatten_Binary_Tree_to_Linked_List) | [Note](./solutions/114.Flatten_Binary_Tree_to_Linked_List) |
-| 115 | [Distinct Subsequences](https://oj.leetcode.com/problems/Distinct-Subsequences/) | [C++ Python](./solutions/115.Distinct_Subsequences) | [Note](./solutions/115.Distinct_Subsequences) |
+| 114 | [Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/Flatten-Binary-Tree-to-Linked-List/) | [C++ Java](./solutions/114.Flatten_Binary_Tree_to_Linked_List) | [Note Here](./solutions/114.Flatten_Binary_Tree_to_Linked_List) |
+| 115 | [Distinct Subsequences](https://oj.leetcode.com/problems/Distinct-Subsequences/) | [C++ Python](./solutions/115.Distinct_Subsequences) | [Note Here](./solutions/115.Distinct_Subsequences) |
 | 116 | [Populating Next Right Pointers in...](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node/) | [C++ Java Python](./solutions/116.Populating_Next_Right_Pointers_in...) | Coming soon |
 | 117 | [Populating Next Right Pointers in...](https://oj.leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node-II/) | [C++ Java Python](./solutions/117.Populating_Next_Right_Pointers_in...) | Coming soon |
 | 118 | [Pascals Triangle](https://oj.leetcode.com/problems/Pascals-Triangle/) | [C++](./solutions/118.Pascals_Triangle) | Coming soon |
 | 119 | [Pascal's Triangle II](https://oj.leetcode.com/problems/Pascal's-Triangle-II/) | [C++](./solutions/119.Pascal's_Triangle_II) | Coming soon |
 | 120 | [Triangle](https://oj.leetcode.com/problems/Triangle/) | [C++ Java Python](./solutions/120.Triangle) | Coming soon |
-| 121 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock/) | [C++ Python](./solutions/121.Best_Time_to_Buy_and_Sell_Stock) | [Note](./solutions/121.Best_Time_to_Buy_and_Sell_Stock) |
-| 122 | [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | [C++ Python](./solutions/122.Best_Time_to_Buy_and_Sell_Stock_II) | [Note](./solutions/122.Best_Time_to_Buy_and_Sell_Stock_II) |
-| 123 | [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-III/) | [C++ Python](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) | [Note](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) |
+| 121 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock/) | [C++ Python](./solutions/121.Best_Time_to_Buy_and_Sell_Stock) | [Note Here](./solutions/121.Best_Time_to_Buy_and_Sell_Stock) |
+| 122 | [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | [C++ Python](./solutions/122.Best_Time_to_Buy_and_Sell_Stock_II) | [Note Here](./solutions/122.Best_Time_to_Buy_and_Sell_Stock_II) |
+| 123 | [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-III/) | [C++ Python](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) | [Note Here](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) |
 | 124 | [Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/Binary-Tree-Maximum-Path-Sum/) | Coming soon | Coming soon |
 | 125 | [Valid Palindrome](https://oj.leetcode.com/problems/Valid-Palindrome/) | [C++](./solutions/125.Valid_Palindrome) | Coming soon |
 | 126 | [Word Ladder](https://oj.leetcode.com/problems/Word-Ladder/) | Coming soon | Coming soon |
 | 127 | [Word Ladder II](https://oj.leetcode.com/problems/Word-Ladder-II/) | Coming soon | Coming soon |
 | 128 | [Longest Consecutive Sequence](https://oj.leetcode.com/problems/Longest-Consecutive-Sequence/) | Coming soon | Coming soon |
 | 129 | [Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/Sum-Root-to-Leaf-Numbers/) | [C++](./solutions/129.Sum_Root_to_Leaf_Numbers) | Coming soon |
-| 130 | [Surrounded Regions](https://oj.leetcode.com/problems/Surrounded-Regions/) | [C++](./solutions/130.Surrounded_Regions) | [Note](./solutions/130.Surrounded_Regions) |
+| 130 | [Surrounded Regions](https://oj.leetcode.com/problems/Surrounded-Regions/) | [C++](./solutions/130.Surrounded_Regions) | [Note Here](./solutions/130.Surrounded_Regions) |
 | 131 | [Palindrome Partitioning](https://oj.leetcode.com/problems/Palindrome-Partitioning/) | Coming soon | Coming soon |
 | 132 | [Palindrome Partitioning II](https://oj.leetcode.com/problems/Palindrome-Partitioning-II/) | Coming soon | Coming soon |
 | 133 | [Clone Graph](https://oj.leetcode.com/problems/Clone-Graph/) | [C++](./solutions/133.Clone_Graph) | Coming soon |
@@ -171,7 +171,7 @@ I have solved 150 / 191 problems.=w=
 | 147 | [Insertion Sort List](https://oj.leetcode.com/problems/Insertion-Sort-List/) | [C++](./solutions/147.Insertion_Sort_List) | Coming soon |
 | 148 | [Sort List](https://oj.leetcode.com/problems/Sort-List/) | Coming soon | Coming soon |
 | 149 | [Max Points on a Line](https://oj.leetcode.com/problems/Max-Points-on-a-Line/) | Coming soon | Coming soon |
-| 150 | [Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/Evaluate-Reverse-Polish-Notation/) | [C++ Java Python](./solutions/150.Evaluate_Reverse_Polish_Notation) | [Note](./solutions/150.Evaluate_Reverse_Polish_Notation) |
+| 150 | [Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/Evaluate-Reverse-Polish-Notation/) | [C++ Java Python](./solutions/150.Evaluate_Reverse_Polish_Notation) | [Note Here](./solutions/150.Evaluate_Reverse_Polish_Notation) |
 | 151 | [Reverse Words in a String](https://oj.leetcode.com/problems/Reverse-Words-in-a-String/) | Coming soon | Coming soon |
 | 152 | [Maximum Product Subarray](https://oj.leetcode.com/problems/Maximum-Product-Subarray/) | [C++](./solutions/152.Maximum_Product_Subarray) | Coming soon |
 | 153 | [Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array/) | Coming soon | Coming soon |
@@ -209,7 +209,7 @@ I have solved 150 / 191 problems.=w=
 | 185 | [Department Top Three Salaries](https://oj.leetcode.com/problems/Department-Top-Three-Salaries/) | Coming soon | Coming soon |
 | 186 | [Reverse Words in a String II](https://oj.leetcode.com/problems/Reverse-Words-in-a-String-II/) | Not Buy | Not Buy |
 | 187 | [Repeated DNA Sequences](https://oj.leetcode.com/problems/Repeated-DNA-Sequences/) | [C++ Java Python](./solutions/187.Repeated_DNA_Sequences) | Coming soon |
-| 188 | [Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | [C++](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) | [Note](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) |
+| 188 | [Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | [C++](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) | [Note Here](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) |
 | 189 | [Rotate Array](https://oj.leetcode.com/problems/Rotate-Array/) | Coming soon | Coming soon |
 | 190 | [Reverse Bits](https://oj.leetcode.com/problems/Reverse-Bits/) | Coming soon | Coming soon |
 | 191 | [Number of 1 Bits](https://oj.leetcode.com/problems/Number-of-1-Bits/) | Coming soon | Coming soon |
