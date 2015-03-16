@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 150 / 191 problems.=w=  
+I have solved 153 / 191 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -194,7 +194,7 @@ I have solved 150 / 191 problems.=w=
 | 170 | [Two Sum III - Data structure design](https://oj.leetcode.com/problems/Two-Sum-III---Data-structure-design/) | Not Buy | Not Buy |
 | 171 | [Excel Sheet Column Number](https://oj.leetcode.com/problems/Excel-Sheet-Column-Number/) | [C++ Java Python](./solutions/171.Excel_Sheet_Column_Number) | Coming soon |
 | 172 | [Factorial Trailing Zeroes](https://oj.leetcode.com/problems/Factorial-Trailing-Zeroes/) | [C++ Java Python](./solutions/172.Factorial_Trailing_Zeroes) | Coming soon |
-| 173 | [Binary Search Tree Iterator](https://oj.leetcode.com/problems/Binary-Search-Tree-Iterator/) | Coming soon | Coming soon |
+| 173 | [Binary Search Tree Iterator](https://oj.leetcode.com/problems/Binary-Search-Tree-Iterator/) | [C++ Python](./solutions/173.Binary_Search_Tree_Iterator) | [Note Here](./solutions/173.Binary_Search_Tree_Iterator) |
 | 174 | [Dungeon Game](https://oj.leetcode.com/problems/Dungeon-Game/) | Coming soon | Coming soon |
 | 175 | [Combine Two Tables](https://oj.leetcode.com/problems/Combine-Two-Tables/) | [SQL](./solutions/175.Combine_Two_Tables) | Coming soon |
 | 176 | [Second Highest Salary](https://oj.leetcode.com/problems/Second-Highest-Salary/) | [SQL](./solutions/176.Second_Highest_Salary) | Coming soon |
@@ -211,5 +211,5 @@ I have solved 150 / 191 problems.=w=
 | 187 | [Repeated DNA Sequences](https://oj.leetcode.com/problems/Repeated-DNA-Sequences/) | [C++ Java Python](./solutions/187.Repeated_DNA_Sequences) | Coming soon |
 | 188 | [Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | [C++](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) | [Note Here](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) |
 | 189 | [Rotate Array](https://oj.leetcode.com/problems/Rotate-Array/) | Coming soon | Coming soon |
-| 190 | [Reverse Bits](https://oj.leetcode.com/problems/Reverse-Bits/) | Coming soon | Coming soon |
-| 191 | [Number of 1 Bits](https://oj.leetcode.com/problems/Number-of-1-Bits/) | Coming soon | Coming soon |
+| 190 | [Reverse Bits](https://oj.leetcode.com/problems/Reverse-Bits/) | [C++ Java Python](./solutions/190.Reverse_Bits) | [Note Here](./solutions/190.Reverse_Bits) |
+| 191 | [Number of 1 Bits](https://oj.leetcode.com/problems/Number-of-1-Bits/) | [C++ Java](./solutions/191.Number_of_1_Bits) | [Note Here](./solutions/191.Number_of_1_Bits) |
