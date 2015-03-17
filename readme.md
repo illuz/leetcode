@@ -18,7 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 153 / 191 problems.=w=  
+I have solved 157 / 191 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -198,13 +198,13 @@ I have solved 153 / 191 problems.=w=
 | 174 | [Dungeon Game](https://oj.leetcode.com/problems/Dungeon-Game/) | Coming soon | Coming soon |
 | 175 | [Combine Two Tables](https://oj.leetcode.com/problems/Combine-Two-Tables/) | [SQL](./solutions/175.Combine_Two_Tables) | Coming soon |
 | 176 | [Second Highest Salary](https://oj.leetcode.com/problems/Second-Highest-Salary/) | [SQL](./solutions/176.Second_Highest_Salary) | Coming soon |
-| 177 | [Nth Highest Salary](https://oj.leetcode.com/problems/Nth-Highest-Salary/) | Coming soon | Coming soon |
-| 178 | [Rank Scores](https://oj.leetcode.com/problems/Rank-Scores/) | Coming soon | Coming soon |
+| 177 | [Nth Highest Salary](https://oj.leetcode.com/problems/Nth-Highest-Salary/) | [SQL](./solutions/177.Nth_Highest_Salary) | [Note Here](./solutions/177.Nth_Highest_Salary) |
+| 178 | [Rank Scores](https://oj.leetcode.com/problems/Rank-Scores/) | [SQL](./solutions/178.Rank_Scores) | [Note Here](./solutions/178.Rank_Scores) |
 | 179 | [Largest Number](https://oj.leetcode.com/problems/Largest-Number/) | [C++ Java Python](./solutions/179.Largest_Number) | Coming soon |
 | 180 | [Consecutive Numbers](https://oj.leetcode.com/problems/Consecutive-Numbers/) | Coming soon | Coming soon |
-| 181 | [Employees Earning More Than Their...](https://oj.leetcode.com/problems/Employees-Earning-More-Than-Their-Managers/) | Coming soon | Coming soon |
+| 181 | [Employees Earning More Than Their...](https://oj.leetcode.com/problems/Employees-Earning-More-Than-Their-Managers/) | [SQL](./solutions/181.Employees_Earning_More_Than_Their...) | Coming soon |
 | 182 | [Duplicate Emails](https://oj.leetcode.com/problems/Duplicate-Emails/) | [SQL](./solutions/182.Duplicate_Emails) | Coming soon |
-| 183 | [Customers Who Never Order](https://oj.leetcode.com/problems/Customers-Who-Never-Order/) | Coming soon | Coming soon |
+| 183 | [Customers Who Never Order](https://oj.leetcode.com/problems/Customers-Who-Never-Order/) | [SQL](./solutions/183.Customers_Who_Never_Order) | [Note Here](./solutions/183.Customers_Who_Never_Order) |
 | 184 | [Department Highest Salary](https://oj.leetcode.com/problems/Department-Highest-Salary/) | Coming soon | Coming soon |
 | 185 | [Department Top Three Salaries](https://oj.leetcode.com/problems/Department-Top-Three-Salaries/) | Coming soon | Coming soon |
 | 186 | [Reverse Words in a String II](https://oj.leetcode.com/problems/Reverse-Words-in-a-String-II/) | Not Buy | Not Buy |
