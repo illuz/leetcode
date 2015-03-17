@@ -63,23 +63,25 @@ for prb, cont in new_res:
 
     # exclude leetcode book
     if prb[:3] in leetcode_book:
-        p += 'Not Buy | Not Buy |'
+        p += '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |'
     elif cont != []:
-        p += '['
+        sol = '['
         if 'C++' in cont:
-            p += 'C++ '
+            sol += 'C++ '
         if 'Java' in cont:
-            p += 'Java '
+            sol += 'Java '
         if 'Python' in cont:
-            p += 'Python '
+            sol += 'Python '
         if 'Sql' in cont:
-            p += 'SQL '
-        p = p[:-1] + '](./solutions/' + prb + ') |'
+            sol += 'SQL '
+        sol = sol[:-1] + ']'
+        sol = sol.rjust(15, ' ')
+        p = p + re.sub(' ', '&nbsp;', sol) + '(./solutions/' + prb + ') |'
         if 'Notes' in cont:
-            p += ' [Note Here](./solutions/' + prb + ') |'
+            p += ' &nbsp;&nbsp;&nbsp;[Note Here](./solutions/' + prb + ') |'
         else:
             p += ' Coming soon |'
     else:
-        p += 'Coming soon | Coming soon |'
+        p += ' &nbsp;&nbsp;Coming soon | Coming soon |'
 
     print (p)
