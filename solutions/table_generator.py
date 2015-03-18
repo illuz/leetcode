@@ -32,6 +32,8 @@ for root, dirs, files in os.walk('.'):
         elif file[-2:] == 'md':
             res[root[2:]].append('Notes')
     
+    if root[2:5] in leetcode_book:
+        continue
     total += 1
     if res[root[2:]]:
         solved += 1
@@ -42,6 +44,7 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 
 # table head
 
+print ('There are {} problems ({} problems for a fee).\n'.format(total+len(leetcode_book), len(leetcode_book)))
 print ('I have solved {} / {} problems.=w=  \n'.format(solved, total))
 print ('| \# | Problems | Solutions | Note |')
 print ('|----|----------|-----------|------|')
@@ -58,6 +61,8 @@ for prb, cont in new_res:
 
     if len(prb[4:]) > 40:
         prb = prb[:37] + '...'
+    if prb[:3] in leetcode_book:
+        prb += '$'
 
     p = '| ' + prb[:3] + ' | [' + re.sub('_', ' ', prb[4:]) + '](' + link + ') | '
 

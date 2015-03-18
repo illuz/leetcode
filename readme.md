@@ -18,7 +18,9 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-I have solved 158 / 191 problems.=w=  
+There are 191 problems (9 problems for a fee).
+
+I have solved 160 / 182 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -172,26 +174,26 @@ I have solved 158 / 191 problems.=w=
 | 148 | [Sort List](https://oj.leetcode.com/problems/Sort-List/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 149 | [Max Points on a Line](https://oj.leetcode.com/problems/Max-Points-on-a-Line/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 150 | [Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/Evaluate-Reverse-Polish-Notation/) | [C++&nbsp;Java&nbsp;Python](./solutions/150.Evaluate_Reverse_Polish_Notation) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/150.Evaluate_Reverse_Polish_Notation) |
-| 151 | [Reverse Words in a String](https://oj.leetcode.com/problems/Reverse-Words-in-a-String/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 151 | [Reverse Words in a String](https://oj.leetcode.com/problems/Reverse-Words-in-a-String/) | [C++&nbsp;Java&nbsp;Python](./solutions/151.Reverse_Words_in_a_String) | Coming soon |
 | 152 | [Maximum Product Subarray](https://oj.leetcode.com/problems/Maximum-Product-Subarray/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/152.Maximum_Product_Subarray) | Coming soon |
-| 153 | [Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 153 | [Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/153.Find_Minimum_in_Rotated_Sorted_Array) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/153.Find_Minimum_in_Rotated_Sorted_Array) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 155 | [Min Stack](https://oj.leetcode.com/problems/Min-Stack/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/155.Min_Stack) | Coming soon |
-| 156 | [Binary Tree Upside Down](https://oj.leetcode.com/problems/Binary-Tree-Upside-Down/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 157 | [Read N Characters Given Read4](https://oj.leetcode.com/problems/Read-N-Characters-Given-Read4/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 158 | [Read N Characters Given Read4 II ...](https://oj.leetcode.com/problems/Read-N-Characters-Given-Read4-II---Call-multiple-times/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 159 | [Longest Substring with At Most Tw...](https://oj.leetcode.com/problems/Longest-Substring-with-At-Most-Two-Distinct-Characters/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 156 | [Binary Tree Upside Down$](https://oj.leetcode.com/problems/Binary-Tree-Upside-Down/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 157 | [Read N Characters Given Read4$](https://oj.leetcode.com/problems/Read-N-Characters-Given-Read4/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 158 | [Read N Characters Given Read4 II ...$](https://oj.leetcode.com/problems/Read-N-Characters-Given-Read4-II---Call-multiple-times/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 159 | [Longest Substring with At Most Tw...$](https://oj.leetcode.com/problems/Longest-Substring-with-At-Most-Two-Distinct-Characters/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 160 | [Intersection of Two Linked Lists](https://oj.leetcode.com/problems/Intersection-of-Two-Linked-Lists/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/160.Intersection_of_Two_Linked_Lists) | Coming soon |
-| 161 | [One Edit Distance](https://oj.leetcode.com/problems/One-Edit-Distance/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 161 | [One Edit Distance$](https://oj.leetcode.com/problems/One-Edit-Distance/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 162 | [Find Peak Element](https://oj.leetcode.com/problems/Find-Peak-Element/) | [C++&nbsp;Java&nbsp;Python](./solutions/162.Find_Peak_Element) | Coming soon |
-| 163 | [Missing Ranges](https://oj.leetcode.com/problems/Missing-Ranges/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 163 | [Missing Ranges$](https://oj.leetcode.com/problems/Missing-Ranges/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 164 | [Maximum Gap](https://oj.leetcode.com/problems/Maximum-Gap/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 165 | [Compare Version Numbers](https://oj.leetcode.com/problems/Compare-Version-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/165.Compare_Version_Numbers) | Coming soon |
 | 166 | [Fraction to Recurring Decimal](https://oj.leetcode.com/problems/Fraction-to-Recurring-Decimal/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 167 | [Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/Two-Sum-II---Input-array-is-sorted/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 167 | [Two Sum II - Input array is sorted$](https://oj.leetcode.com/problems/Two-Sum-II---Input-array-is-sorted/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 168 | [Excel Sheet Column Title](https://oj.leetcode.com/problems/Excel-Sheet-Column-Title/) | [C++&nbsp;Java&nbsp;Python](./solutions/168.Excel_Sheet_Column_Title) | Coming soon |
 | 169 | [Majority Element](https://oj.leetcode.com/problems/Majority-Element/) | [C++&nbsp;Java&nbsp;Python](./solutions/169.Majority_Element) | Coming soon |
-| 170 | [Two Sum III - Data structure design](https://oj.leetcode.com/problems/Two-Sum-III---Data-structure-design/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 170 | [Two Sum III - Data structure design$](https://oj.leetcode.com/problems/Two-Sum-III---Data-structure-design/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 171 | [Excel Sheet Column Number](https://oj.leetcode.com/problems/Excel-Sheet-Column-Number/) | [C++&nbsp;Java&nbsp;Python](./solutions/171.Excel_Sheet_Column_Number) | Coming soon |
 | 172 | [Factorial Trailing Zeroes](https://oj.leetcode.com/problems/Factorial-Trailing-Zeroes/) | [C++&nbsp;Java&nbsp;Python](./solutions/172.Factorial_Trailing_Zeroes) | Coming soon |
 | 173 | [Binary Search Tree Iterator](https://oj.leetcode.com/problems/Binary-Search-Tree-Iterator/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/173.Binary_Search_Tree_Iterator) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/173.Binary_Search_Tree_Iterator) |
@@ -207,7 +209,7 @@ I have solved 158 / 191 problems.=w=
 | 183 | [Customers Who Never Order](https://oj.leetcode.com/problems/Customers-Who-Never-Order/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/183.Customers_Who_Never_Order) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/183.Customers_Who_Never_Order) |
 | 184 | [Department Highest Salary](https://oj.leetcode.com/problems/Department-Highest-Salary/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 185 | [Department Top Three Salaries](https://oj.leetcode.com/problems/Department-Top-Three-Salaries/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 186 | [Reverse Words in a String II](https://oj.leetcode.com/problems/Reverse-Words-in-a-String-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 186 | [Reverse Words in a String II$](https://oj.leetcode.com/problems/Reverse-Words-in-a-String-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 187 | [Repeated DNA Sequences](https://oj.leetcode.com/problems/Repeated-DNA-Sequences/) | [C++&nbsp;Java&nbsp;Python](./solutions/187.Repeated_DNA_Sequences) | Coming soon |
 | 188 | [Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) |
 | 189 | [Rotate Array](https://oj.leetcode.com/problems/Rotate-Array/) |  &nbsp;&nbsp;Coming soon | Coming soon |
