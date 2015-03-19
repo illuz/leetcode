@@ -20,7 +20,9 @@ Language: **C++/Java/Python/(Sql)**
 
 There are 191 problems (9 problems for a fee).
 
-I have solved 160 / 182 problems.=w=  
+There are 191 problems (9 problems for a fee).
+
+I have solved 162 / 182 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -154,8 +156,8 @@ I have solved 160 / 182 problems.=w=
 | 128 | [Longest Consecutive Sequence](https://oj.leetcode.com/problems/Longest-Consecutive-Sequence/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 129 | [Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/Sum-Root-to-Leaf-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/129.Sum_Root_to_Leaf_Numbers) | Coming soon |
 | 130 | [Surrounded Regions](https://oj.leetcode.com/problems/Surrounded-Regions/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/130.Surrounded_Regions) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/130.Surrounded_Regions) |
-| 131 | [Palindrome Partitioning](https://oj.leetcode.com/problems/Palindrome-Partitioning/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 132 | [Palindrome Partitioning II](https://oj.leetcode.com/problems/Palindrome-Partitioning-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 131 | [Palindrome Partitioning](https://oj.leetcode.com/problems/Palindrome-Partitioning/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/131.Palindrome_Partitioning) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/131.Palindrome_Partitioning) |
+| 132 | [Palindrome Partitioning II](https://oj.leetcode.com/problems/Palindrome-Partitioning-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/132.Palindrome_Partitioning_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/132.Palindrome_Partitioning_II) |
 | 133 | [Clone Graph](https://oj.leetcode.com/problems/Clone-Graph/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/133.Clone_Graph) | Coming soon |
 | 134 | [Gas Station](https://oj.leetcode.com/problems/Gas-Station/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/134.Gas_Station) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/134.Gas_Station) |
 | 135 | [Candy](https://oj.leetcode.com/problems/Candy/) |  &nbsp;&nbsp;Coming soon | Coming soon |
@@ -174,7 +176,7 @@ I have solved 160 / 182 problems.=w=
 | 148 | [Sort List](https://oj.leetcode.com/problems/Sort-List/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 149 | [Max Points on a Line](https://oj.leetcode.com/problems/Max-Points-on-a-Line/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 150 | [Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/Evaluate-Reverse-Polish-Notation/) | [C++&nbsp;Java&nbsp;Python](./solutions/150.Evaluate_Reverse_Polish_Notation) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/150.Evaluate_Reverse_Polish_Notation) |
-| 151 | [Reverse Words in a String](https://oj.leetcode.com/problems/Reverse-Words-in-a-String/) | [C++&nbsp;Java&nbsp;Python](./solutions/151.Reverse_Words_in_a_String) | Coming soon |
+| 151 | [Reverse Words in a String](https://oj.leetcode.com/problems/Reverse-Words-in-a-String/) | [C++&nbsp;Java&nbsp;Python](./solutions/151.Reverse_Words_in_a_String) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/151.Reverse_Words_in_a_String) |
 | 152 | [Maximum Product Subarray](https://oj.leetcode.com/problems/Maximum-Product-Subarray/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/152.Maximum_Product_Subarray) | Coming soon |
 | 153 | [Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/153.Find_Minimum_in_Rotated_Sorted_Array) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/153.Find_Minimum_in_Rotated_Sorted_Array) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
