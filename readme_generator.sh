@@ -3,7 +3,7 @@
 #  
 
 # delete 'solved' to end
-sed -i.bak '/I have solved/, $ d' readme.md
+sed -i.bak '/for a fee/, $ d' readme.md
 
 # generate table and append
 cd solutions

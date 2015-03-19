@@ -44,7 +44,7 @@ new_res = sorted(res.items(), key=operator.itemgetter(0))
 
 # table head
 
-print ('There are {} problems ({} problems for a fee).\n'.format(total+len(leetcode_book), len(leetcode_book)))
+print ('There are {} problems ({} problems for a fee).  \n'.format(total+len(leetcode_book), len(leetcode_book)))
 print ('I have solved {} / {} problems.=w=  \n'.format(solved, total))
 print ('| \# | Problems | Solutions | Note |')
 print ('|----|----------|-----------|------|')

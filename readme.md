@@ -18,9 +18,7 @@ Language: **C++/Java/Python/(Sql)**
 
 ### Problems
 
-There are 191 problems (9 problems for a fee).
-
-There are 191 problems (9 problems for a fee).
+There are 191 problems (9 problems for a fee).  
 
 I have solved 162 / 182 problems.=w=  
 
