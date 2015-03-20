@@ -21,37 +21,37 @@ typedef unordered_map<int, UndirectedGraphNode *> immap;
 
 class Solution {
 private:
-	immap gmap;
+    immap gmap;
 
-	UndirectedGraphNode *dfs(UndirectedGraphNode *node) {
-		UndirectedGraphNode *newnode;
-		if (gmap.find(node->label) == gmap.end()) {
-			newnode = new UndirectedGraphNode(node->label);
-			gmap.insert(immap::value_type(node->label, newnode));
-			for (auto &i : node->neighbors)
-				newnode->neighbors.push_back(dfs(i));
-		} else {
-			newnode = gmap[node->label];
-		}
+    UndirectedGraphNode *dfs(UndirectedGraphNode *node) {
+        UndirectedGraphNode *newnode;
+        if (gmap.find(node->label) == gmap.end()) {
+            newnode = new UndirectedGraphNode(node->label);
+            gmap.insert(immap::value_type(node->label, newnode));
+            for (auto &i : node->neighbors)
+                newnode->neighbors.push_back(dfs(i));
+        } else {
+            newnode = gmap[node->label];
+        }
 
-		return newnode;
-	}
+        return newnode;
+    }
 
 public:
-	UndirectedGraphNode *cloneGraph(UndirectedGraphNode *node) {
-		if (!node)
-			return NULL;
+    UndirectedGraphNode *cloneGraph(UndirectedGraphNode *node) {
+        if (!node)
+            return NULL;
 
-		gmap.clear();
-		UndirectedGraphNode *ret = dfs(node);
-		return ret;
-	}
+        gmap.clear();
+        UndirectedGraphNode *ret = dfs(node);
+        return ret;
+    }
 };
 
 int main() {
-	Solution s;
-	UndirectedGraphNode *a = new UndirectedGraphNode(0), *b;
-	b = s.cloneGraph(a);
-	return 0;
+    Solution s;
+    UndirectedGraphNode *a = new UndirectedGraphNode(0), *b;
+    b = s.cloneGraph(a);
+    return 0;
 }
 

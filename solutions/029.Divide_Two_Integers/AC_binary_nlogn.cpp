@@ -15,33 +15,33 @@ typedef long long ll;
 class Solution {
 public:
     int divide(int dividend, int divisor) {
-		ll a = dividend >= 0 ? dividend : -(ll)dividend;
-		ll b = divisor >= 0 ? divisor : -(ll)divisor;
-		ll result = 0, c = 0;
-		bool sign = (dividend > 0 && divisor < 0) ||
-			(dividend < 0 && divisor > 0);
+        ll a = dividend >= 0 ? dividend : -(ll)dividend;
+        ll b = divisor >= 0 ? divisor : -(ll)divisor;
+        ll result = 0, c = 0;
+        bool sign = (dividend > 0 && divisor < 0) ||
+            (dividend < 0 && divisor > 0);
 
-		while (a >= b) {
-			c = b;
-			for (int i = 0; a >= c; i++, c <<= 1) {
-				a -= c;
-				result += (1<<i);
-			}
-		}
-		if (sign) {
-			return max((ll)INT_MIN, -result);
-		} else {
-			return min((ll)INT_MAX, result);
-		}
+        while (a >= b) {
+            c = b;
+            for (int i = 0; a >= c; i++, c <<= 1) {
+                a -= c;
+                result += (1<<i);
+            }
+        }
+        if (sign) {
+            return max((ll)INT_MIN, -result);
+        } else {
+            return min((ll)INT_MAX, result);
+        }
     }
 };
 
 int main() {
-	int a, b;
-	Solution s;
-	while (cin >> a >> b) {
-		cout << s.divide(a, b) << endl;
-	}
-	return 0;
+    int a, b;
+    Solution s;
+    while (cin >> a >> b) {
+        cout << s.divide(a, b) << endl;
+    }
+    return 0;
 }
 

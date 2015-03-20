@@ -14,30 +14,30 @@ const int N = 0;
 class Solution {
 public:
     bool isMatch(const char *s, const char *p) {
-        const char* star = NULL;	// position of * in p
-        const char* spos = s;		// position in s, mapping *
+        const char* star = NULL;    // position of * in p
+        const char* spos = s;        // position in s, mapping *
         while (*s) {
-			if (*p == '?' || *p == *s)	// match
-				s++, p++;
-			else if (*p == '*')		// recort the nearest star
-				star = p++, spos = s;
-			else if (star)			// fall back
-				p = star + 1, s = ++spos;
-			else
-				return false;
+            if (*p == '?' || *p == *s)    // match
+                s++, p++;
+            else if (*p == '*')        // recort the nearest star
+                star = p++, spos = s;
+            else if (star)            // fall back
+                p = star + 1, s = ++spos;
+            else
+                return false;
         }
-		// pass the rest *
-		while (*p == '*')
-			p++;
+        // pass the rest *
+        while (*p == '*')
+            p++;
         return !*p;
     }
 };
 
 int main() {
-	char s[100], p[100];
-	Solution ss;
-	while (cin >> s >> p)
-		cout << ss.isMatch(s, p) << endl;
-	return 0;
+    char s[100], p[100];
+    Solution ss;
+    while (cin >> s >> p)
+        cout << ss.isMatch(s, p) << endl;
+    return 0;
 }
 

@@ -20,30 +20,30 @@ struct TreeNode {
 
 class Solution {
 private:
-	int sum;
-	void dfs(TreeNode *cur, int num) {
-		num = num * 10 + cur->val;
-		if (!cur->left && !cur->right) {
-			sum += num;
-			return;
-		}
-		if (cur->left)
-			dfs(cur->left, num);
-		if (cur->right)
-			dfs(cur->right, num);
-	}
+    int sum;
+    void dfs(TreeNode *cur, int num) {
+        num = num * 10 + cur->val;
+        if (!cur->left && !cur->right) {
+            sum += num;
+            return;
+        }
+        if (cur->left)
+            dfs(cur->left, num);
+        if (cur->right)
+            dfs(cur->right, num);
+    }
 public:
-	int sumNumbers(TreeNode *root) {
-		if (!root)
-			return 0;
-		sum = 0;
-		dfs(root, 0);
-		return sum;
-	}
+    int sumNumbers(TreeNode *root) {
+        if (!root)
+            return 0;
+        sum = 0;
+        dfs(root, 0);
+        return sum;
+    }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

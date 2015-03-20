@@ -12,19 +12,19 @@ const int N = 0;
 
 class Solution {
 public:
-	int titleToNumber(string s) {
-		int col = 0;
-		for (char i : s)
-			col = col * 26 + (i - 'A' + 1);
-		return col;
-	}
+    int titleToNumber(string s) {
+        int col = 0;
+        for (char i : s)
+            col = col * 26 + (i - 'A' + 1);
+        return col;
+    }
 };
 
 int main() {
-	string str;
-	Solution s;
-	while (cin >> str)
-		cout << s.titleToNumber(str) << endl;
-	return 0;
+    string str;
+    Solution s;
+    while (cin >> str)
+        cout << s.titleToNumber(str) << endl;
+    return 0;
 }
 

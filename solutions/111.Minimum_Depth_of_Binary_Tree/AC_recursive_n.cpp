@@ -21,20 +21,20 @@ struct TreeNode {
 class Solution {
 public:
     int minDepth(TreeNode *root) {
-		if (root == NULL)
-			return 0;
-		int dl = minDepth(root->left);
-		int dr = minDepth(root->right);
-		if (dl == 0)
-			return dr + 1;
-		if (dr == 0)
-			return dl + 1;
-		return min(dr + 1, dl + 1);
+        if (root == NULL)
+            return 0;
+        int dl = minDepth(root->left);
+        int dr = minDepth(root->right);
+        if (dl == 0)
+            return dr + 1;
+        if (dr == 0)
+            return dl + 1;
+        return min(dr + 1, dl + 1);
     }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

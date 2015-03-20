@@ -20,25 +20,25 @@ struct TreeNode {
 
 class Solution {
 private:
-	void orderHelper(vector<int> &res, TreeNode *cur) {
-		if (!cur)
-			return;
-		if (cur->left)
-			orderHelper(res, cur->left);
-		if (cur->right)
-			orderHelper(res, cur->right);
-		res.push_back(cur->val);
-	}
+    void orderHelper(vector<int> &res, TreeNode *cur) {
+        if (!cur)
+            return;
+        if (cur->left)
+            orderHelper(res, cur->left);
+        if (cur->right)
+            orderHelper(res, cur->right);
+        res.push_back(cur->val);
+    }
 public:
     vector<int> postorderTraversal(TreeNode *root) {
-		vector<int> res;
-		orderHelper(res, root);
-		return res;
+        vector<int> res;
+        orderHelper(res, root);
+        return res;
     }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

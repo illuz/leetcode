@@ -3,7 +3,7 @@
 *  File:        AC_dfs_n.cpp
 *  Create Date: 2014-12-22 11:14:35
 *  Descripton:  dfs, recursive
-*				thank zlx
+*                thank zlx
 */
 
 #include <bits/stdc++.h>
@@ -21,32 +21,32 @@ struct TreeNode {
 
 class Solution {
 private:
-	vector<vector<int> >ans;
+    vector<vector<int> >ans;
 public:
-	void DFS(TreeNode *curNode, int depth) {
-		if (!curNode)
-			return;
-		// push back
-		if (depth >= ans.size())
-			ans.push_back(vector<int>(0));
-		ans[depth].push_back(curNode->val);
+    void DFS(TreeNode *curNode, int depth) {
+        if (!curNode)
+            return;
+        // push back
+        if (depth >= ans.size())
+            ans.push_back(vector<int>(0));
+        ans[depth].push_back(curNode->val);
 
-		// recursive
-		if (curNode->left)
-			DFS(curNode->left, depth + 1);
-		if (curNode->right)
-			DFS(curNode->right, depth + 1);
-	}
+        // recursive
+        if (curNode->left)
+            DFS(curNode->left, depth + 1);
+        if (curNode->right)
+            DFS(curNode->right, depth + 1);
+    }
 
-	vector<vector<int> > levelOrder(TreeNode *root) {
-		ans.clear();
-		DFS(root, 0);
-		return ans;
-	}
+    vector<vector<int> > levelOrder(TreeNode *root) {
+        ans.clear();
+        DFS(root, 0);
+        return ans;
+    }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

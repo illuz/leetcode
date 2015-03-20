@@ -12,26 +12,26 @@ const int N = 0;
 
 class Solution {
 public:
-	vector<string> anagrams(vector<string> &strs) {
-		vector<string> ans;
-		map<string, vector<int> > rec;
-		for (int i = 0; i < strs.size(); i++) {
-			string str = strs[i];
-			sort(str.begin(), str.end());
-			rec[str].push_back(i);
-		}
-		for (auto &it : rec) {
-			if (it.second.size() > 1) {
-				for (auto &ind : it.second)
-					ans.push_back(strs[ind]);
-			}
-		}
-		return ans;
-	}
+    vector<string> anagrams(vector<string> &strs) {
+        vector<string> ans;
+        map<string, vector<int> > rec;
+        for (int i = 0; i < strs.size(); i++) {
+            string str = strs[i];
+            sort(str.begin(), str.end());
+            rec[str].push_back(i);
+        }
+        for (auto &it : rec) {
+            if (it.second.size() > 1) {
+                for (auto &ind : it.second)
+                    ans.push_back(strs[ind]);
+            }
+        }
+        return ans;
+    }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

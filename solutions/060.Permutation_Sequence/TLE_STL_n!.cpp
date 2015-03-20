@@ -12,18 +12,18 @@ const int N = 0;
 
 class Solution {
 public:
-	string getPermutation(int n, int k) {
-		string str;
-		for (int i = 0; i < n; i++)
-			str.push_back(i + '1');
-		while (k--)
-			next_permutation(str.begin(), str.end());
-		return str;
-	}
+    string getPermutation(int n, int k) {
+        string str;
+        for (int i = 0; i < n; i++)
+            str.push_back(i + '1');
+        while (k--)
+            next_permutation(str.begin(), str.end());
+        return str;
+    }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

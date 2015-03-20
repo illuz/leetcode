@@ -44,6 +44,6 @@ int main() {
     vector<int> i = {1, 2, 3};
     Solution s;
     s.buildTree(p, i);
-	return 0;
+    return 0;
 }
 

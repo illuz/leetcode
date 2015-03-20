@@ -21,27 +21,27 @@ struct ListNode {
 class Solution {
 public:
     ListNode *reverseBetween(ListNode *head, int m, int n) {
-		ListNode *mhead = new ListNode(0), *prev, *cur;
-		mhead->next = head;	// because m will be 0
-		for (int i = 0; i < m - 1; i++) {
-			mhead = mhead->next;
-		}
+        ListNode *mhead = new ListNode(0), *prev, *cur;
+        mhead->next = head;    // because m will be 0
+        for (int i = 0; i < m - 1; i++) {
+            mhead = mhead->next;
+        }
 
-		prev = mhead->next;
-		cur = prev->next;
-		for (int i = m; i < n; i++) {
-			prev->next = cur->next;
-			cur->next = mhead->next;
-			mhead->next = cur;
-			cur = prev->next;
-		}
-		return m == 1 ? mhead->next : head;
+        prev = mhead->next;
+        cur = prev->next;
+        for (int i = m; i < n; i++) {
+            prev->next = cur->next;
+            cur->next = mhead->next;
+            mhead->next = cur;
+            cur = prev->next;
+        }
+        return m == 1 ? mhead->next : head;
     }
 };
 
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

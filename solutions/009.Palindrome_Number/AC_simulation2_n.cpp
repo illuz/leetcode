@@ -13,20 +13,20 @@ const int N = 0;
 class Solution {
 public:
     bool isPalindrome(int x) {
-		long long xx = x;
-		long long new_xx = 0;
+        long long xx = x;
+        long long new_xx = 0;
 
-		while (xx > 0) {
-			new_xx = new_xx * 10 + xx % 10;
-			xx /= 10;
-		}
+        while (xx > 0) {
+            new_xx = new_xx * 10 + xx % 10;
+            xx /= 10;
+        }
 
-		return new_xx == (long long)x;
+        return new_xx == (long long)x;
     }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

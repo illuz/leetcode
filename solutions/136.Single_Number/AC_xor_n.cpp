@@ -12,22 +12,22 @@ const int N = 0;
 
 class Solution {
 public:
-	int singleNumber(int A[], int n) {
-		int res = 0;
-		for (int i = 0; i < n; i++)
-			res ^= A[i];
-		return res;
-	}
+    int singleNumber(int A[], int n) {
+        int res = 0;
+        for (int i = 0; i < n; i++)
+            res ^= A[i];
+        return res;
+    }
 };
 
 int main() {
-	int n, A[100];
-	Solution s;
+    int n, A[100];
+    Solution s;
 
-	cin >> n;
-	for (int i = 0; i < n; i++)
-		cin >> A[i];
-	cout << s.singleNumber(A, n) << endl;
-	return 0;
+    cin >> n;
+    for (int i = 0; i < n; i++)
+        cin >> A[i];
+    cout << s.singleNumber(A, n) << endl;
+    return 0;
 }
 

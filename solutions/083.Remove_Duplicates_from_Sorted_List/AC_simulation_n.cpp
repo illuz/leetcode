@@ -19,22 +19,22 @@ struct ListNode {
 class Solution {
 public:
     ListNode *deleteDuplicates(ListNode *head) {
-		if (head == NULL)
-			return head;
-		ListNode *cur = head, *tmp;
-		while (cur->next != NULL) {
-			if (cur->val == cur->next->val) {
-				tmp = cur->next;
-				cur->next = cur->next->next;
-				delete tmp;
-			} else
-				cur = cur->next;
-		}
-		return head;
+        if (head == NULL)
+            return head;
+        ListNode *cur = head, *tmp;
+        while (cur->next != NULL) {
+            if (cur->val == cur->next->val) {
+                tmp = cur->next;
+                cur->next = cur->next->next;
+                delete tmp;
+            } else
+                cur = cur->next;
+        }
+        return head;
     }
 };
 
 int main() {
-	return 0;
+    return 0;
 }
 

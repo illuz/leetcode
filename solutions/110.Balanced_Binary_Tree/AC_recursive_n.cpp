@@ -20,26 +20,26 @@ struct TreeNode {
 
 class Solution {
 private:
-	bool balanceFlag;
-	int getTreeDepth(TreeNode *root) {
-		if (!root || !balanceFlag)
-			return 0;
-		int sz1 = getTreeDepth(root->left);
-		int sz2 = getTreeDepth(root->right);
-		if (abs(sz1 - sz2) > 1)
-			balanceFlag = false;
-		return max(sz1, sz2) + 1;
-	}
+    bool balanceFlag;
+    int getTreeDepth(TreeNode *root) {
+        if (!root || !balanceFlag)
+            return 0;
+        int sz1 = getTreeDepth(root->left);
+        int sz2 = getTreeDepth(root->right);
+        if (abs(sz1 - sz2) > 1)
+            balanceFlag = false;
+        return max(sz1, sz2) + 1;
+    }
 public:
     bool isBalanced(TreeNode *root) {
-		balanceFlag = true;
-		getTreeDepth(root);
-		return balanceFlag;
+        balanceFlag = true;
+        getTreeDepth(root);
+        return balanceFlag;
     }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

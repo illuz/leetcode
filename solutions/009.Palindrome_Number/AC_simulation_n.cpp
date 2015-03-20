@@ -13,25 +13,25 @@ const int N = 0;
 class Solution {
 public:
     bool isPalindrome(int x) {
-		if (x < 0) return false;
-		int bit[10];
-		int cnt = 0;
-		while (x) {
-			bit[cnt++] = x % 10;
-			x /= 10;
-		}
-		for (int i = 0; i < cnt; i++)
-			if (bit[i] != bit[cnt - i - 1])
-				return false;
-		return true;
+        if (x < 0) return false;
+        int bit[10];
+        int cnt = 0;
+        while (x) {
+            bit[cnt++] = x % 10;
+            x /= 10;
+        }
+        for (int i = 0; i < cnt; i++)
+            if (bit[i] != bit[cnt - i - 1])
+                return false;
+        return true;
     }
 };
 
 int main() {
-	Solution a;
-	int x;
-	while (cin >> x)
-		cout << a.isPalindrome(x) << endl;
-	return 0;
+    Solution a;
+    int x;
+    while (cin >> x)
+        cout << a.isPalindrome(x) << endl;
+    return 0;
 }
 

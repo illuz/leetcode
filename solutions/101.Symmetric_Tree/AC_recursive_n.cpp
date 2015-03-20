@@ -20,26 +20,26 @@ struct TreeNode {
 
 class Solution {
 private:
-	bool isSymmetric(TreeNode *p, TreeNode *q) {
-		if (p == NULL)
-			return q == NULL;
-		if (q == NULL)
-			return p == NULL;
-		if (p->val != q->val)
-			return false;
-		return isSymmetric(p->left, q->right) &&
-			isSymmetric(p->right, q->left);
-	}
+    bool isSymmetric(TreeNode *p, TreeNode *q) {
+        if (p == NULL)
+            return q == NULL;
+        if (q == NULL)
+            return p == NULL;
+        if (p->val != q->val)
+            return false;
+        return isSymmetric(p->left, q->right) &&
+            isSymmetric(p->right, q->left);
+    }
 public:
     bool isSymmetric(TreeNode *root) {
-		if (root == NULL)
-			return true;
-		return isSymmetric(root->left, root->right);
+        if (root == NULL)
+            return true;
+        return isSymmetric(root->left, root->right);
     }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

@@ -20,23 +20,23 @@ struct TreeNode {
 
 class Solution {
 private:
-	bool dfs(TreeNode *root, long long minval, long long maxval) {
-		if (root == NULL)
-			return true;
-		return root->val > minval &&
-			root->val < maxval &&
-			dfs(root->left, minval, root->val) &&
-			dfs(root->right, root->val, maxval);
-	}
+    bool dfs(TreeNode *root, long long minval, long long maxval) {
+        if (root == NULL)
+            return true;
+        return root->val > minval &&
+            root->val < maxval &&
+            dfs(root->left, minval, root->val) &&
+            dfs(root->right, root->val, maxval);
+    }
 
 public:
     bool isValidBST(TreeNode *root) {
-		return dfs(root, (long long)INT_MIN - 1, (long long)INT_MAX + 1);
+        return dfs(root, (long long)INT_MIN - 1, (long long)INT_MAX + 1);
     }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

@@ -21,23 +21,23 @@ struct ListNode {
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-		ListNode *p1 = head, *p2 = head;
-		while (1) {
-			if (p1) p1 = p1->next;
-			else return false;
-			if (p2) p2 = p2->next;
-			else return false;
-			if (p2) p2 = p2->next;
-			else return false;
+        ListNode *p1 = head, *p2 = head;
+        while (1) {
+            if (p1) p1 = p1->next;
+            else return false;
+            if (p2) p2 = p2->next;
+            else return false;
+            if (p2) p2 = p2->next;
+            else return false;
 
-			if (p1 == p2)
-				return true;
-		}
+            if (p1 == p2)
+                return true;
+        }
     }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 

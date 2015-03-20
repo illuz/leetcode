@@ -12,23 +12,23 @@ const int N = 0;
 
 class Solution {
 public:
-	int majorityElement(vector<int> &num) {
-		int count = 0;
-		int major;
-		for (auto &i : num) {
-			if (count == 0)
-				major = i;
-			if (i == major)
-				count++;
-			else
-				cout--;
-		}
-		return major;
-	}
+    int majorityElement(vector<int> &num) {
+        int count = 0;
+        int major;
+        for (auto &i : num) {
+            if (count == 0)
+                major = i;
+            if (i == major)
+                count++;
+            else
+                cout--;
+        }
+        return major;
+    }
 };
 
 int main() {
 
-	return 0;
+    return 0;
 }
 
