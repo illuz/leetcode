@@ -20,7 +20,7 @@ Language: **C++/Java/Python/(Sql)**
 
 There are 191 problems (9 problems for a fee).  
 
-I have solved 162 / 182 problems.=w=  
+I have solved 164 / 182 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -171,7 +171,7 @@ I have solved 162 / 182 problems.=w=
 | 145 | [Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/Binary-Tree-Postorder-Traversal/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/145.Binary_Tree_Postorder_Traversal) | Coming soon |
 | 146 | [LRU Cache](https://oj.leetcode.com/problems/LRU-Cache/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 147 | [Insertion Sort List](https://oj.leetcode.com/problems/Insertion-Sort-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/147.Insertion_Sort_List) | Coming soon |
-| 148 | [Sort List](https://oj.leetcode.com/problems/Sort-List/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 148 | [Sort List](https://oj.leetcode.com/problems/Sort-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/148.Sort_List) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/148.Sort_List) |
 | 149 | [Max Points on a Line](https://oj.leetcode.com/problems/Max-Points-on-a-Line/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 150 | [Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/Evaluate-Reverse-Polish-Notation/) | [C++&nbsp;Java&nbsp;Python](./solutions/150.Evaluate_Reverse_Polish_Notation) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/150.Evaluate_Reverse_Polish_Notation) |
 | 151 | [Reverse Words in a String](https://oj.leetcode.com/problems/Reverse-Words-in-a-String/) | [C++&nbsp;Java&nbsp;Python](./solutions/151.Reverse_Words_in_a_String) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/151.Reverse_Words_in_a_String) |
@@ -187,7 +187,7 @@ I have solved 162 / 182 problems.=w=
 | 161 | [One Edit Distance$](https://oj.leetcode.com/problems/One-Edit-Distance/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 162 | [Find Peak Element](https://oj.leetcode.com/problems/Find-Peak-Element/) | [C++&nbsp;Java&nbsp;Python](./solutions/162.Find_Peak_Element) | Coming soon |
 | 163 | [Missing Ranges$](https://oj.leetcode.com/problems/Missing-Ranges/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 164 | [Maximum Gap](https://oj.leetcode.com/problems/Maximum-Gap/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 164 | [Maximum Gap](https://oj.leetcode.com/problems/Maximum-Gap/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/164.Maximum_Gap) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/164.Maximum_Gap) |
 | 165 | [Compare Version Numbers](https://oj.leetcode.com/problems/Compare-Version-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/165.Compare_Version_Numbers) | Coming soon |
 | 166 | [Fraction to Recurring Decimal](https://oj.leetcode.com/problems/Fraction-to-Recurring-Decimal/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 167 | [Two Sum II - Input array is sorted$](https://oj.leetcode.com/problems/Two-Sum-II---Input-array-is-sorted/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
