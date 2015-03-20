@@ -24,14 +24,14 @@
 
 这里引用[大神的解释](https://leetcode.com/discuss/10264/my-o-n-log-n-time-o-1-space-solution)下：  
 
-> Round #1 block_size = 1
-> (a1, a2), (a3, a4), (a5, a6), (a7, a8)
-> Compare a1 with a2, a3 with a4 ...
-> Round #2 block_size = 2
-> (a1, a2, a3, a4), (a5, a6, a7, a8)
-> merge two sorted arrays (a1, a2) and (a3, a4), then merge tow sorted arrays(a5, a6) and (a7, a8)
-> Round #3 block_size = 4
-> (a1, a2, a3, a4, a5, a6, a7, a8)
-> merge two sorted arrays (a1, a2, a3, a4), and (a5, a6, a7, a8)
+> Round #1 block_size = 1  
+> (a1, a2), (a3, a4), (a5, a6), (a7, a8)  
+> Compare a1 with a2, a3 with a4 ...  
+> Round #2 block_size = 2  
+> (a1, a2, a3, a4), (a5, a6, a7, a8)  
+> merge two sorted arrays (a1, a2) and (a3, a4), then merge tow sorted arrays(a5, a6) and (a7, a8)  
+> Round #3 block_size = 4  
+> (a1, a2, a3, a4, a5, a6, a7, a8)  
+> merge two sorted arrays (a1, a2, a3, a4), and (a5, a6, a7, a8)  
 
 PS：这题的 Python 用 O(1) 去做很难过的，见 [Anyone solve this in Python](https://leetcode.com/discuss/3344/anyone-solve-this-in-python)
