@@ -62,7 +62,7 @@ for prb, cont in new_res:
     if len(prb[4:]) > 40:
         prb = prb[:37] + '...'
     if prb[:3] in leetcode_book:
-        prb += '$'
+        prb += ' $'
 
     p = '| ' + prb[:3] + ' | [' + re.sub('_', ' ', prb[4:]) + '](' + link + ') | '
 
