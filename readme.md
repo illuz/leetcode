@@ -20,7 +20,7 @@ Language: **C++/Java/Python/(Sql)**
 
 There are 191 problems (9 problems for a fee).  
 
-I have solved 164 / 182 problems.=w=  
+I have solved 165 / 182 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -147,7 +147,7 @@ I have solved 164 / 182 problems.=w=
 | 121 | [Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/121.Best_Time_to_Buy_and_Sell_Stock) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/121.Best_Time_to_Buy_and_Sell_Stock) |
 | 122 | [Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-II/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/122.Best_Time_to_Buy_and_Sell_Stock_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/122.Best_Time_to_Buy_and_Sell_Stock_II) |
 | 123 | [Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-III/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) |
-| 124 | [Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/Binary-Tree-Maximum-Path-Sum/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 124 | [Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/Binary-Tree-Maximum-Path-Sum/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/124.Binary_Tree_Maximum_Path_Sum) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/124.Binary_Tree_Maximum_Path_Sum) |
 | 125 | [Valid Palindrome](https://oj.leetcode.com/problems/Valid-Palindrome/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/125.Valid_Palindrome) | Coming soon |
 | 126 | [Word Ladder](https://oj.leetcode.com/problems/Word-Ladder/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 127 | [Word Ladder II](https://oj.leetcode.com/problems/Word-Ladder-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
