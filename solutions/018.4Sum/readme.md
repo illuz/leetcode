@@ -1,7 +1,7 @@
 ## 018.4Sum (Medium)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/4sum/  
+题目：https://leetcode.com/problems/4sum/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

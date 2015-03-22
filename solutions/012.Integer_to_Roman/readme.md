@@ -1,7 +1,7 @@
 ## 012.Integer_to_Roman (Medium)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/integer-to-roman/
+题目：https://leetcode.com/problems/integer-to-roman/
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

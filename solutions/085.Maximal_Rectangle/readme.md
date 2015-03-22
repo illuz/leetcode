@@ -1,7 +1,7 @@
 ## 085. Maximal Rectangle (Hard)  
   
 ### **链接**：  
-题目：https://oj.leetcode.com/problems/maximal-rectangle/  
+题目：https://leetcode.com/problems/maximal-rectangle/  
 代码(github)：https://github.com/illuz/leetcode  
   
 ### **题意**：  

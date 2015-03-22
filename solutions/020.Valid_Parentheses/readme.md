@@ -1,7 +1,7 @@
 ## 020.Valid_Parentheses (Easy)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/valid-parentheses/  
+题目：https://leetcode.com/problems/valid-parentheses/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

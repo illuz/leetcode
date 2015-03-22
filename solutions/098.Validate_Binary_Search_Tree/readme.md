@@ -1,7 +1,7 @@
 ## 098.Validate_Binary_Search_Tree
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/validate-binary-search-tree/  
+题目：https://leetcode.com/problems/validate-binary-search-tree/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

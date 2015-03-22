@@ -1,7 +1,7 @@
 ## 025. Reverse Nodes in k-Group (Hard)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/reverse-nodes-in-k-group/  
+题目：https://leetcode.com/problems/reverse-nodes-in-k-group/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

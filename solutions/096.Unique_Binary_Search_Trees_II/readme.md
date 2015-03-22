@@ -1,7 +1,7 @@
 ## 095. Unique Binary Search Trees II (Medium)  
   
 ### **链接**：  
-题目：https://oj.leetcode.com/problems/unique-binary-search-trees-ii/  
+题目：https://leetcode.com/problems/unique-binary-search-trees-ii/  
 代码(github)：https://github.com/illuz/leetcode  
   
 ### **题意**：  

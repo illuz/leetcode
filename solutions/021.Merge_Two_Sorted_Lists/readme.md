@@ -1,7 +1,7 @@
 ## 021.Merge_Two_Sorted_Lists (Easy)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/merge-two-sorted-lists/  
+题目：https://leetcode.com/problems/merge-two-sorted-lists/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

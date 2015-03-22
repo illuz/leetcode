@@ -1,7 +1,7 @@
 ## 022.Generate_Parentheses (Medium)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/generate-parentheses/  
+题目：https://leetcode.com/problems/generate-parentheses/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

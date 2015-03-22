@@ -2,7 +2,7 @@
 ## 004.Median_of_Two_Sorted_Arrays
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/
+题目：https://leetcode.com/problems/Median-of-Two-Sorted-Arrays/
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：
@@ -21,7 +21,7 @@
 
 
 **Link**:
-Problem: https://oj.leetcode.com/problems/Median-of-Two-Sorted-Arrays/
+Problem: https://leetcode.com/problems/Median-of-Two-Sorted-Arrays/
 Newest solutions in my Github: https://github.com/illuz/leetcode
 
 **Analysis**：

@@ -1,7 +1,7 @@
 ## 068.Text_Justification (Hard)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/text-justification/  
+题目：https://leetcode.com/problems/text-justification/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

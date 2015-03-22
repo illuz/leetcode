@@ -2,7 +2,7 @@
   
   
 ### **链接**：  
-题目：https://oj.leetcode.com/problems/add-two-numbers/  
+题目：https://leetcode.com/problems/add-two-numbers/  
 代码(github)：https://github.com/illuz/leetcode  
   
 ### **题意**：  
@@ -19,7 +19,7 @@
   
   
 **Link**:  
-Problem: https://oj.leetcode.com/problems/add-two-numbers/  
+Problem: https://leetcode.com/problems/add-two-numbers/  
 Newest solutions in my Github: https://github.com/illuz/leetcode  
   
 **Analysis**：  

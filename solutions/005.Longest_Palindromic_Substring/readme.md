@@ -1,7 +1,7 @@
 ## 005.Longest_Palindromic_Substring (Medium)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/Longest-Palindromic-Substring/  
+题目：https://leetcode.com/problems/Longest-Palindromic-Substring/  
 代码(github)：https://github.com/illuz/leetcode  
 
 ### **题意**：

@@ -1,7 +1,7 @@
 ## 013.Roman_to_Integer (Easy)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/roman-to-integer/  
+题目：https://leetcode.com/problems/roman-to-integer/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

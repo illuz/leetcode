@@ -1,7 +1,7 @@
 ## 029. Divide Two Integers (Medium)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/divide-two-integers/  
+题目：https://leetcode.com/problems/divide-two-integers/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

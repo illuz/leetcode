@@ -1,7 +1,7 @@
 ## 009.Palindrome_Number
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/palindrome-number/  
+题目：https://leetcode.com/problems/palindrome-number/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

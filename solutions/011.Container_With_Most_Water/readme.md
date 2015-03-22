@@ -1,7 +1,7 @@
 ## 011.Container_With_Most_Water
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/container-with-most-water/  
+题目：https://leetcode.com/problems/container-with-most-water/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

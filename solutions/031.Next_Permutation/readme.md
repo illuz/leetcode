@@ -1,7 +1,7 @@
 ## 031. Next Permutation (Medium)  
   
 ### **链接**：  
-题目：https://oj.leetcode.com/problems/next-permutation/  
+题目：https://leetcode.com/problems/next-permutation/  
 代码(github)：https://github.com/illuz/leetcode  
   
 ### **题意**：  

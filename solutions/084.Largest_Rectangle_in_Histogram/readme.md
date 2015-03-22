@@ -1,7 +1,7 @@
 ## 084. Largest Rectangle in Histogram (Hard)  
   
 ### **链接**：  
-题目：https://oj.leetcode.com/problems/largest-rectangle-in-histogram/  
+题目：https://leetcode.com/problems/largest-rectangle-in-histogram/  
 代码(github)：https://github.com/illuz/leetcode  
   
 ### **题意**：  

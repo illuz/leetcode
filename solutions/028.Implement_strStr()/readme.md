@@ -1,7 +1,7 @@
 ## 028. Implement strStr() (Easy)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/implement-strstr/  
+题目：https://leetcode.com/problems/implement-strstr/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

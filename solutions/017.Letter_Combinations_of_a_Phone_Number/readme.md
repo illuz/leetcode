@@ -1,7 +1,7 @@
 ## 017.Letter_Combinations_of_a_Phone_Number
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/  
+题目：https://leetcode.com/problems/letter-combinations-of-a-phone-number/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

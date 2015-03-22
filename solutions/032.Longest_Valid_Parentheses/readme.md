@@ -1,7 +1,7 @@
 ## 032. Longest Valid Parentheses (Hard)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/longest-valid-parentheses/  
+题目：https://leetcode.com/problems/longest-valid-parentheses/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

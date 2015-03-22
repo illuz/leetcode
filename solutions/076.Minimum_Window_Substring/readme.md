@@ -1,7 +1,7 @@
 ## 076. Minimum Window Substring (Hard)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/minimum-window-substring/  
+题目：https://leetcode.com/problems/minimum-window-substring/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

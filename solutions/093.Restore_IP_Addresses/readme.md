@@ -1,7 +1,7 @@
 ## 093.Restore_IP_Addresses
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/restore-ip-addresses/  
+题目：https://leetcode.com/problems/restore-ip-addresses/  
 代码(github)：https://github.com/illuz/leetcode  
 
 ### **题意**：

@@ -1,7 +1,7 @@
 ## 026. Remove Duplicates from Sorted Array (Easy)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/  
+题目：https://leetcode.com/problems/remove-duplicates-from-sorted-array/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

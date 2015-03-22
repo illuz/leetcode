@@ -1,7 +1,7 @@
 ## 097. Interleaving String (Hard)  
   
 ### **链接**：  
-题目：https://oj.leetcode.com/problems/interleaving-string/  
+题目：https://leetcode.com/problems/interleaving-string/  
 代码(github)：https://github.com/illuz/leetcode  
   
 ### **题意**：  

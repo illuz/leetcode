@@ -1,7 +1,7 @@
 ## 001.Two_Sum (Medium)  
   
 ### **链接**：  
-题目：https://oj.leetcode.com/problems/two-sum/  
+题目：https://leetcode.com/problems/two-sum/  
 代码(github)：https://github.com/illuz/leetcode  
   
 ### **题意**：  
@@ -21,7 +21,7 @@
 ## 001.Two_Sum (Medium)  
   
 ### **Link**:  
-Problem: https://oj.leetcode.com/problems/two-sum/  
+Problem: https://leetcode.com/problems/two-sum/  
 Newest solutions in my Github: https://github.com/illuz/leetcode  
   
 ### **Analysis**：  

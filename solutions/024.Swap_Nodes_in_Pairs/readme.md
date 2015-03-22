@@ -1,7 +1,7 @@
 ## 024. Swap Nodes in Pairs (Medium)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/swap-nodes-in-pairs/  
+题目：https://leetcode.com/problems/swap-nodes-in-pairs/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

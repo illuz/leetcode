@@ -1,7 +1,7 @@
 ## 016.3Sum_Closest (Medium)
 
 ### **链接**：
-题目：https://oj.leetcode.com/problems/3sum-closest/  
+题目：https://leetcode.com/problems/3sum-closest/  
 代码(github)：https://github.com/illuz/leetcode
 
 ### **题意**：

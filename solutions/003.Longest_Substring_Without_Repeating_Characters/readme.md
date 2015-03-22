@@ -2,7 +2,7 @@
 ## 003.Longest_Substring_Without_Repeating_Characters  
   
 ### **链接**：  
-题目：https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/  
+题目：https://leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/  
 代码(github)：https://github.com/illuz/leetcode  
   
 ### **题意**：  
@@ -22,7 +22,7 @@
   
   
 **Link**:  
-Problem: https://oj.leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/  
+Problem: https://leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/  
 Newest solutions in my Github: https://github.com/illuz/leetcode  
   
 **Analysis**：  
