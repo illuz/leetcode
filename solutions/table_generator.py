@@ -27,6 +27,8 @@ for root, dirs, files in os.walk('.'):
             res[root[2:]].append('Java')
         elif file[-2:] == 'py':
             res[root[2:]].append('Python')
+        elif file[-2:] == 'sh':
+            res[root[2:]].append('Shell')
         elif file[-3:] == 'sql':
             res[root[2:]].append('Sql')
         elif file[-2:] == 'md':
@@ -50,7 +52,7 @@ print ('| \# | Problems | Solutions | Note |')
 print ('|----|----------|-----------|------|')
 
 for prb, cont in new_res:
-    link = 'https://oj.leetcode.com/problems/'
+    link = 'https://leetcode.com/problems/'
     # sad that the 050.Pow(x, n) && 069.Sqrt(x) will not available
     if prb[:3] == '050':
         link += 'Powx-n'
@@ -77,6 +79,8 @@ for prb, cont in new_res:
             sol += 'Java '
         if 'Python' in cont:
             sol += 'Python '
+        if 'Shell' in cont:
+            sol += 'Shell Script '
         if 'Sql' in cont:
             sol += 'SQL '
         sol = sol[:-1] + ']'
