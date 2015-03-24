@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 192 problems (9 problems for a fee).  
 
-I have solved 166 / 183 problems.=w=  
+I have solved 167 / 183 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -171,7 +171,7 @@ I have solved 166 / 183 problems.=w=
 | 143 | [Reorder List](https://leetcode.com/problems/Reorder-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/143.Reorder_List) | Coming soon |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/Binary-Tree-Preorder-Traversal/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/144.Binary_Tree_Preorder_Traversal) | Coming soon |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/Binary-Tree-Postorder-Traversal/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/145.Binary_Tree_Postorder_Traversal) | Coming soon |
-| 146 | [LRU Cache](https://leetcode.com/problems/LRU-Cache/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 146 | [LRU Cache](https://leetcode.com/problems/LRU-Cache/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/146.LRU_Cache) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/146.LRU_Cache) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/Insertion-Sort-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/147.Insertion_Sort_List) | Coming soon |
 | 148 | [Sort List](https://leetcode.com/problems/Sort-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/148.Sort_List) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/148.Sort_List) |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/Max-Points-on-a-Line/) |  &nbsp;&nbsp;Coming soon | Coming soon |
