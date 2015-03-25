@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 193 problems (9 problems for a fee).  
 
-I have solved 168 / 184 problems.=w=  
+I have solved 169 / 184 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -205,7 +205,7 @@ I have solved 168 / 184 problems.=w=
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/Nth-Highest-Salary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/177.Nth_Highest_Salary) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/177.Nth_Highest_Salary) |
 | 178 | [Rank Scores](https://leetcode.com/problems/Rank-Scores/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/178.Rank_Scores) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/178.Rank_Scores) |
 | 179 | [Largest Number](https://leetcode.com/problems/Largest-Number/) | [C++&nbsp;Java&nbsp;Python](./solutions/179.Largest_Number) | Coming soon |
-| 180 | [Consecutive Numbers](https://leetcode.com/problems/Consecutive-Numbers/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/Consecutive-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/180.Consecutive_Numbers) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/180.Consecutive_Numbers) |
 | 181 | [Employees Earning More Than Their...](https://leetcode.com/problems/Employees-Earning-More-Than-Their-Managers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/181.Employees_Earning_More_Than_Their...) | Coming soon |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/Duplicate-Emails/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/182.Duplicate_Emails) | Coming soon |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/Customers-Who-Never-Order/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/183.Customers_Who_Never_Order) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/183.Customers_Who_Never_Order) |
