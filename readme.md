@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 192 problems (9 problems for a fee).  
+There are 193 problems (9 problems for a fee).  
 
-I have solved 167 / 183 problems.=w=  
+I have solved 168 / 184 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -218,3 +218,4 @@ I have solved 167 / 183 problems.=w=
 | 190 | [Reverse Bits](https://leetcode.com/problems/Reverse-Bits/) | [C++&nbsp;Java&nbsp;Python](./solutions/190.Reverse_Bits) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/190.Reverse_Bits) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/Number-of-1-Bits/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/191.Number_of_1_Bits) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/191.Number_of_1_Bits) |
 | 192 | [Word Frequency](https://leetcode.com/problems/Word-Frequency/) | &nbsp;[Shell&nbsp;Script](./solutions/192.Word_Frequency) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/192.Word_Frequency) |
+| 193 | [Valid Phone Numbers](https://leetcode.com/problems/Valid-Phone-Numbers/) | &nbsp;[Shell&nbsp;Script](./solutions/193.Valid_Phone_Numbers) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/193.Valid_Phone_Numbers) |
