@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 194 problems (9 problems for a fee).  
+There are 195 problems (9 problems for a fee).  
 
-I have solved 170 / 185 problems.=w=  
+I have solved 171 / 186 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -220,3 +220,4 @@ I have solved 170 / 185 problems.=w=
 | 192 | [Word Frequency](https://leetcode.com/problems/Word-Frequency/) | &nbsp;[Shell&nbsp;Script](./solutions/192.Word_Frequency) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/192.Word_Frequency) |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/Valid-Phone-Numbers/) | &nbsp;[Shell&nbsp;Script](./solutions/193.Valid_Phone_Numbers) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/193.Valid_Phone_Numbers) |
 | 194 | [Transpose File](https://leetcode.com/problems/Transpose-File/) | &nbsp;[Shell&nbsp;Script](./solutions/194.Transpose_File) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/194.Transpose_File) |
+| 195 | [Tenth Line](https://leetcode.com/problems/Tenth-Line/) | &nbsp;[Shell&nbsp;Script](./solutions/195.Tenth_Line) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/195.Tenth_Line) |
