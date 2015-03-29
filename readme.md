@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 195 problems (9 problems for a fee).  
 
-I have solved 172 / 186 problems.=w=  
+I have solved 173 / 186 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -151,7 +151,7 @@ I have solved 172 / 186 problems.=w=
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-III/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/123.Best_Time_to_Buy_and_Sell_Stock_III) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/Binary-Tree-Maximum-Path-Sum/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/124.Binary_Tree_Maximum_Path_Sum) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/124.Binary_Tree_Maximum_Path_Sum) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/Valid-Palindrome/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/125.Valid_Palindrome) | Coming soon |
-| 126 | [Word Ladder](https://leetcode.com/problems/Word-Ladder/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 126 | [Word Ladder](https://leetcode.com/problems/Word-Ladder/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/126.Word_Ladder) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/126.Word_Ladder) |
 | 127 | [Word Ladder II](https://leetcode.com/problems/Word-Ladder-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/Longest-Consecutive-Sequence/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/Sum-Root-to-Leaf-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/129.Sum_Root_to_Leaf_Numbers) | Coming soon |
