@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 195 problems (9 problems for a fee).  
+There are 198 problems (9 problems for a fee).  
 
-I have solved 173 / 186 problems.=w=  
+I have solved 176 / 189 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -221,3 +221,6 @@ I have solved 173 / 186 problems.=w=
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/Valid-Phone-Numbers/) | &nbsp;[Shell&nbsp;Script](./solutions/193.Valid_Phone_Numbers) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/193.Valid_Phone_Numbers) |
 | 194 | [Transpose File](https://leetcode.com/problems/Transpose-File/) | &nbsp;[Shell&nbsp;Script](./solutions/194.Transpose_File) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/194.Transpose_File) |
 | 195 | [Tenth Line](https://leetcode.com/problems/Tenth-Line/) | &nbsp;[Shell&nbsp;Script](./solutions/195.Tenth_Line) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/195.Tenth_Line) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/Delete-Duplicate-Emails/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/196.Delete_Duplicate_Emails) | Coming soon |
+| 197 | [Rising Temperature](https://leetcode.com/problems/Rising-Temperature/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/197.Rising_Temperature) | Coming soon |
+| 198 | [House Robber](https://leetcode.com/problems/House-Robber/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/198.House_Robber) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/198.House_Robber) |
