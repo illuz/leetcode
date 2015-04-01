@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 198 problems (9 problems for a fee).  
 
-I have solved 176 / 189 problems.=w=  
+I have solved 177 / 189 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -214,7 +214,7 @@ I have solved 176 / 189 problems.=w=
 | 186 | [Reverse Words in a String II $](https://leetcode.com/problems/Reverse-Words-in-a-String-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/Repeated-DNA-Sequences/) | [C++&nbsp;Java&nbsp;Python](./solutions/187.Repeated_DNA_Sequences) | Coming soon |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) |
-| 189 | [Rotate Array](https://leetcode.com/problems/Rotate-Array/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 189 | [Rotate Array](https://leetcode.com/problems/Rotate-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/189.Rotate_Array) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/189.Rotate_Array) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/Reverse-Bits/) | [C++&nbsp;Java&nbsp;Python](./solutions/190.Reverse_Bits) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/190.Reverse_Bits) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/Number-of-1-Bits/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/191.Number_of_1_Bits) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/191.Number_of_1_Bits) |
 | 192 | [Word Frequency](https://leetcode.com/problems/Word-Frequency/) | &nbsp;[Shell&nbsp;Script](./solutions/192.Word_Frequency) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/192.Word_Frequency) |
