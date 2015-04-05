@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 199 problems (9 problems for a fee).  
 
-I have solved 178 / 190 problems.=w=  
+I have solved 179 / 190 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -209,7 +209,7 @@ I have solved 178 / 190 problems.=w=
 | 181 | [Employees Earning More Than Their...](https://leetcode.com/problems/Employees-Earning-More-Than-Their-Managers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/181.Employees_Earning_More_Than_Their...) | Coming soon |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/Duplicate-Emails/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/182.Duplicate_Emails) | Coming soon |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/Customers-Who-Never-Order/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/183.Customers_Who_Never_Order) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/183.Customers_Who_Never_Order) |
-| 184 | [Department Highest Salary](https://leetcode.com/problems/Department-Highest-Salary/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/Department-Highest-Salary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/184.Department_Highest_Salary) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/184.Department_Highest_Salary) |
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/Department-Top-Three-Salaries/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 186 | [Reverse Words in a String II $](https://leetcode.com/problems/Reverse-Words-in-a-String-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/Repeated-DNA-Sequences/) | [C++&nbsp;Java&nbsp;Python](./solutions/187.Repeated_DNA_Sequences) | Coming soon |
