@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 199 problems (9 problems for a fee).  
 
-I have solved 179 / 190 problems.=w=  
+I have solved 180 / 190 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -191,7 +191,7 @@ I have solved 179 / 190 problems.=w=
 | 163 | [Missing Ranges $](https://leetcode.com/problems/Missing-Ranges/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 164 | [Maximum Gap](https://leetcode.com/problems/Maximum-Gap/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/164.Maximum_Gap) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/164.Maximum_Gap) |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/Compare-Version-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/165.Compare_Version_Numbers) | Coming soon |
-| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/Fraction-to-Recurring-Decimal/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/Fraction-to-Recurring-Decimal/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/166.Fraction_to_Recurring_Decimal) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/166.Fraction_to_Recurring_Decimal) |
 | 167 | [Two Sum II - Input array is sorted $](https://leetcode.com/problems/Two-Sum-II---Input-array-is-sorted/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/Excel-Sheet-Column-Title/) | [C++&nbsp;Java&nbsp;Python](./solutions/168.Excel_Sheet_Column_Title) | Coming soon |
 | 169 | [Majority Element](https://leetcode.com/problems/Majority-Element/) | [C++&nbsp;Java&nbsp;Python](./solutions/169.Majority_Element) | Coming soon |
