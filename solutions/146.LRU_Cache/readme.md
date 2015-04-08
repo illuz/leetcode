@@ -1,4 +1,4 @@
-## 149. Max Points on a Line (Hard)
+## 149. LRU Cache (Hard)
 
 ### **链接**：
 题目：https://leetcode.com/problems/lru-cache/  
