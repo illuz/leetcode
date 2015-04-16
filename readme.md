@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 200 problems (9 problems for a fee).  
 
-I have solved 181 / 191 problems.=w=  
+I have solved 182 / 191 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -164,7 +164,7 @@ I have solved 181 / 191 problems.=w=
 | 136 | [Single Number](https://leetcode.com/problems/Single-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/136.Single_Number) | Coming soon |
 | 137 | [Single Number II](https://leetcode.com/problems/Single-Number-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/137.Single_Number_II) | Coming soon |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/Copy-List-with-Random-Pointer/) | [C++&nbsp;Java&nbsp;Python](./solutions/138.Copy_List_with_Random_Pointer) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/138.Copy_List_with_Random_Pointer) |
-| 139 | [Word Break](https://leetcode.com/problems/Word-Break/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 139 | [Word Break](https://leetcode.com/problems/Word-Break/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/139.Word_Break) | Coming soon |
 | 140 | [Word Break II](https://leetcode.com/problems/Word-Break-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/Linked-List-Cycle/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/141.Linked_List_Cycle) | Coming soon |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/Linked-List-Cycle-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
