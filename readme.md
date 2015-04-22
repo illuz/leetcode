@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 200 problems (9 problems for a fee).  
+There are 202 problems (9 problems for a fee).  
 
-I have solved 182 / 191 problems.=w=  
+I have solved 183 / 193 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -164,7 +164,7 @@ I have solved 182 / 191 problems.=w=
 | 136 | [Single Number](https://leetcode.com/problems/Single-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/136.Single_Number) | Coming soon |
 | 137 | [Single Number II](https://leetcode.com/problems/Single-Number-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/137.Single_Number_II) | Coming soon |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/Copy-List-with-Random-Pointer/) | [C++&nbsp;Java&nbsp;Python](./solutions/138.Copy_List_with_Random_Pointer) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/138.Copy_List_with_Random_Pointer) |
-| 139 | [Word Break](https://leetcode.com/problems/Word-Break/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/139.Word_Break) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/139.Word_Break) |
+| 139 | [Word Break](https://leetcode.com/problems/Word-Break/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/139.Word_Break) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/139.Word_Break) |
 | 140 | [Word Break II](https://leetcode.com/problems/Word-Break-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/Linked-List-Cycle/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/141.Linked_List_Cycle) | Coming soon |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/Linked-List-Cycle-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
@@ -226,3 +226,5 @@ I have solved 182 / 191 problems.=w=
 | 198 | [House Robber](https://leetcode.com/problems/House-Robber/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/198.House_Robber) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/198.House_Robber) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/Binary-Tree-Right-Side-View/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/199.Binary_Tree_Right_Side_View) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/199.Binary_Tree_Right_Side_View) |
 | 200 | [Number of Islands](https://leetcode.com/problems/Number-of-Islands/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/200.Number_of_Islands) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/200.Number_of_Islands) |
+| 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/Bitwise-AND-of-Numbers-Range/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 202 | [Happy Number](https://leetcode.com/problems/Happy-Number/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/202.Happy_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/202.Happy_Number) |
