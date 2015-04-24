@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 203 problems (9 problems for a fee).  
 
-I have solved 184 / 194 problems.=w=  
+I have solved 185 / 194 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -226,6 +226,6 @@ I have solved 184 / 194 problems.=w=
 | 198 | [House Robber](https://leetcode.com/problems/House-Robber/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/198.House_Robber) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/198.House_Robber) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/Binary-Tree-Right-Side-View/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/199.Binary_Tree_Right_Side_View) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/199.Binary_Tree_Right_Side_View) |
 | 200 | [Number of Islands](https://leetcode.com/problems/Number-of-Islands/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/200.Number_of_Islands) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/200.Number_of_Islands) |
-| 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/Bitwise-AND-of-Numbers-Range/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/Bitwise-AND-of-Numbers-Range/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/201.Bitwise_AND_of_Numbers_Range) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/201.Bitwise_AND_of_Numbers_Range) |
 | 202 | [Happy Number](https://leetcode.com/problems/Happy-Number/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/202.Happy_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/202.Happy_Number) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/Remove-Linked-List-Elements/) | [C++&nbsp;Java&nbsp;Python](./solutions/203.Remove_Linked_List_Elements) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/203.Remove_Linked_List_Elements) |
