@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 203 problems (9 problems for a fee).  
+There are 197 problems (9 problems for a fee).  
 
-I have solved 186 / 194 problems.=w=  
+I have solved 187 / 188 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -152,54 +152,39 @@ I have solved 186 / 194 problems.=w=
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/Binary-Tree-Maximum-Path-Sum/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/124.Binary_Tree_Maximum_Path_Sum) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/124.Binary_Tree_Maximum_Path_Sum) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/Valid-Palindrome/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/125.Valid_Palindrome) | Coming soon |
 | 126 | [Word Ladder](https://leetcode.com/problems/Word-Ladder/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/126.Word_Ladder) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/126.Word_Ladder) |
-| 127 | [Word Ladder II](https://leetcode.com/problems/Word-Ladder-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/Longest-Consecutive-Sequence/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/Sum-Root-to-Leaf-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/129.Sum_Root_to_Leaf_Numbers) | Coming soon |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/Surrounded-Regions/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/130.Surrounded_Regions) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/130.Surrounded_Regions) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/Palindrome-Partitioning/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/131.Palindrome_Partitioning) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/131.Palindrome_Partitioning) |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/Palindrome-Partitioning-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/132.Palindrome_Partitioning_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/132.Palindrome_Partitioning_II) |
 | 133 | [Clone Graph](https://leetcode.com/problems/Clone-Graph/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/133.Clone_Graph) | Coming soon |
 | 134 | [Gas Station](https://leetcode.com/problems/Gas-Station/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/134.Gas_Station) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/134.Gas_Station) |
-| 135 | [Candy](https://leetcode.com/problems/Candy/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 136 | [Single Number](https://leetcode.com/problems/Single-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/136.Single_Number) | Coming soon |
 | 137 | [Single Number II](https://leetcode.com/problems/Single-Number-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/137.Single_Number_II) | Coming soon |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/Copy-List-with-Random-Pointer/) | [C++&nbsp;Java&nbsp;Python](./solutions/138.Copy_List_with_Random_Pointer) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/138.Copy_List_with_Random_Pointer) |
 | 139 | [Word Break](https://leetcode.com/problems/Word-Break/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/139.Word_Break) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/139.Word_Break) |
-| 140 | [Word Break II](https://leetcode.com/problems/Word-Break-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/Linked-List-Cycle/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/141.Linked_List_Cycle) | Coming soon |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/Linked-List-Cycle-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 143 | [Reorder List](https://leetcode.com/problems/Reorder-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/143.Reorder_List) | Coming soon |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/Binary-Tree-Preorder-Traversal/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/144.Binary_Tree_Preorder_Traversal) | Coming soon |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/Binary-Tree-Postorder-Traversal/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/145.Binary_Tree_Postorder_Traversal) | Coming soon |
 | 146 | [LRU Cache](https://leetcode.com/problems/LRU-Cache/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/146.LRU_Cache) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/146.LRU_Cache) |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/Insertion-Sort-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/147.Insertion_Sort_List) | Coming soon |
 | 148 | [Sort List](https://leetcode.com/problems/Sort-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/148.Sort_List) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/148.Sort_List) |
-| 149 | [Max Points on a Line](https://leetcode.com/problems/Max-Points-on-a-Line/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/Evaluate-Reverse-Polish-Notation/) | [C++&nbsp;Java&nbsp;Python](./solutions/150.Evaluate_Reverse_Polish_Notation) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/150.Evaluate_Reverse_Polish_Notation) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/Reverse-Words-in-a-String/) | [C++&nbsp;Java&nbsp;Python](./solutions/151.Reverse_Words_in_a_String) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/151.Reverse_Words_in_a_String) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/Maximum-Product-Subarray/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/152.Maximum_Product_Subarray) | Coming soon |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/153.Find_Minimum_in_Rotated_Sorted_Array) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/153.Find_Minimum_in_Rotated_Sorted_Array) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array-II/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/154.Find_Minimum_in_Rotated_Sorted_Array_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/154.Find_Minimum_in_Rotated_Sorted_Array_II) |
 | 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/155.Min_Stack) | Coming soon |
-| 156 | [Binary Tree Upside Down $](https://leetcode.com/problems/Binary-Tree-Upside-Down/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 157 | [Read N Characters Given Read4 $](https://leetcode.com/problems/Read-N-Characters-Given-Read4/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 158 | [Read N Characters Given Read4 II ... $](https://leetcode.com/problems/Read-N-Characters-Given-Read4-II---Call-multiple-times/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 159 | [Longest Substring with At Most Tw... $](https://leetcode.com/problems/Longest-Substring-with-At-Most-Two-Distinct-Characters/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/Intersection-of-Two-Linked-Lists/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/160.Intersection_of_Two_Linked_Lists) | Coming soon |
-| 161 | [One Edit Distance $](https://leetcode.com/problems/One-Edit-Distance/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 162 | [Find Peak Element](https://leetcode.com/problems/Find-Peak-Element/) | [C++&nbsp;Java&nbsp;Python](./solutions/162.Find_Peak_Element) | Coming soon |
-| 163 | [Missing Ranges $](https://leetcode.com/problems/Missing-Ranges/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 164 | [Maximum Gap](https://leetcode.com/problems/Maximum-Gap/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/164.Maximum_Gap) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/164.Maximum_Gap) |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/Compare-Version-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/165.Compare_Version_Numbers) | Coming soon |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/Fraction-to-Recurring-Decimal/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/166.Fraction_to_Recurring_Decimal) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/166.Fraction_to_Recurring_Decimal) |
-| 167 | [Two Sum II - Input array is sorted $](https://leetcode.com/problems/Two-Sum-II---Input-array-is-sorted/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/Excel-Sheet-Column-Title/) | [C++&nbsp;Java&nbsp;Python](./solutions/168.Excel_Sheet_Column_Title) | Coming soon |
 | 169 | [Majority Element](https://leetcode.com/problems/Majority-Element/) | [C++&nbsp;Java&nbsp;Python](./solutions/169.Majority_Element) | Coming soon |
-| 170 | [Two Sum III - Data structure design $](https://leetcode.com/problems/Two-Sum-III---Data-structure-design/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/Excel-Sheet-Column-Number/) | [C++&nbsp;Java&nbsp;Python](./solutions/171.Excel_Sheet_Column_Number) | Coming soon |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/Factorial-Trailing-Zeroes/) | [C++&nbsp;Java&nbsp;Python](./solutions/172.Factorial_Trailing_Zeroes) | Coming soon |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/Binary-Search-Tree-Iterator/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/173.Binary_Search_Tree_Iterator) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/173.Binary_Search_Tree_Iterator) |
-| 174 | [Dungeon Game](https://leetcode.com/problems/Dungeon-Game/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/Combine-Two-Tables/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/175.Combine_Two_Tables) | Coming soon |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/Second-Highest-Salary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/176.Second_Highest_Salary) | Coming soon |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/Nth-Highest-Salary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/177.Nth_Highest_Salary) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/177.Nth_Highest_Salary) |
@@ -210,8 +195,6 @@ I have solved 186 / 194 problems.=w=
 | 182 | [Duplicate Emails](https://leetcode.com/problems/Duplicate-Emails/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/182.Duplicate_Emails) | Coming soon |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/Customers-Who-Never-Order/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/183.Customers_Who_Never_Order) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/183.Customers_Who_Never_Order) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/Department-Highest-Salary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SQL](./solutions/184.Department_Highest_Salary) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/184.Department_Highest_Salary) |
-| 185 | [Department Top Three Salaries](https://leetcode.com/problems/Department-Top-Three-Salaries/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 186 | [Reverse Words in a String II $](https://leetcode.com/problems/Reverse-Words-in-a-String-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/Repeated-DNA-Sequences/) | [C++&nbsp;Java&nbsp;Python](./solutions/187.Repeated_DNA_Sequences) | Coming soon |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) |
 | 189 | [Rotate Array](https://leetcode.com/problems/Rotate-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/189.Rotate_Array) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/189.Rotate_Array) |
@@ -229,3 +212,5 @@ I have solved 186 / 194 problems.=w=
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/Bitwise-AND-of-Numbers-Range/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/201.Bitwise_AND_of_Numbers_Range) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/201.Bitwise_AND_of_Numbers_Range) |
 | 202 | [Happy Number](https://leetcode.com/problems/Happy-Number/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/202.Happy_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/202.Happy_Number) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/Remove-Linked-List-Elements/) | [C++&nbsp;Java&nbsp;Python](./solutions/203.Remove_Linked_List_Elements) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/203.Remove_Linked_List_Elements) |
+| 204 | [Count Primes](https://leetcode.com/problems/Count-Primes/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/Isomorphic-Strings/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/205.Isomorphic_Strings) | Coming soon |
