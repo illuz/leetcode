@@ -2,7 +2,7 @@
 *  Author:      illuz <iilluzen[at]gmail.com>
 *  File:        AC_simulation_n.cpp
 *  Create Date: 2015-05-01 10:04:38
-*  Descripton:   
+*  Descripton:  Record and simulation
 */
 
 #include <bits/stdc++.h>
