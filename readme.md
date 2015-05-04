@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 205 problems (9 problems for a fee).  
 
-I have solved 187 / 196 problems.=w=  
+I have solved 188 / 196 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -229,5 +229,5 @@ I have solved 187 / 196 problems.=w=
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/Bitwise-AND-of-Numbers-Range/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/201.Bitwise_AND_of_Numbers_Range) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/201.Bitwise_AND_of_Numbers_Range) |
 | 202 | [Happy Number](https://leetcode.com/problems/Happy-Number/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/202.Happy_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/202.Happy_Number) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/Remove-Linked-List-Elements/) | [C++&nbsp;Java&nbsp;Python](./solutions/203.Remove_Linked_List_Elements) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/203.Remove_Linked_List_Elements) |
-| 204 | [Count Primes](https://leetcode.com/problems/Count-Primes/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 204 | [Count Primes](https://leetcode.com/problems/Count-Primes/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/204.Count_Primes) | Coming soon |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/Isomorphic-Strings/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/205.Isomorphic_Strings) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/205.Isomorphic_Strings) |
