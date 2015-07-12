@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 207 problems (9 problems for a fee).  
+There are 235 problems (9 problems for a fee).  
 
-I have solved 189 / 198 problems.=w=  
+I have solved 190 / 226 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -233,3 +233,31 @@ I have solved 189 / 198 problems.=w=
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/Isomorphic-Strings/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/205.Isomorphic_Strings) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/205.Isomorphic_Strings) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/Reverse-Linked-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/206.Reverse_Linked_List) | Coming soon |
 | 207 | [Course Schedule](https://leetcode.com/problems/Course-Schedule/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/Implement-Trie-(Prefix-Tree)/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/Minimum-Size-Subarray-Sum/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 210 | [Course Schedule II](https://leetcode.com/problems/Course-Schedule-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 211 | [Add and Search Word - Data struct...](https://leetcode.com/problems/Add-and-Search-Word---Data-structure-design/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 212 | [Word Search II](https://leetcode.com/problems/Word-Search-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 213 | [House Robber II](https://leetcode.com/problems/House-Robber-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 214 | [Shortest Palindrome](https://leetcode.com/problems/Shortest-Palindrome/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/Kth-Largest-Element-in-an-Array/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 216 | [Combination Sum III](https://leetcode.com/problems/Combination-Sum-III/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/Contains-Duplicate/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/The-Skyline-Problem/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/Contains-Duplicate-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/Contains-Duplicate-III/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 221 | [Maximal Square](https://leetcode.com/problems/Maximal-Square/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/Count-Complete-Tree-Nodes/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 223 | [Rectangle Area](https://leetcode.com/problems/Rectangle-Area/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 224 | [Basic Calculator](https://leetcode.com/problems/Basic-Calculator/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/Implement-Stack-using-Queues/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/Invert-Binary-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/Basic-Calculator-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 228 | [Summary Ranges](https://leetcode.com/problems/Summary-Ranges/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 229 | [Majority Element II](https://leetcode.com/problems/Majority-Element-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/Kth-Smallest-Element-in-a-BST/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 231 | [Power of Two](https://leetcode.com/problems/Power-of-Two/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/231.Power_of_Two) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/231.Power_of_Two) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/Implement-Queue-using-Stacks/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 233 | [Number of Digit One](https://leetcode.com/problems/Number-of-Digit-One/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/Palindrome-Linked-List/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 235 | [Lowest Common Ancestor of a Binar...](https://leetcode.com/problems/Lowest-Common-Ancestor-of-a-Binary-Search-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
