@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 235 problems (9 problems for a fee).  
+There are 243 problems (9 problems for a fee).  
 
-I have solved 190 / 226 problems.=w=  
+I have solved 191 / 234 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -242,7 +242,11 @@ I have solved 190 / 226 problems.=w=
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/Shortest-Palindrome/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/Kth-Largest-Element-in-an-Array/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 216 | [Combination Sum III](https://leetcode.com/problems/Combination-Sum-III/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/Contains-Duplicate/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/Contains-Duplicate/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/217.Contains_Duplicate) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/217.Contains_Duplicate) |
+| 217 | [Contains Duplicate/a.out.dSYM](https://leetcode.com/problems/Contains-Duplicate/a.out.dSYM/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 217 | [Contains Duplicate/a.out.dSYM/Contents](https://leetcode.com/problems/Contains-Duplicate/a.out.dSYM/Contents/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 217 | [Contains Duplicate/a.out.dSYM/Con...](https://leetcode.com/problems/Contains-Duplicate/a.out.dSYM/Contents/Resources/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 217 | [Contains Duplicate/a.out.dSYM/Con...](https://leetcode.com/problems/Contains-Duplicate/a.out.dSYM/Contents/Resources/DWARF/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/The-Skyline-Problem/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/Contains-Duplicate-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/Contains-Duplicate-III/) |  &nbsp;&nbsp;Coming soon | Coming soon |
@@ -257,6 +261,10 @@ I have solved 190 / 226 problems.=w=
 | 229 | [Majority Element II](https://leetcode.com/problems/Majority-Element-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/Kth-Smallest-Element-in-a-BST/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 231 | [Power of Two](https://leetcode.com/problems/Power-of-Two/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/231.Power_of_Two) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/231.Power_of_Two) |
+| 231 | [Power of Two/a.out.dSYM](https://leetcode.com/problems/Power-of-Two/a.out.dSYM/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 231 | [Power of Two/a.out.dSYM/Contents](https://leetcode.com/problems/Power-of-Two/a.out.dSYM/Contents/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 231 | [Power of Two/a.out.dSYM/Contents/...](https://leetcode.com/problems/Power-of-Two/a.out.dSYM/Contents/Resources/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 231 | [Power of Two/a.out.dSYM/Contents/...](https://leetcode.com/problems/Power-of-Two/a.out.dSYM/Contents/Resources/DWARF/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/Implement-Queue-using-Stacks/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 233 | [Number of Digit One](https://leetcode.com/problems/Number-of-Digit-One/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/Palindrome-Linked-List/) |  &nbsp;&nbsp;Coming soon | Coming soon |
