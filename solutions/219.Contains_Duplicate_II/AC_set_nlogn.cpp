@@ -1,6 +1,6 @@
 /*
 *  Author:      illuz <iilluzen[at]gmail.com>
-*  File:        AC_map_nlogn.cpp
+*  File:        AC_set_nlogn.cpp
 *  Create Date: 2015-07-14 11:27:19
 *  Descripton:   
 */
