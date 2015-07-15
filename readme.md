@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 243 problems (9 problems for a fee).  
+There are 247 problems (9 problems for a fee).  
 
-I have solved 191 / 234 problems.=w=  
+I have solved 193 / 238 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -248,8 +248,12 @@ I have solved 191 / 234 problems.=w=
 | 217 | [Contains Duplicate/a.out.dSYM/Con...](https://leetcode.com/problems/Contains-Duplicate/a.out.dSYM/Contents/Resources/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 217 | [Contains Duplicate/a.out.dSYM/Con...](https://leetcode.com/problems/Contains-Duplicate/a.out.dSYM/Contents/Resources/DWARF/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/The-Skyline-Problem/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 219 | [Contains Duplicate II](https://leetcode.com/problems/Contains-Duplicate-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 220 | [Contains Duplicate III](https://leetcode.com/problems/Contains-Duplicate-III/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/Contains-Duplicate-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/219.Contains_Duplicate_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/219.Contains_Duplicate_II) |
+| 219 | [Contains Duplicate II/a.out.dSYM](https://leetcode.com/problems/Contains-Duplicate-II/a.out.dSYM/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 219 | [Contains Duplicate II/a.out.dSYM/...](https://leetcode.com/problems/Contains-Duplicate-II/a.out.dSYM/Contents/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 219 | [Contains Duplicate II/a.out.dSYM/...](https://leetcode.com/problems/Contains-Duplicate-II/a.out.dSYM/Contents/Resources/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 219 | [Contains Duplicate II/a.out.dSYM/...](https://leetcode.com/problems/Contains-Duplicate-II/a.out.dSYM/Contents/Resources/DWARF/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/Contains-Duplicate-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/220.Contains_Duplicate_III) | Coming soon |
 | 221 | [Maximal Square](https://leetcode.com/problems/Maximal-Square/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/Count-Complete-Tree-Nodes/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 223 | [Rectangle Area](https://leetcode.com/problems/Rectangle-Area/) |  &nbsp;&nbsp;Coming soon | Coming soon |
