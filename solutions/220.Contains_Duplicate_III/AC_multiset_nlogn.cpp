@@ -29,7 +29,9 @@ public:
             } else {
                 // insert first or fail k=0
                 ms.insert(nums[i]);
-                ms.erase(nums[i - k]);
+                // only erase(nums[i - k]) will remove all num[i-k]
+                // but here it will not contain duplicate, only erase(nums[i - k]) is lso ok
+                ms.erase(ms.find(nums[i]));
             }
         }
         return false;
