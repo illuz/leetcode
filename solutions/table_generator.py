@@ -18,7 +18,9 @@ for root, dirs, files in os.walk('.'):
     # pass .
     if len(root) < 2:
         continue
-    
+    # fix gdb file in mac
+    if 'a.' in root:
+        continue
     res[root[2:]] = []
     for file in files:
         if file[-3:] == 'cpp':
