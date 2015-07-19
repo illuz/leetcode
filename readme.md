@@ -248,7 +248,7 @@ I have solved 195 / 230 problems.=w=
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/Contains-Duplicate-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/220.Contains_Duplicate_III) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/220.Contains_Duplicate_III) |
 | 221 | [Maximal Square](https://leetcode.com/problems/Maximal-Square/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/Count-Complete-Tree-Nodes/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 223 | [Rectangle Area](https://leetcode.com/problems/Rectangle-Area/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/223.Rectangle_Area) | Coming soon |
+| 223 | [Rectangle Area](https://leetcode.com/problems/Rectangle-Area/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/223.Rectangle_Area) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/223.Rectangle_Area) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/Basic-Calculator/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/Implement-Stack-using-Queues/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/Invert-Binary-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
