@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 239 problems (9 problems for a fee).  
 
-I have solved 197 / 230 problems.=w=  
+I have solved 198 / 230 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -253,7 +253,7 @@ I have solved 197 / 230 problems.=w=
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/Implement-Stack-using-Queues/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/225.Implement_Stack_using_Queues) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/225.Implement_Stack_using_Queues) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/Invert-Binary-Tree/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/226.Invert_Binary_Tree) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/226.Invert_Binary_Tree) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/Basic-Calculator-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 228 | [Summary Ranges](https://leetcode.com/problems/Summary-Ranges/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 228 | [Summary Ranges](https://leetcode.com/problems/Summary-Ranges/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/228.Summary_Ranges) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/228.Summary_Ranges) |
 | 229 | [Majority Element II](https://leetcode.com/problems/Majority-Element-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/Kth-Smallest-Element-in-a-BST/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 231 | [Power of Two](https://leetcode.com/problems/Power-of-Two/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/231.Power_of_Two) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/231.Power_of_Two) |
