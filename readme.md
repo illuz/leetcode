@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 239 problems (9 problems for a fee).  
 
-I have solved 196 / 230 problems.=w=  
+I have solved 197 / 230 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -251,7 +251,7 @@ I have solved 196 / 230 problems.=w=
 | 223 | [Rectangle Area](https://leetcode.com/problems/Rectangle-Area/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/223.Rectangle_Area) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/223.Rectangle_Area) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/Basic-Calculator/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/Implement-Stack-using-Queues/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/225.Implement_Stack_using_Queues) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/225.Implement_Stack_using_Queues) |
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/Invert-Binary-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/Invert-Binary-Tree/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/226.Invert_Binary_Tree) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/226.Invert_Binary_Tree) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/Basic-Calculator-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 228 | [Summary Ranges](https://leetcode.com/problems/Summary-Ranges/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 229 | [Majority Element II](https://leetcode.com/problems/Majority-Element-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
