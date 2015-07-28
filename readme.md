@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 239 problems (9 problems for a fee).  
 
-I have solved 199 / 230 problems.=w=  
+I have solved 200 / 230 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -259,7 +259,7 @@ I have solved 199 / 230 problems.=w=
 | 231 | [Power of Two](https://leetcode.com/problems/Power-of-Two/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/231.Power_of_Two) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/231.Power_of_Two) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/Implement-Queue-using-Stacks/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/232.Implement_Queue_using_Stacks) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/232.Implement_Queue_using_Stacks) |
 | 233 | [Number of Digit One](https://leetcode.com/problems/Number-of-Digit-One/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/Palindrome-Linked-List/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/Palindrome-Linked-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/234.Palindrome_Linked_List) | Coming soon |
 | 235 | [Lowest Common Ancestor of a Binar...](https://leetcode.com/problems/Lowest-Common-Ancestor-of-a-Binary-Search-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/Lowest-Common-Ancestor-of-a-Binary-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/Delete-Node-in-a-Linked-List/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/237.Delete_Node_in_a_Linked_List) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/237.Delete_Node_in_a_Linked_List) |
