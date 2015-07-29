@@ -2,9 +2,8 @@
 *  Author:      illuz <iilluzen[at]gmail.com>
 *  File:        AC_simulation_n.java
 *  Create Date: 2015-07-29 11:45:55
-*  Descripton:   
+*  Descripton:  
 */
-
 
 import java.util.*;
 
