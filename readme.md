@@ -63,7 +63,7 @@ I have solved 201 / 232 problems.=w=
 | 035 | [Search Insert Position](https://leetcode.com/problems/Search-Insert-Position/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/035.Search_Insert_Position) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/035.Search_Insert_Position) |
 | 036 | [Valid Sudoku](https://leetcode.com/problems/Valid-Sudoku/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/036.Valid_Sudoku) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/036.Valid_Sudoku) |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/Sudoku-Solver/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/037.Sudoku_Solver) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/037.Sudoku_Solver) |
-| 038 | [Count and Say](https://leetcode.com/problems/Count-and-Say/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/038.Count_and_Say) | Coming soon |
+| 038 | [Count and Say](https://leetcode.com/problems/Count-and-Say/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/038.Count_and_Say) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/038.Count_and_Say) |
 | 039 | [Combination Sum](https://leetcode.com/problems/Combination-Sum/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/039.Combination_Sum) | Coming soon |
 | 040 | [Combination Sum II](https://leetcode.com/problems/Combination-Sum-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/040.Combination_Sum_II) | Coming soon |
 | 041 | [First Missing Positive](https://leetcode.com/problems/First-Missing-Positive/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/041.First_Missing_Positive) | Coming soon |
