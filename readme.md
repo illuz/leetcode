@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 241 problems (9 problems for a fee).  
+There are 242 problems (9 problems for a fee).  
 
-I have solved 201 / 232 problems.=w=  
+I have solved 202 / 233 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -246,7 +246,7 @@ I have solved 201 / 232 problems.=w=
 | 218 | [The Skyline Problem](https://leetcode.com/problems/The-Skyline-Problem/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/Contains-Duplicate-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/219.Contains_Duplicate_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/219.Contains_Duplicate_II) |
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/Contains-Duplicate-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/220.Contains_Duplicate_III) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/220.Contains_Duplicate_III) |
-| 221 | [Maximal Square](https://leetcode.com/problems/Maximal-Square/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 221 | [Maximal Square](https://leetcode.com/problems/Maximal-Square/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/221.Maximal_Square) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/221.Maximal_Square) |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/Count-Complete-Tree-Nodes/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 223 | [Rectangle Area](https://leetcode.com/problems/Rectangle-Area/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/223.Rectangle_Area) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/223.Rectangle_Area) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/Basic-Calculator/) |  &nbsp;&nbsp;Coming soon | Coming soon |
@@ -267,3 +267,4 @@ I have solved 201 / 232 problems.=w=
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/Sliding-Window-Maximum/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/Search-a-2D-Matrix-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/Different-Ways-to-Add-Parentheses/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) |  &nbsp;&nbsp;Coming soon | Coming soon |
