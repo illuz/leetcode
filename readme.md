@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 242 problems (9 problems for a fee).  
 
-I have solved 202 / 233 problems.=w=  
+I have solved 203 / 233 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -267,4 +267,4 @@ I have solved 202 / 233 problems.=w=
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/Sliding-Window-Maximum/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/Search-a-2D-Matrix-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/Different-Ways-to-Add-Parentheses/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/242.Valid_Anagram) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/242.Valid_Anagram) |
