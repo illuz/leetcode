@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 242 problems (9 problems for a fee).  
 
-I have solved 203 / 233 problems.=w=  
+I have solved 204 / 233 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -247,7 +247,7 @@ I have solved 203 / 233 problems.=w=
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/Contains-Duplicate-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/219.Contains_Duplicate_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/219.Contains_Duplicate_II) |
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/Contains-Duplicate-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/220.Contains_Duplicate_III) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/220.Contains_Duplicate_III) |
 | 221 | [Maximal Square](https://leetcode.com/problems/Maximal-Square/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/221.Maximal_Square) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/221.Maximal_Square) |
-| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/Count-Complete-Tree-Nodes/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/Count-Complete-Tree-Nodes/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/222.Count_Complete_Tree_Nodes) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/222.Count_Complete_Tree_Nodes) |
 | 223 | [Rectangle Area](https://leetcode.com/problems/Rectangle-Area/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/223.Rectangle_Area) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/223.Rectangle_Area) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/Basic-Calculator/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/Implement-Stack-using-Queues/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/225.Implement_Stack_using_Queues) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/225.Implement_Stack_using_Queues) |
