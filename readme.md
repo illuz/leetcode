@@ -20,7 +20,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 242 problems (9 problems for a fee).  
+There are 251 problems (18 problems for a fee).  
 
 I have solved 204 / 233 problems.=w=  
 
@@ -268,3 +268,12 @@ I have solved 204 / 233 problems.=w=
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/Search-a-2D-Matrix-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/Different-Ways-to-Add-Parentheses/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/242.Valid_Anagram) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/242.Valid_Anagram) |
+| 243 | [Shortest Word Distance $](https://leetcode.com/problems/Shortest-Word-Distance/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 244 | [Shortest Word Distance II $](https://leetcode.com/problems/Shortest-Word-Distance-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 245 | [Shortest Word Distance III $](https://leetcode.com/problems/Shortest-Word-Distance-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 246 | [Strobogrammatic Number $](https://leetcode.com/problems/Strobogrammatic-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 247 | [Strobogrammatic Number II $](https://leetcode.com/problems/Strobogrammatic-Number-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 248 | [Strobogrammatic Number III $](https://leetcode.com/problems/Strobogrammatic-Number-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 249 | [Group Shifted Strings $](https://leetcode.com/problems/Group-Shifted-Strings/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 250 | [Count Univalue Subtrees $](https://leetcode.com/problems/Count-Univalue-Subtrees/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 251 | [Flatten 2D Vector $](https://leetcode.com/problems/Flatten-2D-Vector/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
