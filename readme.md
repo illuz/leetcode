@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 251 problems (18 problems for a fee).  
 
-I have solved 204 / 233 problems.=w=  
+I have solved 205 / 233 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -64,8 +64,8 @@ I have solved 204 / 233 problems.=w=
 | 036 | [Valid Sudoku](https://leetcode.com/problems/Valid-Sudoku/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/036.Valid_Sudoku) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/036.Valid_Sudoku) |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/Sudoku-Solver/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/037.Sudoku_Solver) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/037.Sudoku_Solver) |
 | 038 | [Count and Say](https://leetcode.com/problems/Count-and-Say/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/038.Count_and_Say) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/038.Count_and_Say) |
-| 039 | [Combination Sum](https://leetcode.com/problems/Combination-Sum/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/039.Combination_Sum) | Coming soon |
-| 040 | [Combination Sum II](https://leetcode.com/problems/Combination-Sum-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/040.Combination_Sum_II) | Coming soon |
+| 039 | [Combination Sum](https://leetcode.com/problems/Combination-Sum/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/039.Combination_Sum) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/039.Combination_Sum) |
+| 040 | [Combination Sum II](https://leetcode.com/problems/Combination-Sum-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/040.Combination_Sum_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/040.Combination_Sum_II) |
 | 041 | [First Missing Positive](https://leetcode.com/problems/First-Missing-Positive/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/041.First_Missing_Positive) | Coming soon |
 | 042 | [Trapping Rain Water](https://leetcode.com/problems/Trapping-Rain-Water/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/042.Trapping_Rain_Water) | Coming soon |
 | 043 | [Multiply Strings](https://leetcode.com/problems/Multiply-Strings/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/043.Multiply_Strings) | Coming soon |
@@ -241,7 +241,7 @@ I have solved 204 / 233 problems.=w=
 | 213 | [House Robber II](https://leetcode.com/problems/House-Robber-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/Shortest-Palindrome/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/Kth-Largest-Element-in-an-Array/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 216 | [Combination Sum III](https://leetcode.com/problems/Combination-Sum-III/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 216 | [Combination Sum III](https://leetcode.com/problems/Combination-Sum-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/216.Combination_Sum_III) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/216.Combination_Sum_III) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/Contains-Duplicate/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/217.Contains_Duplicate) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/217.Contains_Duplicate) |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/The-Skyline-Problem/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/Contains-Duplicate-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/219.Contains_Duplicate_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/219.Contains_Duplicate_II) |
