@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 251 problems (18 problems for a fee).  
 
-I have solved 205 / 233 problems.=w=  
+I have solved 206 / 233 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -232,7 +232,7 @@ I have solved 205 / 233 problems.=w=
 | 204 | [Count Primes](https://leetcode.com/problems/Count-Primes/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/204.Count_Primes) | Coming soon |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/Isomorphic-Strings/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/205.Isomorphic_Strings) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/205.Isomorphic_Strings) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/Reverse-Linked-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/206.Reverse_Linked_List) | Coming soon |
-| 207 | [Course Schedule](https://leetcode.com/problems/Course-Schedule/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 207 | [Course Schedule](https://leetcode.com/problems/Course-Schedule/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/207.Course_Schedule) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/207.Course_Schedule) |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/Implement-Trie-(Prefix-Tree)/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/Minimum-Size-Subarray-Sum/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 210 | [Course Schedule II](https://leetcode.com/problems/Course-Schedule-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
