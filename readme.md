@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 251 problems (18 problems for a fee).  
 
-I have solved 206 / 233 problems.=w=  
+I have solved 207 / 233 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -240,7 +240,7 @@ I have solved 206 / 233 problems.=w=
 | 212 | [Word Search II](https://leetcode.com/problems/Word-Search-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 213 | [House Robber II](https://leetcode.com/problems/House-Robber-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/Shortest-Palindrome/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/Kth-Largest-Element-in-an-Array/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/Kth-Largest-Element-in-an-Array/) | [C++&nbsp;Java&nbsp;Python](./solutions/215.Kth_Largest_Element_in_an_Array) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/215.Kth_Largest_Element_in_an_Array) |
 | 216 | [Combination Sum III](https://leetcode.com/problems/Combination-Sum-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/216.Combination_Sum_III) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/216.Combination_Sum_III) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/Contains-Duplicate/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/217.Contains_Duplicate) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/217.Contains_Duplicate) |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/The-Skyline-Problem/) |  &nbsp;&nbsp;Coming soon | Coming soon |
