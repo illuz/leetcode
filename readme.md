@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 251 problems (18 problems for a fee).  
 
-I have solved 207 / 233 problems.=w=  
+I have solved 208 / 233 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -255,7 +255,7 @@ I have solved 207 / 233 problems.=w=
 | 227 | [Basic Calculator II](https://leetcode.com/problems/Basic-Calculator-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 228 | [Summary Ranges](https://leetcode.com/problems/Summary-Ranges/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/228.Summary_Ranges) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/228.Summary_Ranges) |
 | 229 | [Majority Element II](https://leetcode.com/problems/Majority-Element-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/Kth-Smallest-Element-in-a-BST/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/Kth-Smallest-Element-in-a-BST/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/230.Kth_Smallest_Element_in_a_BST) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/230.Kth_Smallest_Element_in_a_BST) |
 | 231 | [Power of Two](https://leetcode.com/problems/Power-of-Two/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/231.Power_of_Two) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/231.Power_of_Two) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/Implement-Queue-using-Stacks/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/232.Implement_Queue_using_Stacks) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/232.Implement_Queue_using_Stacks) |
 | 233 | [Number of Digit One](https://leetcode.com/problems/Number-of-Digit-One/) |  &nbsp;&nbsp;Coming soon | Coming soon |
