@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 257 problems (23 problems for a fee).  
+There are 258 problems (23 problems for a fee).  
 
-I have solved 209 / 234 problems.=w=  
+I have solved 210 / 235 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -283,3 +283,4 @@ I have solved 209 / 234 problems.=w=
 | 255 | [Verify Preorder Sequence in Binar... $](https://leetcode.com/problems/Verify-Preorder-Sequence-in-Binary-Search-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 256 | [Paint House $](https://leetcode.com/problems/Paint-House/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/Binary-Tree-Paths/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/257.Binary_Tree_Paths) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/257.Binary_Tree_Paths) |
+| 258 | [Add Digits](https://leetcode.com/problems/Add-Digits/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/258.Add_Digits) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/258.Add_Digits) |
