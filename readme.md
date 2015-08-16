@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 251 problems (18 problems for a fee).  
+There are 257 problems (23 problems for a fee).  
 
-I have solved 208 / 233 problems.=w=  
+I have solved 209 / 234 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -277,3 +277,9 @@ I have solved 208 / 233 problems.=w=
 | 249 | [Group Shifted Strings $](https://leetcode.com/problems/Group-Shifted-Strings/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 250 | [Count Univalue Subtrees $](https://leetcode.com/problems/Count-Univalue-Subtrees/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 251 | [Flatten 2D Vector $](https://leetcode.com/problems/Flatten-2D-Vector/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 252 | [Meeting Rooms $](https://leetcode.com/problems/Meeting-Rooms/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 253 | [Meeting Rooms II $](https://leetcode.com/problems/Meeting-Rooms-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 254 | [Factor Combinations $](https://leetcode.com/problems/Factor-Combinations/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 255 | [Verify Preorder Sequence in Binar... $](https://leetcode.com/problems/Verify-Preorder-Sequence-in-Binary-Search-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 256 | [Paint House $](https://leetcode.com/problems/Paint-House/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/Binary-Tree-Paths/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/257.Binary_Tree_Paths) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/257.Binary_Tree_Paths) |
