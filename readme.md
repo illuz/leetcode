@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 258 problems (23 problems for a fee).  
 
-I have solved 210 / 235 problems.=w=  
+I have solved 211 / 235 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -161,7 +161,7 @@ I have solved 210 / 235 problems.=w=
 | 133 | [Clone Graph](https://leetcode.com/problems/Clone-Graph/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/133.Clone_Graph) | Coming soon |
 | 134 | [Gas Station](https://leetcode.com/problems/Gas-Station/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/134.Gas_Station) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/134.Gas_Station) |
 | 135 | [Candy](https://leetcode.com/problems/Candy/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 136 | [Single Number](https://leetcode.com/problems/Single-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/136.Single_Number) | Coming soon |
+| 136 | [Single Number](https://leetcode.com/problems/Single-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/136.Single_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/136.Single_Number) |
 | 137 | [Single Number II](https://leetcode.com/problems/Single-Number-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/137.Single_Number_II) | Coming soon |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/Copy-List-with-Random-Pointer/) | [C++&nbsp;Java&nbsp;Python](./solutions/138.Copy_List_with_Random_Pointer) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/138.Copy_List_with_Random_Pointer) |
 | 139 | [Word Break](https://leetcode.com/problems/Word-Break/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/139.Word_Break) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/139.Word_Break) |
@@ -264,7 +264,7 @@ I have solved 210 / 235 problems.=w=
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/Lowest-Common-Ancestor-of-a-Binary-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/Delete-Node-in-a-Linked-List/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/237.Delete_Node_in_a_Linked_List) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/237.Delete_Node_in_a_Linked_List) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/Product-of-Array-Except-Self/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/Sliding-Window-Maximum/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/Sliding-Window-Maximum/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/239.Sliding_Window_Maximum) | Coming soon |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/Search-a-2D-Matrix-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/Different-Ways-to-Add-Parentheses/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/242.Valid_Anagram) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/242.Valid_Anagram) |
