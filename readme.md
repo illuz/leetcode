@@ -180,7 +180,7 @@ I have solved 211 / 235 problems.=w=
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/Maximum-Product-Subarray/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/152.Maximum_Product_Subarray) | Coming soon |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/153.Find_Minimum_in_Rotated_Sorted_Array) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/153.Find_Minimum_in_Rotated_Sorted_Array) |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/Find-Minimum-in-Rotated-Sorted-Array-II/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/154.Find_Minimum_in_Rotated_Sorted_Array_II) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/154.Find_Minimum_in_Rotated_Sorted_Array_II) |
-| 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/155.Min_Stack) | Coming soon |
+| 155 | [Min Stack](https://leetcode.com/problems/Min-Stack/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/155.Min_Stack) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/155.Min_Stack) |
 | 156 | [Binary Tree Upside Down $](https://leetcode.com/problems/Binary-Tree-Upside-Down/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 157 | [Read N Characters Given Read4 $](https://leetcode.com/problems/Read-N-Characters-Given-Read4/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 158 | [Read N Characters Given Read4 II ... $](https://leetcode.com/problems/Read-N-Characters-Given-Read4-II---Call-multiple-times/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
@@ -264,7 +264,7 @@ I have solved 211 / 235 problems.=w=
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/Lowest-Common-Ancestor-of-a-Binary-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/Delete-Node-in-a-Linked-List/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/237.Delete_Node_in_a_Linked_List) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/237.Delete_Node_in_a_Linked_List) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/Product-of-Array-Except-Self/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/Sliding-Window-Maximum/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/239.Sliding_Window_Maximum) | Coming soon |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/Sliding-Window-Maximum/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/239.Sliding_Window_Maximum) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/239.Sliding_Window_Maximum) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/Search-a-2D-Matrix-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/Different-Ways-to-Add-Parentheses/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 242 | [Valid Anagram](https://leetcode.com/problems/Valid-Anagram/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/242.Valid_Anagram) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/242.Valid_Anagram) |
