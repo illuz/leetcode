@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 258 problems (23 problems for a fee).  
+There are 265 problems (26 problems for a fee).  
 
-I have solved 211 / 235 problems.=w=  
+I have solved 212 / 239 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -284,3 +284,10 @@ I have solved 211 / 235 problems.=w=
 | 256 | [Paint House $](https://leetcode.com/problems/Paint-House/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/Binary-Tree-Paths/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/257.Binary_Tree_Paths) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/257.Binary_Tree_Paths) |
 | 258 | [Add Digits](https://leetcode.com/problems/Add-Digits/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/258.Add_Digits) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/258.Add_Digits) |
+| 259 | [3Sum Smaller $](https://leetcode.com/problems/3Sum-Smaller/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 260 | [Single Number III](https://leetcode.com/problems/Single-Number-III/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 261 | [Graph Valid Tree $](https://leetcode.com/problems/Graph-Valid-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 263 | [Ugly Number](https://leetcode.com/problems/Ugly-Number/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/263.Ugly_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/263.Ugly_Number) |
+| 264 | [Ugly Number II](https://leetcode.com/problems/Ugly-Number-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 265 | [Paint House II $](https://leetcode.com/problems/Paint-House-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| ls | [](https://leetcode.com/problems//) |  &nbsp;&nbsp;Coming soon | Coming soon |
