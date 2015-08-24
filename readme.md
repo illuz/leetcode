@@ -22,7 +22,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 265 problems (26 problems for a fee).  
 
-I have solved 212 / 239 problems.=w=  
+I have solved 213 / 239 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -53,7 +53,7 @@ I have solved 212 / 239 problems.=w=
 | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/Reverse-Nodes-in-k-Group/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/025.Reverse_Nodes_in_k-Group) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/025.Reverse_Nodes_in_k-Group) |
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/Remove-Duplicates-from-Sorted-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/026.Remove_Duplicates_from_Sorted_Array) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/026.Remove_Duplicates_from_Sorted_Array) |
 | 027 | [Remove Element](https://leetcode.com/problems/Remove-Element/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/027.Remove_Element) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/027.Remove_Element) |
-| 028 | [Implement strStr()](https://leetcode.com/problems/Implement-strStr()/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/028.Implement_strStr()) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/028.Implement_strStr()) |
+| 028 | [Implement strStr()](https://leetcode.com/problems/Implement-strStr/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/028.Implement_strStr()) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/028.Implement_strStr()) |
 | 029 | [Divide Two Integers](https://leetcode.com/problems/Divide-Two-Integers/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/029.Divide_Two_Integers) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/029.Divide_Two_Integers) |
 | 030 | [Substring with Concatenation of A...](https://leetcode.com/problems/Substring-with-Concatenation-of-All-Words/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/030.Substring_with_Concatenation_of_A...) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/030.Substring_with_Concatenation_of_A...) |
 | 031 | [Next Permutation](https://leetcode.com/problems/Next-Permutation/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/031.Next_Permutation) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/031.Next_Permutation) |
@@ -75,7 +75,7 @@ I have solved 212 / 239 problems.=w=
 | 047 | [Permutations II](https://leetcode.com/problems/Permutations-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/047.Permutations_II) | Coming soon |
 | 048 | [Rotate Image](https://leetcode.com/problems/Rotate-Image/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/048.Rotate_Image) | Coming soon |
 | 049 | [Anagrams](https://leetcode.com/problems/Anagrams/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/049.Anagrams) | Coming soon |
-| 050 | [Pow(x, n)](https://leetcode.com/problems/Powx-nPow(x,-n)/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/050.Pow(x,_n)) | Coming soon |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/Powx,-n/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/050.Pow(x,_n)) | Coming soon |
 | 051 | [N-Queens](https://leetcode.com/problems/N-Queens/) | [C++&nbsp;Java&nbsp;Python](./solutions/051.N-Queens) | Coming soon |
 | 052 | [N-Queens II](https://leetcode.com/problems/N-Queens-II/) | [C++&nbsp;Java&nbsp;Python](./solutions/052.N-Queens_II) | Coming soon |
 | 053 | [Maximum Subarray](https://leetcode.com/problems/Maximum-Subarray/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/053.Maximum_Subarray) | Coming soon |
@@ -94,7 +94,7 @@ I have solved 212 / 239 problems.=w=
 | 066 | [Plus One](https://leetcode.com/problems/Plus-One/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/066.Plus_One) | Coming soon |
 | 067 | [Add Binary](https://leetcode.com/problems/Add-Binary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/067.Add_Binary) | Coming soon |
 | 068 | [Text Justification](https://leetcode.com/problems/Text-Justification/) | [C++&nbsp;Java&nbsp;Python](./solutions/068.Text_Justification) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/068.Text_Justification) |
-| 069 | [Sqrt(x)](https://leetcode.com/problems/Sqrtx) | [C++&nbsp;Java&nbsp;Python](./solutions/069.Sqrt(x)) | Coming soon |
+| 069 | [Sqrt(x)](https://leetcode.com/problems/Sqrtx/) | [C++&nbsp;Java&nbsp;Python](./solutions/069.Sqrt(x)) | Coming soon |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/Climbing-Stairs/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/070.Climbing_Stairs) | Coming soon |
 | 071 | [Simplify Path](https://leetcode.com/problems/Simplify-Path/) | [C++&nbsp;Java&nbsp;Python](./solutions/071.Simplify_Path) | Coming soon |
 | 072 | [Edit Distance](https://leetcode.com/problems/Edit-Distance/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/072.Edit_Distance) | Coming soon |
@@ -233,7 +233,7 @@ I have solved 212 / 239 problems.=w=
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/Isomorphic-Strings/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/205.Isomorphic_Strings) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/205.Isomorphic_Strings) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/Reverse-Linked-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/206.Reverse_Linked_List) | Coming soon |
 | 207 | [Course Schedule](https://leetcode.com/problems/Course-Schedule/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/207.Course_Schedule) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/207.Course_Schedule) |
-| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/Implement-Trie-(Prefix-Tree)/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/Implement-Trie-Prefix-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/208.Implement_Trie_(Prefix_Tree)) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/208.Implement_Trie_(Prefix_Tree)) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/Minimum-Size-Subarray-Sum/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 210 | [Course Schedule II](https://leetcode.com/problems/Course-Schedule-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 211 | [Add and Search Word - Data struct...](https://leetcode.com/problems/Add-and-Search-Word---Data-structure-design/) |  &nbsp;&nbsp;Coming soon | Coming soon |
