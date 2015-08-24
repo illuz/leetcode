@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 268 problems (26 problems for a fee).  
+There are 268 problems (28 problems for a fee).  
 
-I have solved 213 / 242 problems.=w=  
+I have solved 213 / 240 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -291,6 +291,6 @@ I have solved 213 / 242 problems.=w=
 | 263 | [Ugly Number](https://leetcode.com/problems/Ugly-Number/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/263.Ugly_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/263.Ugly_Number) |
 | 264 | [Ugly Number II](https://leetcode.com/problems/Ugly-Number-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 265 | [Paint House II $](https://leetcode.com/problems/Paint-House-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 266 | [Palindrome Permutation](https://leetcode.com/problems/Palindrome-Permutation/) |  &nbsp;&nbsp;Coming soon | Coming soon |
-| 267 | [Palindrome Permutation II](https://leetcode.com/problems/Palindrome-Permutation-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 266 | [Palindrome Permutation $](https://leetcode.com/problems/Palindrome-Permutation/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 267 | [Palindrome Permutation II $](https://leetcode.com/problems/Palindrome-Permutation-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 268 | [Missing Number](https://leetcode.com/problems/Missing-Number/) |  &nbsp;&nbsp;Coming soon | Coming soon |
