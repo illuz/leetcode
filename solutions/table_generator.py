@@ -61,13 +61,7 @@ print ('|----|----------|-----------|------|')
 
 for prb, cont in new_res:
     link = 'https://leetcode.com/problems/'
-    # sad that the 050.Pow(x, n) && 069.Sqrt(x) will not available
-    if prb[:3] == '050':
-        link += 'Powx-n'
-    if prb[:3] == '069':
-        link += 'Sqrtx'
-    else:
-        link += re.sub('_', '-', prb[4:]) + '/'
+    link += re.sub('_', '-', re.sub('\(|\)', '', prb[4:])) + '/'
 
     if len(prb[4:]) > 40:
         prb = prb[:37] + '...'
