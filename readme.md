@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 264 problems (26 problems for a fee).  
+There are 268 problems (26 problems for a fee).  
 
-I have solved 213 / 238 problems.=w=  
+I have solved 213 / 242 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -287,6 +287,10 @@ I have solved 213 / 238 problems.=w=
 | 259 | [3Sum Smaller $](https://leetcode.com/problems/3Sum-Smaller/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 260 | [Single Number III](https://leetcode.com/problems/Single-Number-III/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 261 | [Graph Valid Tree $](https://leetcode.com/problems/Graph-Valid-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 262 | [is missing](https://leetcode.com/problems/is-missing/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 263 | [Ugly Number](https://leetcode.com/problems/Ugly-Number/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/263.Ugly_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/263.Ugly_Number) |
 | 264 | [Ugly Number II](https://leetcode.com/problems/Ugly-Number-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 265 | [Paint House II $](https://leetcode.com/problems/Paint-House-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 266 | [Palindrome Permutation](https://leetcode.com/problems/Palindrome-Permutation/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 267 | [Palindrome Permutation II](https://leetcode.com/problems/Palindrome-Permutation-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 268 | [Missing Number](https://leetcode.com/problems/Missing-Number/) |  &nbsp;&nbsp;Coming soon | Coming soon |
