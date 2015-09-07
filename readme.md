@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 268 problems (28 problems for a fee).  
+There are 277 problems (34 problems for a fee).  
 
-I have solved 213 / 240 problems.=w=  
+I have solved 214 / 243 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -249,7 +249,7 @@ I have solved 213 / 240 problems.=w=
 | 221 | [Maximal Square](https://leetcode.com/problems/Maximal-Square/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/221.Maximal_Square) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/221.Maximal_Square) |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/Count-Complete-Tree-Nodes/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/222.Count_Complete_Tree_Nodes) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/222.Count_Complete_Tree_Nodes) |
 | 223 | [Rectangle Area](https://leetcode.com/problems/Rectangle-Area/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/223.Rectangle_Area) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/223.Rectangle_Area) |
-| 224 | [Basic Calculator](https://leetcode.com/problems/Basic-Calculator/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 224 | [Basic Calculator](https://leetcode.com/problems/Basic-Calculator/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/224.Basic_Calculator) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/224.Basic_Calculator) |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/Implement-Stack-using-Queues/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++&nbsp;Java](./solutions/225.Implement_Stack_using_Queues) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/225.Implement_Stack_using_Queues) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/Invert-Binary-Tree/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/226.Invert_Binary_Tree) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/226.Invert_Binary_Tree) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/Basic-Calculator-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
@@ -294,3 +294,12 @@ I have solved 213 / 240 problems.=w=
 | 266 | [Palindrome Permutation $](https://leetcode.com/problems/Palindrome-Permutation/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 267 | [Palindrome Permutation II $](https://leetcode.com/problems/Palindrome-Permutation-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 268 | [Missing Number](https://leetcode.com/problems/Missing-Number/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 269 | [Alien Dictionary $](https://leetcode.com/problems/Alien-Dictionary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 270 | [Closest Binary Search Tree Value $](https://leetcode.com/problems/Closest-Binary-Search-Tree-Value/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 271 | [Encode and Decode Strings $](https://leetcode.com/problems/Encode-and-Decode-Strings/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 272 | [Closest Binary Search Tree Value II $](https://leetcode.com/problems/Closest-Binary-Search-Tree-Value-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 273 | [Integer to English Words](https://leetcode.com/problems/Integer-to-English-Words/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 274 | [H-Index](https://leetcode.com/problems/H-Index/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 275 | [H-Index II](https://leetcode.com/problems/H-Index-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 276 | [Paint Fence $](https://leetcode.com/problems/Paint-Fence/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 277 | [Find the Celebrity $](https://leetcode.com/problems/Find-the-Celebrity/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
