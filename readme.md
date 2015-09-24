@@ -20,9 +20,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 277 problems (34 problems for a fee).  
+There are 285 problems (37 problems for a fee).  
 
-I have solved 214 / 243 problems.=w=  
+I have solved 215 / 248 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -303,3 +303,11 @@ I have solved 214 / 243 problems.=w=
 | 275 | [H-Index II](https://leetcode.com/problems/H-Index-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 276 | [Paint Fence $](https://leetcode.com/problems/Paint-Fence/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 277 | [Find the Celebrity $](https://leetcode.com/problems/Find-the-Celebrity/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 278 | [First Bad Version](https://leetcode.com/problems/First-Bad-Version/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/278.First_Bad_Version) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/278.First_Bad_Version) |
+| 279 | [Perfect Squares](https://leetcode.com/problems/Perfect-Squares/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 280 | [Wiggle Sort $](https://leetcode.com/problems/Wiggle-Sort/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 281 | [Zigzag Iterator $](https://leetcode.com/problems/Zigzag-Iterator/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/Expression-Add-Operators/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 283 | [Move Zeroes](https://leetcode.com/problems/Move-Zeroes/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 284 | [Peeking Iterator](https://leetcode.com/problems/Peeking-Iterator/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 285 | [Inorder Successor in BST $](https://leetcode.com/problems/Inorder-Successor-in-BST/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
