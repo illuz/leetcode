@@ -3,6 +3,8 @@ LeetCode Solutions by illuz
 
 Updating....   
 
+My stupid [**How to LeetCode**](./how-to-leetcode.md).  
+
 This is my leetcode solution folder. :)  
 Language: **C++/Java/Python/Sql/Shell Script**  
   
