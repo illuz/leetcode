@@ -22,9 +22,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 285 problems (37 problems for a fee).  
+There are 296 problems (43 problems for a fee).  
 
-I have solved 216 / 248 problems.=w=  
+I have solved 216 / 253 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -313,3 +313,14 @@ I have solved 216 / 248 problems.=w=
 | 283 | [Move Zeroes](https://leetcode.com/problems/Move-Zeroes/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/283.Move_Zeroes) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/283.Move_Zeroes) |
 | 284 | [Peeking Iterator](https://leetcode.com/problems/Peeking-Iterator/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 285 | [Inorder Successor in BST $](https://leetcode.com/problems/Inorder-Successor-in-BST/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 286 | [Walls and Gates $](https://leetcode.com/problems/Walls-and-Gates/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/Find-the-Duplicate-Number/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 288 | [Unique Word Abbreviation $](https://leetcode.com/problems/Unique-Word-Abbreviation/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 289 | [Game of Life](https://leetcode.com/problems/Game-of-Life/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 290 | [Word Pattern](https://leetcode.com/problems/Word-Pattern/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 291 | [Word Pattern II $](https://leetcode.com/problems/Word-Pattern-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 292 | [Nim Game](https://leetcode.com/problems/Nim-Game/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 293 | [Flip Game $](https://leetcode.com/problems/Flip-Game/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 294 | [Flip Game II $](https://leetcode.com/problems/Flip-Game-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/Find-Median-from-Data-Stream/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 296 | [Best Meeting Point $](https://leetcode.com/problems/Best-Meeting-Point/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
