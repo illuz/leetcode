@@ -1,6 +1,6 @@
 /*
 *  Author:      illuz <iilluzen[at]gmail.com>
-*  File:        AC_recursive_n2.cpp
+*  File:        AC_recursive_nsqrtn.cpp
 *  Create Date: 2015-10-26 10:11:03
 *  Descripton:  recursiev + memorization
 */
