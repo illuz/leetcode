@@ -24,7 +24,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 296 problems (43 problems for a fee).  
 
-I have solved 218 / 253 problems.=w=  
+I have solved 219 / 253 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -306,7 +306,7 @@ I have solved 218 / 253 problems.=w=
 | 276 | [Paint Fence $](https://leetcode.com/problems/Paint-Fence/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 277 | [Find the Celebrity $](https://leetcode.com/problems/Find-the-Celebrity/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 278 | [First Bad Version](https://leetcode.com/problems/First-Bad-Version/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/278.First_Bad_Version) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/278.First_Bad_Version) |
-| 279 | [Perfect Squares](https://leetcode.com/problems/Perfect-Squares/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 279 | [Perfect Squares](https://leetcode.com/problems/Perfect-Squares/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/279.Perfect_Squares) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/279.Perfect_Squares) |
 | 280 | [Wiggle Sort $](https://leetcode.com/problems/Wiggle-Sort/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 281 | [Zigzag Iterator $](https://leetcode.com/problems/Zigzag-Iterator/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/Expression-Add-Operators/) |  &nbsp;&nbsp;Coming soon | Coming soon |
