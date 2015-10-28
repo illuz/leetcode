@@ -24,7 +24,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 296 problems (43 problems for a fee).  
 
-I have solved 219 / 253 problems.=w=  
+I have solved 220 / 253 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -316,7 +316,7 @@ I have solved 219 / 253 problems.=w=
 | 286 | [Walls and Gates $](https://leetcode.com/problems/Walls-and-Gates/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/Find-the-Duplicate-Number/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 288 | [Unique Word Abbreviation $](https://leetcode.com/problems/Unique-Word-Abbreviation/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 289 | [Game of Life](https://leetcode.com/problems/Game-of-Life/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 289 | [Game of Life](https://leetcode.com/problems/Game-of-Life/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/289.Game_of_Life) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/289.Game_of_Life) |
 | 290 | [Word Pattern](https://leetcode.com/problems/Word-Pattern/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/290.Word_Pattern) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/290.Word_Pattern) |
 | 291 | [Word Pattern II $](https://leetcode.com/problems/Word-Pattern-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 292 | [Nim Game](https://leetcode.com/problems/Nim-Game/) |  &nbsp;&nbsp;Coming soon | Coming soon |
