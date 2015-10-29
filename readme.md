@@ -24,7 +24,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 296 problems (43 problems for a fee).  
 
-I have solved 220 / 253 problems.=w=  
+I have solved 221 / 253 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -295,7 +295,7 @@ I have solved 220 / 253 problems.=w=
 | 265 | [Paint House II $](https://leetcode.com/problems/Paint-House-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 266 | [Palindrome Permutation $](https://leetcode.com/problems/Palindrome-Permutation/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 267 | [Palindrome Permutation II $](https://leetcode.com/problems/Palindrome-Permutation-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 268 | [Missing Number](https://leetcode.com/problems/Missing-Number/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 268 | [Missing Number](https://leetcode.com/problems/Missing-Number/) | [C++&nbsp;Java&nbsp;Python](./solutions/268.Missing_Number) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/268.Missing_Number) |
 | 269 | [Alien Dictionary $](https://leetcode.com/problems/Alien-Dictionary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 270 | [Closest Binary Search Tree Value $](https://leetcode.com/problems/Closest-Binary-Search-Tree-Value/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 271 | [Encode and Decode Strings $](https://leetcode.com/problems/Encode-and-Decode-Strings/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
