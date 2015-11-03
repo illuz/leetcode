@@ -22,9 +22,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 296 problems (43 problems for a fee).  
+There are 300 problems (44 problems for a fee).  
 
-I have solved 221 / 253 problems.=w=  
+I have solved 223 / 256 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -236,7 +236,7 @@ I have solved 221 / 253 problems.=w=
 | 206 | [Reverse Linked List](https://leetcode.com/problems/Reverse-Linked-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/206.Reverse_Linked_List) | Coming soon |
 | 207 | [Course Schedule](https://leetcode.com/problems/Course-Schedule/) | &nbsp;&nbsp;&nbsp;[C++&nbsp;Python](./solutions/207.Course_Schedule) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/207.Course_Schedule) |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/Implement-Trie-Prefix-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/208.Implement_Trie_(Prefix_Tree)) | &nbsp;&nbsp;&nbsp;[Note Here](./solutions/208.Implement_Trie_(Prefix_Tree)) |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/Minimum-Size-Subarray-Sum/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/Minimum-Size-Subarray-Sum/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/209.Minimum_Size_Subarray_Sum) | Coming soon |
 | 210 | [Course Schedule II](https://leetcode.com/problems/Course-Schedule-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 211 | [Add and Search Word - Data struct...](https://leetcode.com/problems/Add-and-Search-Word---Data-structure-design/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 212 | [Word Search II](https://leetcode.com/problems/Word-Search-II/) |  &nbsp;&nbsp;Coming soon | Coming soon |
@@ -324,3 +324,7 @@ I have solved 221 / 253 problems.=w=
 | 294 | [Flip Game II $](https://leetcode.com/problems/Flip-Game-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/Find-Median-from-Data-Stream/) |  &nbsp;&nbsp;Coming soon | Coming soon |
 | 296 | [Best Meeting Point $](https://leetcode.com/problems/Best-Meeting-Point/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/Serialize-and-Deserialize-Binary-Tree/) |  &nbsp;&nbsp;Coming soon | Coming soon |
+| 298 | [Binary Tree Longest Consecutive Sequence $](https://leetcode.com/problems/Binary-Tree-Longest-Consecutive-Sequence/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 299 | [Bulls and Cows](https://leetcode.com/problems/Bulls-and-Cows/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/299.Bulls_and_Cows) | Coming soon |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/Longest-Increasing-Subsequence/) |  &nbsp;&nbsp;Coming soon | Coming soon |
