@@ -22,8 +22,10 @@ leetcode_book = [
     '296', '298'
     ]
 
-def get_solution_types_by_files(files):
+def get_solution_info_by_files(files):
+    solution_info = {}
     solution_types = set()
+    notes = []
     for file in files:
         if file[-3:] == 'cpp':
             solution_types.add('C++')
@@ -36,8 +38,10 @@ def get_solution_types_by_files(files):
         elif file[-3:] == 'sql':
             solution_types.add('Sql')
         elif file[-2:] == 'md':
-            solution_types.add('Notes')
-    return list(solution_types)
+            notes.append(file)
+    solution_info['types'] = list(solution_types)
+    solution_info['notes'] = notes
+    return solution_info
 
 def get_problem_map():
     global solved
@@ -53,19 +57,19 @@ def get_problem_map():
             continue
 
         problem_name = path[2:]
-        problem_map[problem_name] = get_solution_types_by_files(files)
+        problem_map[problem_name] = get_solution_info_by_files(files)
 
         # bypass leetcode book
         if path[2:5] in leetcode_book:
             continue
         total += 1
-        if problem_map[problem_name]:
+        if problem_map[problem_name]['types']:
             solved += 1
     # sort and generate
     return sorted(problem_map.items(), key = operator.itemgetter(0))
 
 def print_table(problem_map):
-    # global solved
+    global solved
     global total
     global leetcode_book
 
@@ -75,7 +79,7 @@ def print_table(problem_map):
     print ('| \# | Problems | Solutions | Note |')
     print ('|----|----------|-----------|------|')
 
-    for long_name, solutions in problem_map:
+    for long_name, solution_info in problem_map:
         link = 'https://leetcode.com/problems/'
         link += re.sub('_', '-', re.sub('\(|\)', '', long_name[4:])) + '/'
 
@@ -93,11 +97,11 @@ def print_table(problem_map):
         # exclude leetcode book
         if problem_id in leetcode_book:
             p += '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |'
-        elif solutions != []:
-            solution_string = '[' + ' '.join(solutions) + ']'
+        elif solution_info:
+            solution_string = '[' + ' '.join(solution_info['types']) + ']'
             solution_string = solution_string.rjust(15, ' ')
             p = p + re.sub(' ', '&nbsp;', solution_string) + '(./solutions/' + long_name + ') |'
-            if 'Notes' in solutions:
+            if solution_info['notes']:
                 p += ' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/' + long_name + ') |'
             else:
                 p += ' Coming soon |'
