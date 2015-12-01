@@ -9,7 +9,6 @@ import os
 import operator
 import re
 
-res = {}
 solved = 0
 total = 0
 leetcode_book = [
@@ -23,79 +22,89 @@ leetcode_book = [
     '296', '298'
     ]
 
-for root, dirs, files in os.walk('.'):
-    # pass .
-    if len(root) < 2:
-        continue
-    # fix gdb file in mac
-    if 'a.' in root:
-        continue
-    res[root[2:]] = []
+def get_solution_types_by_files(files):
+    solution_types = set()
     for file in files:
         if file[-3:] == 'cpp':
-            res[root[2:]].append('C++')
+            solution_types.add('C++')
         elif file[-4:] == 'java':
-            res[root[2:]].append('Java')
+            solution_types.add('Java')
         elif file[-2:] == 'py':
-            res[root[2:]].append('Python')
+            solution_types.add('Python')
         elif file[-2:] == 'sh':
-            res[root[2:]].append('Shell')
+            solution_types.add('Shell')
         elif file[-3:] == 'sql':
-            res[root[2:]].append('Sql')
+            solution_types.add('Sql')
         elif file[-2:] == 'md':
-            res[root[2:]].append('Notes')
-    
-    if root[2:5] in leetcode_book:
-        continue
-    total += 1
-    if res[root[2:]]:
-        solved += 1
+            solution_types.add('Notes')
+    return list(solution_types)
 
+def get_problem_map():
+    global solved
+    global total
+    global leetcode_book
+    problem_map = {}
+    for path, subdirs, files in os.walk('.'):
+        # bypass .
+        if len(path) < 2:
+            continue
+        # fix gdb file in mac
+        if 'a.' in path:
+            continue
 
-# sort and generate
-new_res = sorted(res.items(), key=operator.itemgetter(0))
+        problem_name = path[2:]
+        problem_map[problem_name] = get_solution_types_by_files(files)
 
-# table head
+        # bypass leetcode book
+        if path[2:5] in leetcode_book:
+            continue
+        total += 1
+        if problem_map[problem_name]:
+            solved += 1
+    # sort and generate
+    return sorted(problem_map.items(), key = operator.itemgetter(0))
 
-print ('There are {} problems ({} problems for a fee).  \n'.format(total+len(leetcode_book), len(leetcode_book)))
-print ('I have solved {} / {} problems.=w=  \n'.format(solved, total))
-print ('| \# | Problems | Solutions | Note |')
-print ('|----|----------|-----------|------|')
+def print_table(problem_map):
+    # global solved
+    global total
+    global leetcode_book
 
-for prb, cont in new_res:
-    link = 'https://leetcode.com/problems/'
-    link += re.sub('_', '-', re.sub('\(|\)', '', prb[4:])) + '/'
+    # table head
+    print ('There are {} problems ({} problems for a fee).  \n'.format(total+len(leetcode_book), len(leetcode_book)))
+    print ('I have solved {} / {} problems.=w=  \n'.format(solved, total))
+    print ('| \# | Problems | Solutions | Note |')
+    print ('|----|----------|-----------|------|')
 
-    if len(prb[4:]) > 40:
-        prb = prb[:37] + '...'
-    if prb[:3] in leetcode_book:
-        prb += ' $'
+    for long_name, solutions in problem_map:
+        link = 'https://leetcode.com/problems/'
+        link += re.sub('_', '-', re.sub('\(|\)', '', long_name[4:])) + '/'
 
-    p = '| ' + prb[:3] + ' | [' + re.sub('_', ' ', prb[4:]) + '](' + link + ') | '
-
-    # exclude leetcode book
-    if prb[:3] in leetcode_book:
-        p += '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |'
-    elif cont != []:
-        sol = '['
-        if 'C++' in cont:
-            sol += 'C++ '
-        if 'Java' in cont:
-            sol += 'Java '
-        if 'Python' in cont:
-            sol += 'Python '
-        if 'Shell' in cont:
-            sol += 'Shell Script '
-        if 'Sql' in cont:
-            sol += 'SQL '
-        sol = sol[:-1] + ']'
-        sol = sol.rjust(15, ' ')
-        p = p + re.sub(' ', '&nbsp;', sol) + '(./solutions/' + prb + ') |'
-        if 'Notes' in cont:
-            p += ' &nbsp;&nbsp;&nbsp;[Note Here](./solutions/' + prb + ') |'
+        problem_id = long_name[:3]
+        problem_name = re.sub('_', ' ', long_name[4:])
+        if len(problem_name) > 40:
+            short_name = long_name[:36] + '...'
         else:
-            p += ' Coming soon |'
-    else:
-        p += ' &nbsp;&nbsp;Coming soon | Coming soon |'
+            short_name = long_name
+        if problem_id in leetcode_book:
+            short_name += ' $'
 
-    print (p)
+        p = '| ' + problem_id + ' | [' + short_name + '](' + link + ') | '
+
+        # exclude leetcode book
+        if problem_id in leetcode_book:
+            p += '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |'
+        elif solutions != []:
+            solution_string = '[' + ' '.join(solutions) + ']'
+            solution_string = solution_string.rjust(15, ' ')
+            p = p + re.sub(' ', '&nbsp;', solution_string) + '(./solutions/' + long_name + ') |'
+            if 'Notes' in solutions:
+                p += ' &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/' + long_name + ') |'
+            else:
+                p += ' Coming soon |'
+        else:
+            p += ' &nbsp;&nbsp;Coming soon | Coming soon |'
+        print (p)
+
+if __name__ == '__main__':
+    problem_map = get_problem_map()
+    print_table(problem_map)
