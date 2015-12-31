@@ -40,10 +40,10 @@ public:
                             --k;
                     }
                 }
-                while (m < len && num[m] == num[m + 1])
+                while (m < len-3 && num[m] == num[m + 1])
                     ++m;
             }
-            while (i < len && num[i] == num[i + 1])
+            while (i < len-4 && num[i] == num[i + 1])
                 ++i;
         }
 
