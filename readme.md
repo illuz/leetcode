@@ -22,9 +22,9 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 ### Problems
 
-There are 300 problems (44 problems for a fee).  
+There are 334 problems (54 problems for a fee).  
 
-I have solved 223 / 256 problems.=w=  
+I have solved 224 / 280 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -145,6 +145,7 @@ I have solved 223 / 256 problems.=w=
 | 115 | [115.Distinct_Subsequences](https://leetcode.com/problems/Distinct-Subsequences/) | &nbsp;&nbsp;&nbsp;[Python&nbsp;C++](./solutions/115.Distinct_Subsequences) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/115.Distinct_Subsequences) |
 | 116 | [116.Populating_Next_Right_Pointers_i...](https://leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node/) | [Python&nbsp;Java&nbsp;C++](./solutions/116.Populating_Next_Right_Pointers_in_Each_Node) | Coming soon |
 | 117 | [117.Populating_Next_Right_Pointers_i...](https://leetcode.com/problems/Populating-Next-Right-Pointers-in-Each-Node-II/) | [Python&nbsp;Java&nbsp;C++](./solutions/117.Populating_Next_Right_Pointers_in_Each_Node_II) | Coming soon |
+| 118 | [118.Pascal's_Triangle](https://leetcode.com/problems/Pascal's-Triangle/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/118.Pascal's_Triangle) | Coming soon |
 | 118 | [118.Pascals_Triangle](https://leetcode.com/problems/Pascals-Triangle/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/118.Pascals_Triangle) | Coming soon |
 | 119 | [119.Pascal's_Triangle_II](https://leetcode.com/problems/Pascal's-Triangle-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/119.Pascal's_Triangle_II) | Coming soon |
 | 120 | [120.Triangle](https://leetcode.com/problems/Triangle/) | [Python&nbsp;Java&nbsp;C++](./solutions/120.Triangle) | Coming soon |
@@ -154,7 +155,8 @@ I have solved 223 / 256 problems.=w=
 | 124 | [124.Binary_Tree_Maximum_Path_Sum](https://leetcode.com/problems/Binary-Tree-Maximum-Path-Sum/) | &nbsp;&nbsp;&nbsp;[Python&nbsp;C++](./solutions/124.Binary_Tree_Maximum_Path_Sum) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/124.Binary_Tree_Maximum_Path_Sum) |
 | 125 | [125.Valid_Palindrome](https://leetcode.com/problems/Valid-Palindrome/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/125.Valid_Palindrome) | Coming soon |
 | 126 | [126.Word_Ladder](https://leetcode.com/problems/Word-Ladder/) | &nbsp;&nbsp;&nbsp;[Python&nbsp;C++](./solutions/126.Word_Ladder) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/126.Word_Ladder) |
-| 127 | [127.Word_Ladder_II](https://leetcode.com/problems/Word-Ladder-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/127.Word_Ladder_II) | Coming soon |
+| 126 | [126.Word_Ladder_II](https://leetcode.com/problems/Word-Ladder-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/126.Word_Ladder_II) | Coming soon |
+| 127 | [127.Word_Ladder](https://leetcode.com/problems/Word-Ladder/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/127.Word_Ladder) | Coming soon |
 | 128 | [128.Longest_Consecutive_Sequence](https://leetcode.com/problems/Longest-Consecutive-Sequence/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/128.Longest_Consecutive_Sequence) | Coming soon |
 | 129 | [129.Sum_Root_to_Leaf_Numbers](https://leetcode.com/problems/Sum-Root-to-Leaf-Numbers/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/129.Sum_Root_to_Leaf_Numbers) | Coming soon |
 | 130 | [130.Surrounded_Regions](https://leetcode.com/problems/Surrounded-Regions/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/130.Surrounded_Regions) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/130.Surrounded_Regions) |
@@ -212,7 +214,6 @@ I have solved 223 / 256 problems.=w=
 | 182 | [182.Duplicate_Emails](https://leetcode.com/problems/Duplicate-Emails/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sql](./solutions/182.Duplicate_Emails) | Coming soon |
 | 183 | [183.Customers_Who_Never_Order](https://leetcode.com/problems/Customers-Who-Never-Order/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sql](./solutions/183.Customers_Who_Never_Order) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/183.Customers_Who_Never_Order) |
 | 184 | [184.Department_Highest_Salary](https://leetcode.com/problems/Department-Highest-Salary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sql](./solutions/184.Department_Highest_Salary) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/184.Department_Highest_Salary) |
-| 185 | [185.Department_Top_Three_Salaries](https://leetcode.com/problems/Department-Top-Three-Salaries/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/185.Department_Top_Three_Salaries) | Coming soon |
 | 186 | [186.Reverse_Words_in_a_String_II $](https://leetcode.com/problems/Reverse-Words-in-a-String-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 187 | [187.Repeated_DNA_Sequences](https://leetcode.com/problems/Repeated-DNA-Sequences/) | [Python&nbsp;Java&nbsp;C++](./solutions/187.Repeated_DNA_Sequences) | Coming soon |
 | 188 | [188.Best_Time_to_Buy_and_Sell_Stock_IV](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-IV/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/188.Best_Time_to_Buy_and_Sell_Stock_IV) |
@@ -289,7 +290,6 @@ I have solved 223 / 256 problems.=w=
 | 259 | [259.3Sum_Smaller $](https://leetcode.com/problems/3Sum-Smaller/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 260 | [260.Single_Number_III](https://leetcode.com/problems/Single-Number-III/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/260.Single_Number_III) | Coming soon |
 | 261 | [261.Graph_Valid_Tree $](https://leetcode.com/problems/Graph-Valid-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 262 | [262_is_missing](https://leetcode.com/problems/is-missing/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/262_is_missing) | Coming soon |
 | 263 | [263.Ugly_Number](https://leetcode.com/problems/Ugly-Number/) | &nbsp;&nbsp;&nbsp;[Python&nbsp;C++](./solutions/263.Ugly_Number) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/263.Ugly_Number) |
 | 264 | [264.Ugly_Number_II](https://leetcode.com/problems/Ugly-Number-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/264.Ugly_Number_II) | Coming soon |
 | 265 | [265.Paint_House_II $](https://leetcode.com/problems/Paint-House-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
@@ -319,7 +319,7 @@ I have solved 223 / 256 problems.=w=
 | 289 | [289.Game_of_Life](https://leetcode.com/problems/Game-of-Life/) | &nbsp;&nbsp;&nbsp;[Python&nbsp;C++](./solutions/289.Game_of_Life) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/289.Game_of_Life) |
 | 290 | [290.Word_Pattern](https://leetcode.com/problems/Word-Pattern/) | &nbsp;&nbsp;&nbsp;[Python&nbsp;C++](./solutions/290.Word_Pattern) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/290.Word_Pattern) |
 | 291 | [291.Word_Pattern_II $](https://leetcode.com/problems/Word-Pattern-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
-| 292 | [292.Nim_Game](https://leetcode.com/problems/Nim-Game/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/292.Nim_Game) | Coming soon |
+| 292 | [292.Nim_Game](https://leetcode.com/problems/Nim-Game/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/292.Nim_Game) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/292.Nim_Game) |
 | 293 | [293.Flip_Game $](https://leetcode.com/problems/Flip-Game/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 294 | [294.Flip_Game_II $](https://leetcode.com/problems/Flip-Game-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 295 | [295.Find_Median_from_Data_Stream](https://leetcode.com/problems/Find-Median-from-Data-Stream/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/295.Find_Median_from_Data_Stream) | Coming soon |
@@ -328,3 +328,37 @@ I have solved 223 / 256 problems.=w=
 | 298 | [298.Binary_Tree_Longest_Consecutive_Sequence $](https://leetcode.com/problems/Binary-Tree-Longest-Consecutive-Sequence/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 299 | [299.Bulls_and_Cows](https://leetcode.com/problems/Bulls-and-Cows/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[C++](./solutions/299.Bulls_and_Cows) | Coming soon |
 | 300 | [300.Longest_Increasing_Subsequence](https://leetcode.com/problems/Longest-Increasing-Subsequence/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/300.Longest_Increasing_Subsequence) | Coming soon |
+| 301 | [301.Remove_Invalid_Parentheses](https://leetcode.com/problems/Remove-Invalid-Parentheses/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/301.Remove_Invalid_Parentheses) | Coming soon |
+| 302 | [302.Smallest_Rectangle_Enclosing_Bla... $](https://leetcode.com/problems/Smallest-Rectangle-Enclosing-Black-Pixels/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 303 | [303.Range_Sum_Query_-_Immutable](https://leetcode.com/problems/Range-Sum-Query---Immutable/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/303.Range_Sum_Query_-_Immutable) | Coming soon |
+| 304 | [304.Range_Sum_Query_2D_-_Immutable](https://leetcode.com/problems/Range-Sum-Query-2D---Immutable/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/304.Range_Sum_Query_2D_-_Immutable) | Coming soon |
+| 305 | [305.Number_of_Islands_II $](https://leetcode.com/problems/Number-of-Islands-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 306 | [306.Additive_Number](https://leetcode.com/problems/Additive-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/306.Additive_Number) | Coming soon |
+| 307 | [307.Range_Sum_Query_-_Mutable](https://leetcode.com/problems/Range-Sum-Query---Mutable/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/307.Range_Sum_Query_-_Mutable) | Coming soon |
+| 308 | [308.Range_Sum_Query_2D_-_Mutable $](https://leetcode.com/problems/Range-Sum-Query-2D---Mutable/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 309 | [309.Best_Time_to_Buy_and_Sell_Stock_...](https://leetcode.com/problems/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/309.Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | Coming soon |
+| 310 | [310.Minimum_Height_Trees](https://leetcode.com/problems/Minimum-Height-Trees/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/310.Minimum_Height_Trees) | Coming soon |
+| 311 | [311.Sparse_Matrix_Multiplication $](https://leetcode.com/problems/Sparse-Matrix-Multiplication/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 312 | [312.Burst_Balloons](https://leetcode.com/problems/Burst-Balloons/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/312.Burst_Balloons) | Coming soon |
+| 313 | [313.Super_Ugly_Number](https://leetcode.com/problems/Super-Ugly-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/313.Super_Ugly_Number) | Coming soon |
+| 314 | [314.Binary_Tree_Vertical_Order_Traversal $](https://leetcode.com/problems/Binary-Tree-Vertical-Order-Traversal/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 315 | [315.Count_of_Smaller_Numbers_After_Self](https://leetcode.com/problems/Count-of-Smaller-Numbers-After-Self/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/315.Count_of_Smaller_Numbers_After_Self) | Coming soon |
+| 316 | [316.Remove_Duplicate_Letters](https://leetcode.com/problems/Remove-Duplicate-Letters/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/316.Remove_Duplicate_Letters) | Coming soon |
+| 317 | [317.Shortest_Distance_from_All_Buildings $](https://leetcode.com/problems/Shortest-Distance-from-All-Buildings/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 318 | [318.Maximum_Product_of_Word_Lengths](https://leetcode.com/problems/Maximum-Product-of-Word-Lengths/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/318.Maximum_Product_of_Word_Lengths) | Coming soon |
+| 319 | [319.Bulb_Switcher](https://leetcode.com/problems/Bulb-Switcher/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/319.Bulb_Switcher) | Coming soon |
+| 320 | [320.Generalized_Abbreviation $](https://leetcode.com/problems/Generalized-Abbreviation/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 321 | [321.Create_Maximum_Number](https://leetcode.com/problems/Create-Maximum-Number/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/321.Create_Maximum_Number) | Coming soon |
+| 322 | [322.Coin_Change](https://leetcode.com/problems/Coin-Change/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/322.Coin_Change) | Coming soon |
+| 323 | [323.Number_of_Connected_Components_i... $](https://leetcode.com/problems/Number-of-Connected-Components-in-an-Undirected-Graph/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 324 | [324.Wiggle_Sort_II](https://leetcode.com/problems/Wiggle-Sort-II/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/324.Wiggle_Sort_II) | Coming soon |
+| 325 | [325.Maximum_Size_Subarray_Sum_Equals_k $](https://leetcode.com/problems/Maximum-Size-Subarray-Sum-Equals-k/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 326 | [326.Power_of_Three](https://leetcode.com/problems/Power-of-Three/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/326.Power_of_Three) | Coming soon |
+| 327 | [327.Count_of_Range_Sum](https://leetcode.com/problems/Count-of-Range-Sum/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/327.Count_of_Range_Sum) | Coming soon |
+| 328 | [328.Odd_Even_Linked_List](https://leetcode.com/problems/Odd-Even-Linked-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/328.Odd_Even_Linked_List) | Coming soon |
+| 329 | [329.Longest_Increasing_Path_in_a_Matrix](https://leetcode.com/problems/Longest-Increasing-Path-in-a-Matrix/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/329.Longest_Increasing_Path_in_a_Matrix) | Coming soon |
+| 330 | [330.Patching_Array](https://leetcode.com/problems/Patching-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/330.Patching_Array) | Coming soon |
+| 331 | [331.Verify_Preorder_Serialization_of...](https://leetcode.com/problems/Verify-Preorder-Serialization-of-a-Binary-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/331.Verify_Preorder_Serialization_of_a_Binary_Tree) | Coming soon |
+| 332 | [332.Reconstruct_Itinerary](https://leetcode.com/problems/Reconstruct-Itinerary/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/332.Reconstruct_Itinerary) | Coming soon |
+| 333 | [333.Largest_BST_Subtree $](https://leetcode.com/problems/Largest-BST-Subtree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
+| 334 | [334.Increasing_Triplet_Subsequence](https://leetcode.com/problems/Increasing-Triplet-Subsequence/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/334.Increasing_Triplet_Subsequence) | Coming soon |
