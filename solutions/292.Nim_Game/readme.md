@@ -14,4 +14,6 @@
 
 可以去了解下，入门：[博弈入门：从数学游戏开始](http://www.guokr.com/article/500/)，进阶的就去看 [Nim 的 Wiki](https://en.wikipedia.org/wiki/Nim) 吧。
 
+这题目可能有很多人看过，不过要讲清楚可能并不轻松。虽然解很简单，不过却是一道考察表达能力的好题。
+
 
