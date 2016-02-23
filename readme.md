@@ -24,7 +24,7 @@ Language: **C++/Java/Python/Sql/Shell Script**
 
 There are 334 problems (54 problems for a fee).  
 
-I have solved 224 / 280 problems.=w=  
+I have solved 225 / 280 problems.=w=  
 
 | \# | Problems | Solutions | Note |
 |----|----------|-----------|------|
@@ -355,7 +355,7 @@ I have solved 224 / 280 problems.=w=
 | 325 | [325.Maximum_Size_Subarray_Sum_Equals_k $](https://leetcode.com/problems/Maximum-Size-Subarray-Sum-Equals-k/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Buy | &nbsp;&nbsp;&nbsp;&nbsp;Not Buy |
 | 326 | [326.Power_of_Three](https://leetcode.com/problems/Power-of-Three/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/326.Power_of_Three) | Coming soon |
 | 327 | [327.Count_of_Range_Sum](https://leetcode.com/problems/Count-of-Range-Sum/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/327.Count_of_Range_Sum) | Coming soon |
-| 328 | [328.Odd_Even_Linked_List](https://leetcode.com/problems/Odd-Even-Linked-List/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/328.Odd_Even_Linked_List) | Coming soon |
+| 328 | [328.Odd_Even_Linked_List](https://leetcode.com/problems/Odd-Even-Linked-List/) | &nbsp;&nbsp;&nbsp;[Python&nbsp;C++](./solutions/328.Odd_Even_Linked_List) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Notes](./solutions/328.Odd_Even_Linked_List) |
 | 329 | [329.Longest_Increasing_Path_in_a_Matrix](https://leetcode.com/problems/Longest-Increasing-Path-in-a-Matrix/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/329.Longest_Increasing_Path_in_a_Matrix) | Coming soon |
 | 330 | [330.Patching_Array](https://leetcode.com/problems/Patching-Array/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/330.Patching_Array) | Coming soon |
 | 331 | [331.Verify_Preorder_Serialization_of...](https://leetcode.com/problems/Verify-Preorder-Serialization-of-a-Binary-Tree/) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](./solutions/331.Verify_Preorder_Serialization_of_a_Binary_Tree) | Coming soon |
