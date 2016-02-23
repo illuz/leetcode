@@ -82,7 +82,7 @@ def print_table(problem_map):
 
     for long_name, solution_info in problem_map:
         link = 'https://leetcode.com/problems/'
-        link += re.sub('_', '-', re.sub('\(|\)', '', long_name[4:])) + '/'
+        link += re.sub('_', '-', re.sub('\(|\)|\'', '', long_name[4:])) + '/'
 
         problem_id = long_name[:3]
         problem_name = re.sub('_', ' ', long_name[4:])
