@@ -10,14 +10,18 @@ import java.util.Scanner;
 public class Solution {
 
     public int reverse(int x) {
-        int ret = 0;
-        while (Math.abs(x) != 0) {
-            if (Math.abs(ret) > Integer.MAX_VALUE)
+        Long res = 0L;
+        Long tmp = Math.abs((long) x);
+        while (tmp != 0) {
+            res = res * 10 + tmp % 10;
+            tmp = tmp / 10;
+            if (res > (long)Integer.MAX_VALUE)
                 return 0;
-            ret = ret * 10 + x % 10;
-            x /= 10;
         }
-        return ret;
+        if (x>0)
+            return res.intValue();
+        else
+            return -res.intValue();
     }
 
     // debug
