@@ -85,7 +85,7 @@ This is **main dishes**.
     - (Think) How to write them bug free?  
   
 After getting accepted, don't close the page.  
-Just finish 7 and 8 steps, and you can get more technologe beyond the problems.  
+Just finish 7 and 8 steps, and you can get more knowledge beyond the problems.  
   
   
 ### Point  
@@ -99,7 +99,7 @@ Catch these points when solving problems:
 - analysis  
 - language features  
 - *test case  
-- *talk out  
+- *talk it out  
   
   
 ### Share notes  
@@ -111,7 +111,7 @@ Catch these points when solving problems:
 - **Write articles, notes in your blog and github.** ([like me](https://github.com/illuz/leetcode)) And you can review problems by them.  
   
   
-### Primium? Book?  
+### Premium? Book?  
   
 Some people think after paying a fee they will work harder.  
 Maybe it's true. But I didn't spend any money.   
